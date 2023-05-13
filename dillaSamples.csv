@@ -1,558 +1,743 @@
-song_name,artists,year,spotify_id
-Saudade Vem Correndo,Stan Getz and Luiz Bonfá,1963.0,3QxAadrRx8aSEVd6Qzr8KF
-Diana in the Autumn Wind,Gap Mangione,1968.0,2yONEvu95BwhLRS3oSyBsB
-Dreamflower,Tarika Blue,1976.0,4iyH37AHAkYK1MVhveeqcm
-Open Your Eyes,Bobby Caldwell,1980.0,5TA4he79xD3fpvy0sidiOV
-All I Do Is Think of You,The Jackson 5,1975.0,5GoheMjTcV8xbbUUWchvjl
-Swahililand,Ahmad Jamal,1974.0,7qwuryqoBBEH56d3iEhIBO
-Don't Say Goodnight (It's Time for Love) (Parts 1 & 2),The Isley Brothers,1980.0,6DVOThiin61bmeIwf6fzGx
-Footsteps in the Dark,The Isley Brothers,1977.0,1tL5a9jowsWMtn3wkFYsG9
-The Worst Band in the World,10cc,1974.0,0orDEh9TN4jkgnDIXJkXnN
-Think (About It),Lyn Collins,1972.0,1kG2PZ8geznbDA8I6iWeDi
-Theme From Midnight Express,Giorgio Moroder,1978.0,3CgonfeyRh23O9F4aKiIbW
-Clair De Lune,Isao Tomita,1974.0,7cwPQGHgob1v9pek8WnQRx
-To You With Love,The Moments,1971.0,7uVAH8sYi1u27FcB5m5sd1
-Shine on Straight Arrow,Cris Williamson,1971.0,1Ttf7o5eQj9kepWRZpo8nG
-You're Gonna Need Me,Dionne Warwick,1973.0,5ezYm2LkW25YhkkTp7bC9u
-E=MC²,Giorgio Moroder,1979.0,0oks4FnzhNp5QPTZtoet7c
-Blue in Green,Miles Davis,1959.0,0aWMVrwxPNYkKmFthzmpRi
-Django,Dorothy Ashby,1962.0,3YT2vdLbvfcjfCiNR4DsKT
-Love Ballad,L.T.D.,1976.0,3iCbTmcXnKlRZCdaYOukxq
-Lightworks,Raymond Scott,2000.0,3AygMhKDtZyzN8Ch0tcy3L
-I Can't Stand (To See You Cry),The Escorts,1974.0,28PZ40We0pLpkqfeGn2NPw
-Inside My Love,Minnie Riperton,1975.0,1HdNTlZrGTlgxDn31GB6Sv
-Clair,The Singers Unlimited,1974.0,1iXJKuzDH0E6PnTk2lQXAq
-UFO,ESG,1981.0,1LGvDKbk0qLtwXzyljS9H5
-Golden Apples - Part II,Galt MacDermot,1971.0,4upHDP3nzfFYotgyBAeOTF
-"Johnny, Don't Do It",10cc,1973.0,1Fem9jSJEleNWT1kgt70ST
-"I Don't Want to Leave You, I Just Came to Say Good-Bye",Shawn Phillips,1977.0,6c7L3B3v77NCu5y1eYysD1
-Sweet Stuff,Sylvia Robinson,1976.0,3rCrodlu30PI74r9bqi8ZW
-Will O' the Wisp,Steve Howe,1975.0,1bHk7YGS7eoFo0ZvXqPitP
-Phantom of the Synths,J Dilla,2005.0,6YbfTiImEm6kH6gRXpdtgR
-The Look of Love,Barney Kessel,1969.0,5r4CoRPXq8RGmrlVNzNJq5
-Maybe It's Love This Time,The Stylistics,1980.0,0Rw4aFSwMEhtVLzmy2xr5v
-To the Other Man,Luther Ingram,1972.0,1I3xgRAsHGDMaRHsawyN45
-Come Running to Me,Herbie Hancock,1977.0,3UvkoYw8FicuTMDPlkv0IB
-Family Tree,Tin Tin,1970.0,5l79pLYX6NwTa6FiT8Eoyo
-Scrabble,Rene Costy & His Orchestra,1972.0,57D5wx2wA0elP1zuWkBlJa
-Only One Can Win,The Sylvers,1972.0,4BLqx84IpussVxrUGOMLOX
-Groovin' High,Dizzy Gillespie,1949.0,4ttUzFCVnlOmopuzM4oEUJ
-El Arriero (El Pampero Live Version),Gato Barbieri,1972.0,4fnZciCjxRG0hDKNHfR6Zi
-Rubber Band,The Trammps,1972.0,13Mzsb8VzRSZ5w3pM48cn6
-Just Because I Really Love You,Jerry Butler,1968.0,0rLKAokRZwKWSiu06eSZiy
-Black Is the Color,Joe Sample,1993.0,70DaOMWmGdBGAuBVqL5I7P
-Wait for Me (Live),Daryl Hall & John Oates,1983.0,3wiM6jj066wDeNaCnxKsRk
-Morning Order,Hugh Hopper and Alan Gowen,1980.0,5a4MgIUSf9K8wXLSm6xPEx
-É Isso Aí,Baden Powell,1971.0,0XzYqo3Q7mS8nF8OD3teoY
-My People...Hold On,Eddie Kendricks,1972.0,5zKAlrdrdEkBkylhwT3cqH
-Stuffed Aubergine,Vangelis,1971.0,36qn2bFfZzUwM6eIv2XOc9
-I Don't Really Care,L. V. Johnson,1981.0,3NXZvTvYkp7ZE7A2vHOXlF
-"Share What You Got, Keep What You Need",The Modulations,1975.0,6VZRuXs9ubfs9shrXcOV1Z
-Sing Me Softly of the Blues,Gary Burton,1967.0,0CMO8upTEJuBGtlEpBv0zL
-Vulcan Mind Probe,George Duke,1982.0,7kuo8SpSGkn7f3ISWdGcr0
-For Once in My Life (Live),Stevie Wonder,1969.0,4kP69y3GKHi9tXckfgp4bK
-When I Die,Motherlode,1969.0,2h7A00Xc3UHDyGSLpKnBxa
-Life,Funky Cowboys,1997.0,5YIF6HSOtHN9HdcE5IPzMe
-Speak Your Mind,Kevin Moore,1980.0,6zozkHIrxeMJDExQ83WUYb
-The Colorado Trail,Dave Grusin,1976.0,1PgOvjozYVZ03qBJDwuyhd
-Tama,Tonto's Expanding Head Band,1971.0,5zJvuQbOLLAJ1oaa3UI51o
-Much Better Off,Smokey Robinson and The Miracles,1968.0,42V7F468ieBbxKwaxBlpls
-A Legend in Its Own Time,Smokey Robinson and The Miracles,1969.0,7LyjOVrLQVCNk2CIZmAJJb
-Cum on Feel the Noize,Neil Innes & Son,1980.0,6FBmHx1FuaSnTnnnaThgbF
-Genius of Love,Tom Tom Club,1981.0,6UBQONiLH8kNmmB8UrV2Ef
-Ain't Got Time,Roy Ayers Ubiquity,1971.0,66BTx0xlzyEVhYSbWv4VW3
-Air Born,Camel,1976.0,2k1NQW6ddGacCthIy9gmTa
-Le Bracelet,Alain Goraguer,1973.0,04uauFxLrz9VTsqQpsGKMa
-Trouble,Brenton Wood,1967.0,5Bqy1zVxYrmr9eZVUeb3OC
-God Is Love,Marvin Gaye,1970.0,0osLiChas8MULX2V1Ak6Ji
-Maimoun,Stanley Cowell Trio,1973.0,1RaQG7aC2BxG4SP1UiX2Kt
-Afro Blue,Dee Dee Bridgewater,1974.0,2eAobEDmJeH1ypY6X3Dstl
-You Are Just a Living Doll,J.J. Barnes,1973.0,0DElF1k1KEGkRcMtQcHOYH
-The Stars Are Out Tonight,Starcastle,1978.0,71V89tJj9CboDyzncO6ZN2
-Daylight,RAMP,1977.0,2B2MpyO86cVAVjNyBDhXYc
-Come and Play in the Milky Night,Stereolab,1999.0,5Aon86qtmerQqXTYyEx9Vh
-Soul Love,David Bowie,1972.0,1bo6xzrCrK7ocEirC5rrZk
-Sunset in Golden Horn,Les Mogol,1972.0,3fkoZm1DZEfsyAx1Z87bKR
-Lamento Di Tristan / La Rotta,John Renbourn,1970.0,1ji33FsoYKyTHOA1xH3pzz
-Radio (Times Square),"Gary Burton, Steve Swallow, Roy Haynes and Tiger Okoshi",1978.0,06USyjxn8KN0NJf47KRf1y
-Maybe,The Three Degrees,1970.0,02srSkeu2pzybuVr2B9TJm
-Windy C,100% Pure Poison,1974.0,5WNheu2jm9ynRLKroSyqEo
-Early Morning Clown,Nektar,1974.0,2pi2DE5vQg1ia7wO4rKbhb
-"Holding You, Loving You",Don Blackman,1982.0,5Jgj5Yo5deJ2RPlixBm88u
-"A Very Smelly, Grubby Little Oik",Caravan,1976.0,2Xtsv7BUMrNodQWH2JPOc0
-Give It to Me Baby,Rick James,1981.0,13v3siPyvy5TTEZYmGPPse
-What Makes You Happy,KC & the Sunshine Band,1975.0,37d8O4cIq36tssCoJnhJxg
-Fruitman,Kool & the Gang,1974.0,3K7Q9PHUWPTaknlbFPThn2
-Opus Pocus,Jaco Pastorius,1976.0,1hk6KMDQwGWsdy08PYotmM
-See You Later,Flip Nunez,1976.0,7FKkswFflI5Txc3Y4gH0IB
-For the Love of You (Part 1 & 2),The Isley Brothers,1975.0,7teF2kwC3GL00mQfwtxzo9
-The Advent of Panurge,Gentle Giant,1972.0,7BCG8qrwGFsTMT3R4AhF10
-We Must Be in Love,The Impressions,1969.0,1ZgP9d8OaiBCUQKOrvbAsH
-Toccata and Fugue in D Minor,Mike Hankinson,1972.0,5cYyCE4b3T5TdQ3sGg8CYc
-Take Me to the Mardi Gras,Bob James,1975.0,6i5U5NyCknF93w4BilFity
-Baby,J Dilla feat. Madlib and Guilty Simpson,2006.0,0wotldYXx2K5HH0CwhzYrX
-Light My Fire,Africa,1968.0,5EWMey6EWacf5tu8X2JOeQ
-Two Lovers History,Mary Wells,1968.0,00CmjeeHvAVKvx3tcIiZTy
-Via Beato Angelico,Perigeo,1974.0,6JEevQAcV4n1uhhZTxp7Zs
-Watermelon Man,Herbie Hancock,1973.0,2zQl59dZMzwhrmeSBEgiXY
-Nautilus,Bob James,1974.0,2emP5oaNH6cwFsugIPqVau
-Dance Girl,The Rimshots,1975.0,7cvkXf3AwPGT041PyOi5VX
-I Thought It Was You,Herbie Hancock,1977.0,0taRW8bPp2xW6ewm6PDMTZ
-Extra Dry,Thomas Bangalter,1998.0,2eE7XVOlLtl3ZnZd6wuGOJ
-Moonshine Rider,Lucifer's Friend,1976.0,4qbH44CRMceb1NjGXoO5Po
-Dancing Machine,The Jackson 5,1973.0,0xqb2Euq1PAxKHBA36NUnx
-(I Know) I'm Losing You,The Undisputed Truth,1975.0,1by5g6VtXu7GU8Lteg5KUs
-First Light of the Morning,Dexter Wansel,1977.0,2v5ipbPg5O86hyp9SSaHb2
-You Can't Take It When You Go,Dave Mason,1974.0,7qpuECko60EoztznowMWj1
-Kisses Sweeter Than Wine,Robert DeCormier Singers,1967.0,5xrTplmrJaHuFRrXXpgYv5
-Once It Was Alright Now (Farmer Joe),Laura Nyro,1968.0,5rCdQrwqLE30EmRNAwsyhU
-You've Got the Love I Need,Smokey Robinson and The Miracles,1970.0,7ifcJ5DDytGf8aITxmgsLN
-Walk on By,The Undisputed Truth,1973.0,1X9m2vctL8evJnZhCqEbUg
-You Just Can't Win (By Making the Same Mistake),Gene Chandler and Jerry Butler,1970.0,6Hy22YDN9HJMRlJP1LwnJy
-It Was a Very Good Year,Craig Hundley Trio,1968.0,2ID3rNM3hFBjqrLcV0Wr0y
-Bicentennial Present,Peter Baumann,1976.0,3PMQJBG74UpBYYtW0vwWvb
-A Time for Us,Joe Pass,1969.0,5ALMF4Z6a9VUl66LHVHjBl
-The Awakening,Ahmad Jamal Trio,1970.0,4QC4XLTPHiSdexDsKO5Vi7
-Evening Star,Yutaka Yokokura,1978.0,4azoV50K4s4eBkGRHSVWYV
-I Think I'll Catch a Bus (And Go Back Home),The Gainsborough Gallery,1969.0,6yOxL1xfPkv9Z9zvpNrMDU
-Whatcha Gonna Wear Tomorrow,Detroit Emeralds,1973.0,6UBvhlms1M16oUYZkEfqpy
-Papa Was Too,Joe Tex,1966.0,1whTvmjrBnzDBmyMpLzlqk
-Make the Move,Kenny Loggins,1980.0,4z9HYZuOA4hxGkqsaTj59n
-Indiana,Zoot Sims and Bucky Pizzarelli feat. Buddy Rich,1974.0,6OB0RIqwXwXBFpi3Qn1ndS
-Wax & Wane,Dorothy Ashby,1970.0,3maOEqyMVU4V9m1lx1zN6H
-Eleanor Rigby,Four Tops,1969.0,6q8NBpF6twALMb86FBpLgQ
-They Reminisce Over You (T.R.O.Y.),Pete Rock & C.L. Smooth,1992.0,2Mb3zpobD0CvJGWv6NpsPy
-A Tribute to Wes,Little Beaver,1974.0,3DOdGoUBGnD8FUQDqCbLrY
-Invitation,The Four Freshmen,1959.0,21jEuMn2lf37715rwjow2M
-Jonz in My Bonz,D'Angelo,1995.0,7114JMdpaHhNEOlIY0Ljze
-Shoe Salesman,Alice Cooper,1970.0,5XcZRgJv3zMhTqCyESjQrF
-Plain Truth,Gentle Giant,1971.0,3nn6UD1JIeLe7KmK5cv6rd
-Does Anybody Know I'm Here,The Dells,1969.0,5O5AwtNW8jjhTfM98LmuG1
-Nothing's the Same,Banco Del Mutuo Soccorso,1975.0,3vSLSOhE8HWBC2WiN0j0hD
-Sweet Misery,Martha Reeves,1974.0,2fiu7gHgMvJbwdAhXro5rb
-Long Red,Mountain,1972.0,6OXCZPDdCCKN759Y2Aa26Y
-Animosity,Fred Weinberg,1968.0,39v0PIZDBGdEbcfbYE2TCj
-Moments in Love,Art of Noise,1983.0,2bsczk82MWGPmTbe6IWYsa
-One Way Ticket (To the Blues),Barry Blue,1974.0,0meAc2H0tC5tOTd6MDe0cI
-Dernier Domicile Connu,François de Roubaix,1970.0,54lPGCMFPBDjRBWDjNRdHR
-It's a Man's Man's Man's World,James Brown,1966.0,3SQ9Hb9rfpJ02AWfaOPhpy
-Nothing Seems Impossible,The Emotions,1972.0,7Jj5TwiYDVXPTAHlpS5TiF
-Fly Me to the Moon,Vince Guaraldi Trio,1989.0,7FXj7Qg3YorUxdrzvrcY25
-Time: The Donut of the Heart,J Dilla,2006.0,6ywnTBL62OTd8HUaztJizb
-They're Off to Find the Wozard,The Wozard of Iz,1968.0,3cT2knV4AvpBPGUmYxIonh
-Whole Lotta Love,Led Zeppelin,1969.0,0hCB0YR03f6AmQaHbwWDe8
-Verses From the Abstract,A Tribe Called Quest,1991.0,6zrsmzrMoxNkXEQLubCWtA
-Middle of the Night,Lalo Schifrin,1979.0,3riHHRLTFgNfegt7fzdm8i
-Herman Wright,Larry Coryell,1969.0,3uIfRksE9UPDXaKdPs3IXS
-Diamond Girl,Seals & Crofts,1973.0,7CQQBWqFfROA5RWyY04ifv
-Pain,Ohio Players,1971.0,01NsJ6eZGuF0dWVtGtFYh3
-Moonchild,King Crimson,1969.0,32GKpDMBMNQI3FdXlFFsMD
-King Heroin,James Brown,1972.0,0zu7GG2nftctpGY7WAYfhW
-Aquarius/Let the Sunshine In,The Moog Machine,1969.0,0jEd8otuJyoFGojLtOmzl0
-A Treatise on Cosmic Fire: Intro - Prana,Todd Rundgren,1975.0,0QtrSCEezodsQ7pHXsIvc8
-Rock On,David Essex,1973.0,0uPIwcT6OdJ5BAJdYkxVp9
-I'm Hooked on You,Al Green,1974.0,10vkYRKw6Jjr7try1ir50G
-Talybont,Gentle Giant,1975.0,3KUzngWbwJ5a38toqxM1HY
-Can't You See It's Me,Diana Ross and The Supremes,1969.0,79Yk6AlSKi5dxDFINID2hS
-Turn Off the Lights,Larry Young,1975.0,4ptnQ0kQnN1U1Ig8TSslj6
-Yesterday,Gladys Knight & the Pips,1968.0,3QgSJ9CqgLPk9B4xLdwLrS
-Catherine of Aragon,Rick Wakeman,1973.0,3bFue3Ib0IsxhkvM7BsIiS
-Gimme Little Sign,Brenton Wood,1967.0,1h4XVjt26ZCDKmeEoHxT07
-Run Through the Jungle,Creedence Clearwater Revival,1970.0,5VfgDw3oOzcNoszDwkLQhH
-Cidade Vazia,Milton Banana Trio,1966.0,6IY2P99JNJXMYEPCEUoXRy
-The Smile,David Axelrod,1968.0,5T5MLNxEg0h6lGWRetSZPV
-Daquilo Que Eu Sei,Joe Pass,1985.0,0cNc2tivyPqzgp13BSM7St
-Summer in the City,The Lovin' Spoonful,1966.0,7AzFID6u1b3zIWbd9pb8Dk
-San Juan Sunset,Deodato,1978.0,0Pq0mOdgFXTezl6mMt8a39
-Remind Me,Patrice Rushen,1982.0,4nFtNdjJtuRXmThiJo7Z5t
-Are You All the Things,Bill Evans and Eddie Gomez,1974.0,3KHadZNkrxLXgR8ji3cScB
-Daphnis Et Chloé: Suite No. 2,Isao Tomita,1979.0,1xbCmCTvzd6nhbTJIg5pFu
-Cars,Gary Numan,1979.0,4QQEzkxcONBthDLfzqIh9S
-Track 09,J Dilla,2005.0,4S6Bo2c9FzVaq0vdqqLqgU
-Ponteio,Sérgio Mendes,1968.0,0999z9YuguBAfivqf4PpDX
-Funky Drummer,James Brown,1970.0,0VbpqlboEkGQ7Pu6juJljZ
-Psyché Rock,Pierre Henry and Michel Colombier,1967.0,1SeFJKXiXP8o374gDUylL9
-Alpha,Vangelis,1975.0,1qkp9OvCk8FjeDdEd2bKQ6
-Don't Stop What You're Doin',Alicia Myers,1981.0,3BgU91zcmjGqjk3GciEh5b
-Eleanor Rigby,Wendy Carlos,1975.0,6EOKwO6WaLal58MSsi6U4W
-Sexy Mama,The Moments,1973.0,5ChVinzHHiPyUAbQhB4w3g
-T.T.T. (Twelve Tone Tune),Bill Evans,1971.0,1cpANF6zMBoFoxkoIjZHjv
-Risin' to the Top,Keni Burke,1982.0,5iVxHPyHVO7vWSDnRpNH5d
-You Make Me Feel Like Dancing,Leo Sayer,1976.0,6gTrbqZnyljwXdYQTyBkSx
-Escape (I Need a Break),Whodini,1984.0,2n3GMJ9jj7MU1Lw7QAhJm7
-One for Ghost,J Dilla,2006.0,08BY6BAxMOZ76RKIcupvXR
-Introduction,"Bel-Sha-Zaar, Tommy Genapopoluis and The Grecian Knights",1969.0,2Rlso2ZNV0PaWwUYeeBYxx
-Pictures of Matchstick Men,Status Quo,1968.0,0MRs5O62wfDgf5cQKalrPq
-Procession,The Moody Blues,1971.0,6L5BZEcZmD6RBJnimzlyKr
-Make Love,The Travel Agency,1968.0,3zo93Swpm7wIkLJEFc1DIL
-Movement 1 (Soil Festivities),Vangelis,1984.0,2OIcJNXh2RKY9i13XN7d11
-Wring Out the Ground (Loosely Now),Egg,1974.0,7cxcMgTHKSZ25C0q1i50Dk
-It's About Time,H. P. Lovecraft,1968.0,3aabBAjWkJZhD8Y8zfzTF2
-Take Me,Fabulous Souls,1971.0,7LyBijjHIOoO8CSxVwVRKM
-Canto De Ossanha,Dorothy Ashby,1969.0,4yCohBrqXj0iFdeuQK7AkO
-Annabelle Clark,The Cake,1968.0,0gPpxPmn0Cr0pKeeuyahZX
-Asiko (In a Silent Mix),Tony Allen,1999.0,6VJxaWAaMSKZsZNtZxpVan
-Occapella,Ringo Starr,1974.0,1hxbW2aQxmFSChaFeOeD5K
-"Three Dances From ""Nutcracker Suite""",Walter Carlos,1975.0,0CJuLeZpCdqrqoCMXWZw8k
-Dead,Cresa Watson,1970.0,1AmuWlitn88JeMvIVbT4Jg
-Look of Love,Ray 'Funky Trumpet' Davies,1967.0,6HvUtPLqkP0t6zd6YNdWby
-Lady Ostrich,Pookah,1969.0,5wTuwHjZ7bbaAkf2vqFS37
-Let the Sunshine In,Mort Garson,1969.0,5G7eMQn03ikTyrIM7PWL7t
-Rain Dances,Camel,1977.0,20ItjRPMSnOXezouvde0k9
-Problems,Lee Fields,2002.0,1emxi7e5EWFsJmwSKTuUDH
-The Wisdom of Time,The Supremes,1972.0,06A4NOCfI6WyixbKbxg4LW
-Why Is That?,Boogie Down Productions,1989.0,7IsDxjibIjtXXZKQH0Zxud
-Let the Dollar Circulate,Billy Paul,1975.0,3ihmJ6AKx2BC6vWhx25eaH
-Chillin' Out,The Fatback Band,1980.0,0EdED1sDvu0BH6HEirMClE
-Cosmic Mind Affair,Acqua Fragile,1974.0,6y0Etr2KJr0sdcEp7ajoUK
-"Make It Fast, Make It Slow",ROB,1978.0,2pjldV28AOlRL9QOZxdFu5
-My Baby Must Be a Magician,The Marvelettes,1968.0,1CmylxKewaz3wVVgYcPzmb
-"Heartbreaker (Part I, Part II)",Zapp,1983.0,487lDz6QPxnAgrVTpykRHb
-Cold Blooded,Rick James,1983.0,7LHfhusSfulgzuiMg7e3Cz
-Hold Tight,Change,1981.0,3HmU74RIPV2LgkjJUeU7Cd
-Michelle,The Singers Unlimited,1972.0,7ijbbG90SkjSKO9oZ0N8vR
-The Clapper,Joseph Enterprises,1984.0,00lemnC7rWUV2tOCnPegvU
-Comin' From All Ends,The New Birth,1974.0,494DXMQIWCdr4qUdO88wRL
-You Call It Madness,Clare Fischer,1970.0,2RZxw2tD8VenO9k5vawirO
-Five to One,The Doors,1968.0,5FlBGGwGuqYmqr0qeBWrxe
-Why Is Now,Les McCann,1975.0,2RExPsuk58t5LFadfzcZ6k
-The Rainmaker,The 5th Dimension,1971.0,0HZlND4giwzgolBpaNIRGV
-Spirit of Summer,Deodato,1972.0,4IaalxlQr40ydpKxEFg8sm
-Eric B. Is President,Eric B. & Rakim,1987.0,3a8r3EYOFZB7cT1OkK4zXF
-Dream Suite,Dreams,1970.0,3RznzRnsl8mzP63l4AF2M7
-Stay With Me,Gary Davis,1982.0,2WYs5LxOZfEyURXu7V0O1a
-Clover,"Earth, Wind & Fire",1973.0,5ytPMYb6dkoli8sNSEsdmZ
-Kazooed on Classics,Temple City Kazoo Orchestra,1982.0,4vUFscDzST4yiAu5F8rbuW
-Bacharach-David Medley,Carpenters,1971.0,5GZTkT6Oe7Ub2Nh4X9eQDc
-Glowin',The Rationals,1969.0,4DaShac4Lp2LdpNZfKHZ9K
-Me and the Gang,Bohannon,1978.0,0wrWxW18WK2MkrfDpRHkyh
-Necronomania,Manfred Hübler and Siegfried Schwab,1971.0,0AoBVHrn422YM52l4TAS0P
-Eldorado,Electric Light Orchestra,1974.0,2hdqQznTXT1M96p0v64ABI
-Quiet Lady,Thad Jones and Mel Lewis,1974.0,6TkAWagMMPHBooHfZJRNLA
-Affolements Grantiques,The Camarata Contemporary Chamber Group,1970.0,0XjjTnx1wO1ybEAjbX4qTd
-Is This What Feeling Gets? (Dorothy's Theme),Diana Ross,1978.0,04WKUKU3DJSuefjv67ZiwV
-You're the One for Me Bobby,The Marvelettes,1968.0,3s2inuLbQQZ7z1GJrdlQr6
-Frantic Moment,Eddie Hazel,1977.0,4dTyaSoGAyvzvnCY5VDJjE
-Maxine,Bill Evans,1978.0,3f9KhpRN6mMYoVnpuozgHD
-Hold You Close,P'taah,2003.0,6mk4y7ds78IC01dVJTuq9n
-Bettina,Bola Sete,1971.0,5Uh3QIc00mXWNQ059q1iwD
-Handclapping Song,The Meters,1970.0,3COOd5xqfP3VUeTZtUKcvD
-The Revolution,Joe Bonner,1988.0,4xm2HjtDAdCobewPoaImT7
-I Get Around,2Pac feat. Shock G and Money-B,1993.0,4voEoczU7Ijborps9XF1n3
-Deus Brasileiro,Jackie & Roy,1968.0,3yrIABy4sW4veVQYCjGRiM
-Red Clay Live,Freddie Hubbard,1980.0,2JdllRPH6a8NCpt2bpxpns
-One More Try,Billy Preston and Syreeta,1981.0,72PoJMDfdaw9gGECgA9kTZ
-Cu Oonuh,Reggie Stepper,1993.0,5WtvWU8nY4S9SLMERRbzHy
-Norwegian Wood,Gary Burton,1966.0,4Dg8h2SORZE3lvxMvpKs7L
-Upper Egypt & Lower Egypt,Pharoah Sanders,1966.0,2gbnEaRAcPw30t7RHYczNd
-The Great Pretender,Brian Eno,1974.0,2FkCjtQ1lYsf71s2FAS8hE
-"On a Clear Day, You Can See Forever",Barney Kessel,1971.0,6uddYxVxC6qX5PSPzAylid
-More Bounce to the Ounce,Zapp,1980.0,1LiwqqaafXkNQuWGW3HeId
-The Affair,Brother to Brother,1974.0,2Qv7LbOFsvrxMpymWAA5fg
-Jimbrowski,Jungle Brothers,1987.0,1xeIUjs1kAeTFO00YuZBOY
-Healing Force,Don Pullen,1976.0,2AHQFMOrR13phXE9wImOM2
-Silhouette,The L.A. Express,1976.0,2AQYukwFO6e5PZbXthkFu3
-Oh No I Don't Believe It,The Fraternity of Man,1969.0,0U2TocFjqul3sis3sE5jZl
-Sugar Me/ Standing in the Road,Klaus Wunderlich,1975.0,5wDuIDsCWKSROQY3JlDEuV
-Light My Fire,Shirley Bassey,1970.0,2RxYGOHMSm6nc9q9xyLtYq
-Funkin' for Jamaica (N.Y.),Tom Browne,1980.0,55xXj4qc4ByMxcVRb5Slc4
-Wonderin',Roy Haynes,1979.0,2fxxIi9isEewbcaoqhksZf
-The New Style,Beastie Boys,1986.0,0Mu1MYdE414HeybYSms5KK
-Lightworks,J Dilla,2006.0,0TIItu69NmCbgvJUD0Zbnb
-Searching,Roy Ayers Ubiquity,1976.0,5le4sn0iMcnKU56bdmNzso
-The Windmills of Your Mind,Dorothy Ashby,1969.0,6no0N476tAU1oJM7fZiP5Y
-Brazilian Skies,Bill Summers,1976.0,3bMc9oRaUWnojCrYTUXXcQ
-Baroque-A-Nova,Mason Williams,1968.0,2ff6ILugtshFUiWIVu83B9
-Space Talk,Asha Puthli,1976.0,4jTXmhMv91Fq0ivNQDzhPh
-Edges of Illusion,John Surman,1979.0,3PZ0RoABbjIZhqvfFizOqa
-Razor Blade,Little Royal & the Swingmasters,1972.0,62CupEWMuV8HBONjBTzhmz
-Basketball Throwdown,The Cold Crush Brothers and The Fantastic Five,1983.0,6ZxrUCaynLgKSUudACOTwj
-Much More,De La Soul feat. Yummy Bingham,2003.0,5zEP0MRnDe5qwL361xBz0B
-God Gave Rock 'N' Roll to You,Argent,1973.0,7kkLBfxW41iVO0cdLU9e9S
-The Moving Finger,Dorothy Ashby,1970.0,2CPFaD7XlLP1ahIhjrvR84
-Ashley's Roachclip,The Soul Searchers,1974.0,5KTc1UNNv8HaVFSgRy4gbR
-Malaguena,Martin Denny,1964.0,7cUERcVjFFRyADVPHv3BVs
-"Yes, Yes, Yes",Bill Cosby,1976.0,1fTvDXpyCM0oZsBMr3N6Y2
-Ecstasy,Ohio Players,1973.0,2uWtTxCyNwIngEd9qXBAvA
-Sir Lancelot and the Black Knight,Rick Wakeman,1975.0,2iX5qp2InnOoYFzJQecabR
-Nite and Day,Al B. Sure!,1988.0,3r0Rhl5Zdo9YjACZNsaBvN
-Come Give Your Love to Me,Janet Jackson,1982.0,6IyzR0X4glFMP4KEjPKHm9
-A Chunk of Sugar,Roger,1981.0,0N2roHDNPO5wQzdhRW4hne
-A Message From the Inner City,The Crusaders,1972.0,1n8HIzFUOJ0nII0xka0fBs
-Before the Dawn,Patrice Rushen,1975.0,3ZP4fTXsJ2DfLqR5xG4aR4
-Paradise,Sade,1988.0,2KpjKWyj0TI0FmGgENEKr6
-Do My Thing,Busta Rhymes,1996.0,6n2GPvMJtFZ4ckoc9EWHMx
-Human Nature,Michael Jackson,1982.0,4cgjA7B4fJBHyB9Ya2bu0t
-Drink,Dorothy Ashby,1970.0,1PoGWZbJPGmViVi7CYbDUK
-Berimbau Carioca,The L.A. Four,1975.0,4wia0UJ0Irt6KD00jUFXq2
-One Loving Night,Bob James,1977.0,2dg3KwUHPMn3n6haPT4pTw
-Love at Last,Monty Norman,1963.0,4Hhv2vrOTy89HFRcjU3QOx
-For the Love of Money,Disco Dub Band,1976.0,1Q4ieeGAQOfaE9FuuK2O7t
-There Are No Words,Todd Rundgren,1970.0,10XplsthOjB4hde5KIimEM
-Here We Go (Live at the Funhouse),Run-DMC,1985.0,6rs1Jt3bqNdPN01kQeAXX5
-Boa Palavra,Sérgio Mendes,1968.0,6War35N56Qw5C2FWShdA3q
-Heartbeat,War,1975.0,7FC9Lng8iXU081lbigu8m8
-I Like the Way You Love Me,Brenton Wood,1967.0,0nNavzWSD6AUiQK2rLgbBx
-When You Feel the Love,Rodney Jones,1981.0,1XfkneVjMAH5SgfO6KsDkB
-King of the Beats,Mantronix,1988.0,3Miruku2Myz4Rb40y1XpI7
-High Society,Special EFX,1985.0,0dzEsIpdf4DF0ei2WmeQYZ
-Sequent C,Tangerine Dream,1974.0,2hRsN3reHuwyLaHq2S1z0Q
-Folks,Miroslav Vitous,1976.0,02sUId0qMdZHGscosyeDQq
-Sketches of Mythical Beasts,Synergy,1978.0,6X2N1J8FPjnSW1NLoGRTPP
-Catch a Star,Men at Work,1981.0,3ZZq9396zv8pcn5GYVhxUi
-Gobstopper,J Dilla,2006.0,39XY5TmM47I3WsO07knVZg
-Never Too Much,Luther Vandross,1981.0,3nFJbZCHP4d9vduKjJLdBL
-Then,Yes,1970.0,3skk6UIXV4kepq2bdYy97g
-More Than Just a Joy,Aretha Franklin,1978.0,4yQw7FR9lcvL6RHtegbJBh
-Life Goes On,Utopia,1980.0,2bSk87AVkCIIC3Bcligq1z
-Lonely Man,Johnny Adams,1970.0,2NkY19YwDttHE4K5xM6mwp
-Sweet Inspiration,"Diana Ross, The Supremes and The Temptations",1968.0,3Ec9T8CmpAI55M1HCyy1IT
-Mask Movement IV,Vangelis,1985.0,2rXZPurSAIa0cc5d6Ezt3S
-You Belong to Me,The Doobie Brothers,1977.0,1qrpoAMXodY6895hGKoUpA
-Animal Planet,GZA,2002.0,5JAMS3p3wOHcVzKajhIy4D
-Our Delights,Bill Evans,1956.0,37vEa9sfgAqEZuqX8AX0Zk
-Mental Door,Klaus Schulze,1975.0,2McDV0nVZ1FcC8ZfwWI6zj
-Front Street,1st Down,1995.0,0H58Pw0kT7fNadPdUmipyr
-Do the Funky Penguin,Rufus Thomas,1971.0,0PxsrYl9gj445HDcF58unk
-Meadow of Infinity Part 1,Peter Baumann,1976.0,02C6UlOJSBbMUuSRWhHHh2
-Katalin,Special EFX,1984.0,2x2crcqmFd0q3o0apXqpgl
-Last Donut of the Night,J Dilla,2006.0,2zdg5ICoK5WGKCpX1LAdOf
-Bad Boy for Life,"P. Diddy, Black Rob and Mark Curry",2001.0,2eOuL8KesslTLQERQPu11D
-M3000 (Opus VI),Mandré,1979.0,2aDdlDnP6Xd3vLb09yvQVq
-Doowutchyalike,Digital Underground,1989.0,6J8QSbWiJOlVrRCLMTid7F
-Cybersports,Synergy,1976.0,6jqvbCajA0NIkVADIFnNrT
-Effi,Max Roach,1968.0,3HqkZQP8zPRathO94XQLCC
-Peaceful Sundown,Jan Hammer Group,1977.0,0xfOvIRVN08EgN2wB0LyWY
-Where or When,Cal Tjader,1964.0,2AFLjcssAvJq62eeHZ0Q4q
-Hey Hey Hey Heyyyy,J Dilla,2005.0,0Vg1lQpk2IHk2JU8UfAa5d
-Trashy,Jay Dee,2003.0,5ygDxewCaJXQejvYG58qHe
-San Lorenzo,Pat Metheny Group,1978.0,6Cnq3giYBnvFrhl2DG8p8J
-The Confessions of Dr. Dream - Part Four: Dr. Dream Theme,Kevin Ayers,1974.0,5HUFcB9PHfVcvXF44u98SI
-Sienna: Waiting for the Moment,Stanley Cowell,1977.0,3Cx9j78Z0NE6jYwBWvvV3P
-Anti-American Graffiti,J Dilla,2006.0,2mE1fmoHkbAqPAzx79nE9C
-You're the One for Me,Barney Kessel,1971.0,0B9x2BRHqj3Qer7biM3pU3
-Nobody Home,Kansas,1977.0,76kAMRUS516qXOztvlN18z
-Little Child Runnin Wild,Curtis Mayfield,1972.0,24Mx7vklBWuqFjsHMO8ofZ
-Purple (A Tribe Called Quest Edit),Crustation,1997.0,0VGdOE6W9O8D4RoVhO1vb9
-She Wandered Through the Garden Fence,Procol Harum,1967.0,7L46et7T4ogH7wTLnhS5X6
-Audio Bongo,Monty Norman,1963.0,5WIQTUDLCEY1g1lmOWvDB4
-Davito (Live),Cal Tjader,1972.0,51WdRcA70xRtWlddbXkicp
-Put Your Love (In My Tender Care),The Fatback Band,1975.0,2nGFzvICaeEWjIrBrL2RAx
-The Coming (Intro),Busta Rhymes,1996.0,4M8SdMmrvx001Au6aZFchJ
-Love Poem,Tom Scott and The L.A. Express,1975.0,0k2JlssoN3Op7Kqb2BLjDG
-Kolumbo,Dick Hyman,1969.0,1938FeAi8kI7w9TpbgQWgP
-Serengeti Walk (Slippin' in the Back Door),Dave Grusin,1982.0,4MYLxsPSPWgGq3Xr85jWGT
-Armin,Curved Air,1973.0,2ebjV8EMIxCJ9Zm2I27MFM
-So Sure,Cheri,1983.0,2aEuA8PSqLa17Y4hKPj5rr
-Down to the Moon & Moon Dance,Andreas Vollenweider,1986.0,0dvUaT7o2Nkhh0yyrcbmTI
-Ill Vibe,Busta Rhymes feat. Q-Tip,1996.0,22XFWYPabTnoWvfultCjuK
-Café / Sapain / Dança Solitária No. 2 / Baião Malandro,Egberto Gismonti,1978.0,53gVEYkMZoJct1Ptbwn5wm
-Make It Funky,James Brown,1971.0,3pNfCtcbhWwa6TouKcMTGp
-Just Kickin' It,Xscape,1993.0,2CG9mGkKC6IQE5lEjDioEi
-Night and Day,Joe Pass,1974.0,6BH7yXu2TGulH6Gdn6zJSI
-Phire,Charles Earland,1976.0,7GAKkO3EXsJZvsG1racYMa
-Story Book,The Alan Bown,1968.0,4fqoW7HOkusXo6NI6c2giG
-Luv Connection,Towa Tei feat. Joi Cardwell and Vivian Sessoms,1995.0,5dHWEjMKw0buIaTfiJjgZ2
-Gonna Fly Now (Theme From Rocky),Bill Conti,1976.0,5dulYd9AKIprMoF837OTDb
-Frevo (1979 Version),Egberto Gismonti,1979.0,6ezO3mZt2abCmTV55W1hLT
-Rock Medley,The Town Criers,1970.0,7yiOte1eSM0npbr8sEIuzs
-I Never Told You,Quincy Jones,1969.0,4KBaW9QLYxw1n2QK7wsmz0
-And That's Saying a Lot,Christine Perfect,1970.0,6TrgkS1CCRs0RKJ3UGG5LZ
-Blow Your Mind (Part 1 & 2),Jamiroquai,1993.0,5rzmEiv5KA1OskLzcqRDFK
-The Watcher,Rodney Franklin,1980.0,2kWtnap841Grd8HDbFcGjw
-Mind Power,James Brown,1973.0,3mIZljTgYhz71DrGSlL9fD
-Steppin' It Up,A Tribe Called Quest feat. Busta Rhymes and Redman,1998.0,0OhHqIEtDur5NeMooGOs81
-Strawberry Letter 23,Phil Upchurch,1978.0,43tJXGf4SZeBDyi2JnsoYf
-Hydrant Game (Jaylib Remix),Quasimoto,2006.0,1ufWVlnuj6BezMxQaJ20GV
-Earthquake Shake,The Undisputed Truth,1975.0,5QjsMqji3rkNfdLWsclFpz
-Rap Phenomena,Yellow Magic Orchestra,1981.0,4m9Iudipxb9gpGNLG2LoQs
-In the Air Tonight (Ben Liebrand Extended Version),Phil Collins,1988.0,18AXbzPzBS8Y3AkgSxzJPb
-Flute Thing,The Blues Project,1966.0,5Hbd5ZazhinrRP6mS5XaR1
-Fantasy,Aquarian Dream,1978.0,0XVz2TRpjd99IzI9Etu5Cp
-Just Chillin' Out,Bernard Wright,1981.0,1ESgUlVVvucBkaLWMMoLIB
-One Note Samba / Spanish Flea,Sérgio Mendes & Brasil '66,1966.0,2pryIzW17hFkcebKGWzDRR
-Timeless,John Abercrombie,1974.0,3nTQL2ScjeyOxjqSmDoCCr
-Samba De Orfeu,João Donato,1965.0,1xZJP3lavEcMYq1eva8cce
-(You Caught Me) Smilin',Sly & the Family Stone,1971.0,2BydLQAh7CUIFvSEqAMc4x
-Friday the 13th,The Gil Evans & the Monday Night Orchestra,1987.0,5eGWO4pktJi3VZdBvHn0nL
-Interview,Gentle Giant,1976.0,1u9nZLT2BFdTgtWxmQq0Mg
-Scented Wind,Fred Miller,1972.0,1AieZp5vImnCvbUapUyoFG
-Do It ('Til You're Satisfied),B.T. Express,1974.0,4lnQfs7AmQm6dqCaNMDJLr
-Hall of Mirrors,The Slipstream Group,1978.0,1X1DWw2pcNZ8zSub3uhlNz
-Tarot Woman,Rainbow,1976.0,5NYjaAwqvdUWy44HKXEmyf
-Fly Like an Eagle,Steve Miller Band,1976.0,3e0FzZjTXOUtiJGSClOBrI
-Miles Behind,Clare Fischer,1968.0,53osVzzwherA2RxJpMmaWM
-Electric Café,Kraftwerk,1986.0,2Fo50QYr3vRvdvqR7oMRz4
-"Eyes of the Heart, Pt. 2",Keith Jarrett,1979.0,4FMI4Ln1LhyxGldkNXan5e
-That's All Right With Me,Esther Phillips,1971.0,3gZ5OyEyBQCHRtH8QAnFRP
-Sexual Healing,Marvin Gaye,1982.0,3VZmChrnVW8JK6ano4gSED
-Warm Weather,Larry Coryell and Brian Keane,1983.0,63Ly2sEzloc9s0yAXlMi6r
-America Eats Its Young,Funkadelic,1972.0,5WJU527RQNyMLuKecjsL8V
-Mûlâdhâra: The Dance of Kundalini,Todd Rundgren,1975.0,3gHFKiDanj4d2rqgHlRFFc
-Rock Steady,Aretha Franklin,1971.0,7rvGZDlfqCjY9EWEUg3Xs6
-Maxx Axe,Roger,1981.0,4Y4oJLQoh9P1PiQBIGc9M8
-Over the Breaks,J Dilla,2006.0,4ic8hlf4FkirjFpXJNBT3N
-Can't You See,The Impressions,1970.0,1ru5R5iSawvuMELqKXxLjS
-A Certain Kind,Soft Machine,1968.0,2CbtdkBeW9Znt4vXTOafAl
-Blue Bossa,"Milt Jackson, Joe Pass and Ray Brown",1976.0,0F5vfGNwHXj0WKngicBulM
-1984 (Part 1),Anthony Phillips,1981.0,4Z45MGF0QiNdMdSmoIfz57
-The Steam Drill,Cannonball Adderley,1972.0,78c7LxsMjzP62X1gwpcdIH
-Survival,Annette Peacock,1979.0,7eLfRfLELQ6s0NZX8hlX9M
-Terra Incognita,Synergy,1978.0,6hykEQW67sL7g4oj0XgFZh
-Right on Time,Maze Featuring Frankie Beverly,1983.0,6e9xnBJPs0y9omrSU3C3N4
-Serenata Burlesca,Howard Roberts,1957.0,4bcMO5tXlqloqD2NHqqpeY
-Incantations (Part IV),Mike Oldfield,1978.0,1ZJv5nYlHzXZvTx7AchAKg
-Boogie Down (Bronx),Man Parrish feat. Freeze Force,1984.0,2CbgPrMwa0UWUdppsOIoTR
-Happy Fingers,George Freeman,1974.0,2s2QQRJvpQOFS9s0jWp5lM
-Soul Songs,V.O.S. Trio,1974.0,6crBVhm5d0JnAJhVHYkJTZ
-Moody Magic,"Elvin Jones, James Moody, Clark Terry and Bunky Green",1977.0,4Q27I5G3W14hnYVi45oi2h
-At Twilight,Attila Zoller,1970.0,29SiOLKUH3AD8HUE3hEqZH
-The Star of a Story,Heatwave,1977.0,4ObtCddd94XbJcsF2RSgWu
-طب وانا مالي (Tab Wana Mali),Warda,1973.0,0eH6w5pp0CCogVhq0t7cOL
-Tiempos Felice (Happy Times),Gary Burton and Pat Metheny,1990.0,7zvK52N0uTuEpNBYEd2Xfm
-Magician Moth,Roger Glover,1974.0,2oBwkFOc3uYA3nFhSCdy2p
-Molly's Lament,Larry Coryell,1989.0,7F8p30SUoAOZeaOGFhNfpY
-Listening to Mozart,Daniel Vangarde,1973.0,1pHgB58K3y7aXkDHz5kryW
-Dierdre De Samba,John Hicks,1979.0,6RKZq8kiQUNAW9OHfu5TDQ
-It's a Wonderful Life,Henry Kaiser,1984.0,2YYc99GXjgh4asvsf4Evn5
-Epilog,Jack DeJohnette,1974.0,7Hz0oqBQQt32fcMioZXyzq
-Get Together,Tony Allen,1999.0,75gmTY9q0aZ3RPmlcEhK0I
-Not Available,Shuggie Otis,1974.0,3q8AgabNzK1mPJdI8egIcn
-Love Potion-Cheeba-Cheeba,Mighty Tom Cats,1973.0,5u6gmrJaLVWj1wjhdT2REm
-Facelift,Soft Machine,1970.0,1jnxRJSuS9QIfjRuzKOvIC
-Down to the Moon,Andreas Vollenweider,1986.0,6dsBkD1XP9EswRcUN0pOqN
-Theme From Jack Johnson,Miles Davis,1975.0,2aMcMyK2SQKyftU2ATfHLw
-People You Can't Trust,Atomic Rooster,1972.0,5UqZDGclEuq7g3sgUFad0J
-Never Gonna Come Down,Brian Auger's Oblivion Express,1977.0,4cOdK2wGLETKBW3PvgPWqT
-Friendly Street,UPP,1975.0,3alOuerCJRcVLCOX7PMq4c
-Daydream,Kenny Burrell,1984.0,6sjaBYmJVG7Xw82YHkDqRv
-Leaving,Steve Hackett,1980.0,3R5oB4OkyzOacho3XOHAwa
-Sweet Ophelia,Larry Weiss,1974.0,0OFuGDlPTUSfjbWGw2GLMi
-Set It Out,Detroit Emeralds,1977.0,0fUCMjWiCq5vyoLNyf5IQf
-Soil Festivities (Movement 1),Vangelis,1984.0,2Kt7NJxYjDJqlIKReTah23
-Gypsy,Emmett Chapman,1985.0,1T0AeC1hslvvJvQGFeebiT
-"Stop, Look, Listen",New Birth,1973.0,0oo36oKreIZOwYaOlj7KgB
-Agua De Beber,Astrud Gilberto,1965.0,3QKJELWORZZ7rUZDWeMWSA
-I'm a Woman,Shocking Blue,1969.0,4dUpahrg0TWSDQLf8YDipM
-I Got the,Labi Siffre,1975.0,20VuO95A8RxUPlShnfYArW
-All Day Saturday,John Murtaugh,1970.0,7sr74Bz3GBTNMQe1m4F5Ut
-,Stevens & Grdnic,1979.0,2oQFYnb8Lal5tDvUsyCmwf
-There Are No Words,Runt,1970.0,1m8UOoV8cZPnvV3AK2m7mI
-Sunny Earth,Vangelis O. Papathanassiou,1973.0,2jc60rDLMrw2eq70rUZ8X1
-Ange Des Orages,Philip Glass,1977.0,4qZh3yJ7tILlDD0Wmv7Ftj
-Concerto in E Minor,Miroslav Vitous,1977.0,5w2uCEoO74E2cE4BwZsL9U
-In Time,Sly & The Family Stone,1973.0,21SHzZ1qsXzJ5Socuuyo8w
-She's Always in My Hair,Prince and The Revolution,1985.0,3C5H2ZeTRNYwRsEMlr0gMg
-A Pale Smile,Eberhard Weber,1979.0,0AY78O264w7QphaWefvnQj
-Promise of a Fisherman,Sérgio Mendes & Brasil '77,1972.0,05YDkLO5qTrJM3C8zow6Ua
-Make the Move,Various Artists,1980.0,6pUUtKVRmODliJWTyY2pet
-That's Why I Came To California,Leon Ware,1982.0,6jZXAOHmvseRsqxYCbexTJ
-Send One Your Love,Stevie Wonder,1979.0,2eF8pWbiivYsYRpbntYsnc
-Incantation,Bruce Haack,2000.0,4VkH1PSwDH5r87Gl5vqAOW
-Doctor Love,First Choice,1977.0,0qaWEvPkts34WF68r8Dzx9
-Steppin' Out,Joe Jackson,1982.0,2KY0QUeRY3IPuJI1gyU9BJ
-Moon City,Absolute Elsewhere,1976.0,3eRKfT1c4Y19QG7dno62R1
-In the Distance,George Duke,1979.0,1bBbMtI0cWyjHnMN88s1oP
+song_name,artists,year,spotify_id,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence,song_popularity,artist_id,genres
+Saudade Vem Correndo,Stan Getz and Luiz Bonfá,1963.0,3QxAadrRx8aSEVd6Qzr8KF,0.946,0.634,0.288,0.163,4.0,0.366,-16.798,1.0,0.0377,90.633,4.0,0.671,54.0,0FMucZsEnCxs5pqBjHjIc8,"bebop,bossa nova,cool jazz,jazz,jazz saxophone,latin jazz,samba-jazz,vocal jazz"
+Diana in the Autumn Wind,Gap Mangione,1968.0,2yONEvu95BwhLRS3oSyBsB,0.661,0.525,0.417,0.00667,7.0,0.137,-10.423,0.0,0.0291,100.789,4.0,0.291,14.0,0mQU7aLi35kTXGf2WjKM35,
+Dreamflower,Tarika Blue,1976.0,4iyH37AHAkYK1MVhveeqcm,0.77,0.551,0.252,0.719,3.0,0.0834,-17.767,0.0,0.0293,134.878,4.0,0.376,47.0,5lq6V5V6D0zzfClxSPzV4G,
+Open Your Eyes,Bobby Caldwell,1980.0,5TA4he79xD3fpvy0sidiOV,0.889,0.735,0.287,0.00124,2.0,0.0776,-17.593,1.0,0.0465,95.539,4.0,0.409,55.0,4V4Z3qMCwYofWHtip6ePF6,yacht rock
+All I Do Is Think of You,The Jackson 5,1975.0,5GoheMjTcV8xbbUUWchvjl,0.571,0.545,0.642,3.44e-06,8.0,0.0881,-6.535,0.0,0.0379,121.654,4.0,0.511,52.0,2iE18Oxc8YSumAU232n4rW,"motown,soul"
+Swahililand,Ahmad Jamal,1974.0,7qwuryqoBBEH56d3iEhIBO,0.669,0.311,0.274,0.932,4.0,0.114,-25.008,0.0,0.0407,166.925,4.0,0.0648,42.0,6gc6oo3u2f7SqTd4mhe81O,"bebop,cool jazz,jazz,jazz piano"
+Don't Say Goodnight (It's Time for Love) (Parts 1 & 2),The Isley Brothers,1980.0,6DVOThiin61bmeIwf6fzGx,0.856,0.462,0.248,0.014,9.0,0.181,-10.957,1.0,0.0365,99.042,4.0,0.276,41.0,53QzNeFpzAaXYnrDBbDrIp,"classic soul,funk,motown,quiet storm,soul"
+Footsteps in the Dark,The Isley Brothers,1977.0,1tL5a9jowsWMtn3wkFYsG9,0.402,0.679,0.374,2.49e-05,11.0,0.0541,-10.565,0.0,0.0482,80.86,4.0,0.871,62.0,53QzNeFpzAaXYnrDBbDrIp,"classic soul,funk,motown,quiet storm,soul"
+The Worst Band in the World,10cc,1974.0,0orDEh9TN4jkgnDIXJkXnN,0.192,0.653,0.453,0.0048,11.0,0.122,-13.259,0.0,0.156,155.748,4.0,0.69,36.0,6i6WlGzQtXtz7GcC5H5st5,"album rock,art rock,classic rock,folk rock,glam rock,mellow gold,new romantic,soft rock,symphonic rock,yacht rock"
+Think (About It),Lyn Collins,1972.0,1kG2PZ8geznbDA8I6iWeDi,0.204,0.773,0.561,0.0,9.0,0.0575,-10.224,1.0,0.225,112.582,4.0,0.717,56.0,6XJPGyxrP66scKvIE9kpPN,p funk
+Theme From Midnight Express,Giorgio Moroder,1978.0,3CgonfeyRh23O9F4aKiIbW,0.00152,0.641,0.648,0.87,7.0,0.0645,-13.379,0.0,0.0298,125.368,4.0,0.965,51.0,6jU2Tt13MmXYk0ZBv1KmfO,disco
+Clair De Lune,Isao Tomita,1974.0,7cwPQGHgob1v9pek8WnQRx,0.766,0.0942,0.0206,0.838,1.0,0.0851,-30.4,1.0,0.0413,83.671,4.0,0.038,39.0,1Uff91EOsvd99rtAupatMP,"classical,impressionism,post-romantic era"
+To You With Love,The Moments,1971.0,7uVAH8sYi1u27FcB5m5sd1,0.38,0.525,0.614,0.0,9.0,0.156,-7.92,0.0,0.0405,134.439,4.0,0.344,23.0,6avGAzQTmqu8mfSmZrN7gT,"classic soul,disco,funk,motown,post-disco,quiet storm,soul,southern soul"
+Shine on Straight Arrow,Cris Williamson,1971.0,1Ttf7o5eQj9kepWRZpo8nG,0.544,0.346,0.253,0.00969,0.0,0.109,-11.923,1.0,0.0292,86.488,4.0,0.238,12.0,3HAd50yqk5ADswivbp5lWf,women's music
+You're Gonna Need Me,Dionne Warwick,1973.0,5ezYm2LkW25YhkkTp7bC9u,0.589,0.438,0.633,0.000135,6.0,0.185,-11.798,0.0,0.0597,167.0,4.0,0.746,44.0,2JSjCHK79gdaiPWdKiNUNp,"adult standards,brill building pop,disco,quiet storm,soft rock,soul,vocal jazz"
+E=MC²,Giorgio Moroder,1979.0,0oks4FnzhNp5QPTZtoet7c,0.0692,0.74,0.682,0.53,9.0,0.381,-10.42,0.0,0.0504,113.201,4.0,0.41,67.0,4tZwfgrHOc3mvqYlEYSvVi,"electro,filter house,rock"
+Blue in Green,Miles Davis,1959.0,0aWMVrwxPNYkKmFthzmpRi,0.808,0.421,0.0162,0.0024,2.0,0.0978,-25.358,0.0,0.0388,110.479,4.0,0.154,64.0,0kbYTNQb4Pb1rPbbaF0pT4,"cool jazz,hard bop,jazz,jazz fusion,jazz trumpet,soul,vocal jazz"
+Django,Dorothy Ashby,1962.0,2Qvk3Fx0auDcG7gpIgQAlV,0.706,0.651,0.399,0.944,2.0,0.105,-11.923,1.0,0.063,114.34,4.0,0.694,39.0,770iqFnZSU8y1Nqp6PcfbM,"gypsy jazz,jazz guitar"
+Love Ballad,L.T.D.,1976.0,3iCbTmcXnKlRZCdaYOukxq,0.449,0.602,0.385,0.000111,6.0,0.0803,-14.81,0.0,0.0385,77.697,4.0,0.354,58.0,0H4sfMNK9hoasHItAgD1kJ,"disco,funk,new jack swing,post-disco,quiet storm,soul,urban contemporary"
+Lightworks,Raymond Scott,2000.0,3AygMhKDtZyzN8Ch0tcy3L,0.807,0.683,0.371,0.0244,7.0,0.652,-13.666,1.0,0.094,170.82,4.0,0.54,9.0,31DffUzogcRBJT3Andaqtt,"acousmatic,exotica,laboratorio,moog,space age pop"
+I Can't Stand (To See You Cry),The Escorts,1974.0,28PZ40We0pLpkqfeGn2NPw,0.888,0.247,0.567,0.0473,1.0,0.682,-10.525,1.0,0.0376,139.488,4.0,0.564,23.0,6LFrJ9S3C34Uzuvy1b6VRM,classic soul
+Inside My Love,Minnie Riperton,1975.0,7yngji6ogBXvAJdeOSBHAP,0.446,0.422,0.361,0.00955,10.0,0.0886,-11.358,0.0,0.0313,91.498,4.0,0.38,48.0,2i1IdHG5w0wiSmJGoqAGlj,"classic soul,disco,funk,motown,quiet storm,soul"
+Clair,The Singers Unlimited,1974.0,1iXJKuzDH0E6PnTk2lQXAq,0.973,0.484,0.222,0.000306,5.0,0.104,-14.631,0.0,0.044,127.756,4.0,0.409,27.0,3RsROIs1zuuC3lwIdhJ0if,"a cappella,vocal harmony group"
+UFO,ESG,1981.0,1LGvDKbk0qLtwXzyljS9H5,0.000271,0.493,0.32,0.865,1.0,0.0978,-19.446,1.0,0.243,140.715,4.0,0.157,33.0,4EF5vIcCYKMM61oYOG2Tqa,"dance-punk,no wave,post-punk"
+Golden Apples - Part II,Galt MacDermot,1971.0,4upHDP3nzfFYotgyBAeOTF,0.865,0.528,0.715,0.812,8.0,0.12,-9.889,1.0,0.0296,111.973,4.0,0.622,13.0,3b6TinIPahsS8iSCYAeinr,
+"Johnny, Don't Do It",10cc,1973.0,1Fem9jSJEleNWT1kgt70ST,0.0473,0.408,0.563,0.0,9.0,0.0781,-5.97,0.0,0.0374,118.543,3.0,0.558,63.0,5dHfLBNU8zoypgKefzEB1c,folk-pop
+"I Don't Want to Leave You, I Just Came to Say Good-Bye",Shawn Phillips,1977.0,6c7L3B3v77NCu5y1eYysD1,0.00129,0.463,0.628,0.765,4.0,0.0762,-14.647,0.0,0.0423,103.109,4.0,0.504,8.0,0qgbJLYz20q47xKIkkXBG9,"folk,folk rock"
+Sweet Stuff,Sylvia Robinson,1976.0,3rCrodlu30PI74r9bqi8ZW,0.721,0.767,0.255,0.0485,9.0,0.117,-13.777,0.0,0.0468,152.467,4.0,0.751,27.0,3doP2QWtByNGoRwupOcaMi,
+Will O' the Wisp,Steve Howe,1975.0,1bHk7YGS7eoFo0ZvXqPitP,0.0845,0.48,0.548,0.00217,10.0,0.0914,-9.722,1.0,0.0287,76.261,4.0,0.26,10.0,6W7XIO8Ua1RIisnSf0QIoI,"progressive rock,symphonic rock"
+Phantom of the Synths,J Dilla,2005.0,6YbfTiImEm6kH6gRXpdtgR,6.8e-05,0.288,0.725,3.09e-06,10.0,0.636,-4.651,0.0,0.455,181.391,4.0,0.436,60.0,0IVcLMMbm05VIjnzPkGCyp,"alternative hip hop,detroit hip hop,hip hop,instrumental hip hop"
+The Look of Love,Barney Kessel,1969.0,5r4CoRPXq8RGmrlVNzNJq5,0.967,0.535,0.061,0.805,2.0,0.113,-24.796,0.0,0.0566,83.899,4.0,0.167,29.0,6pVkGhtBvjj1P52yn0tNLG,jazz guitar
+Maybe It's Love This Time,The Stylistics,1980.0,0Rw4aFSwMEhtVLzmy2xr5v,0.661,0.446,0.418,0.0,3.0,0.081,-8.852,0.0,0.0286,145.04,4.0,0.233,30.0,2O0Hw1WSMbskB5tD9aWah3,"classic soul,disco,funk,motown,philly soul,quiet storm,soul"
+To the Other Man,Luther Ingram,1972.0,1I3xgRAsHGDMaRHsawyN45,0.516,0.505,0.501,0.0,3.0,0.12,-7.97,1.0,0.0394,137.33,4.0,0.508,21.0,5Pek6HAr0BoHD9P1RuA7d5,"memphis soul,southern soul"
+Come Running to Me,Herbie Hancock,1977.0,3UvkoYw8FicuTMDPlkv0IB,0.617,0.563,0.355,0.257,2.0,0.12,-14.87,0.0,0.033,122.224,3.0,0.501,32.0,2ZvrvbQNrHKwjT7qfGFFUW,"contemporary post-bop,instrumental funk,jazz,jazz funk,jazz fusion,jazz piano"
+Family Tree,Tin Tin,1970.0,73ZTWCuwudUVvvWipRnQnQ,0.0238,0.66,0.523,0.0,4.0,0.142,-12.068,1.0,0.0608,126.342,4.0,0.794,68.0,2dyeCWctcFRt3Pha76ONgb,"country,country rock,outlaw country"
+Scrabble,Rene Costy & His Orchestra,1972.0,57D5wx2wA0elP1zuWkBlJa,0.475,0.476,0.763,0.413,7.0,0.147,-6.336,1.0,0.0701,100.766,4.0,0.933,28.0,2ykaCxi5qcAgk0ixcZKHiX,
+Only One Can Win,The Sylvers,1972.0,4BLqx84IpussVxrUGOMLOX,0.695,0.659,0.667,0.0,7.0,0.379,-6.084,1.0,0.0782,153.812,4.0,0.773,36.0,0efkWb9xKhT6H0E7kgSjFK,"classic soul,disco"
+Groovin' High,Dizzy Gillespie,1949.0,4ttUzFCVnlOmopuzM4oEUJ,0.985,0.692,0.191,0.844,5.0,0.163,-13.891,0.0,0.0416,95.05,4.0,0.687,44.0,5RzjqfPS0Bu4bUMkyNNDpn,"bebop,contemporary post-bop,jazz,jazz trumpet,vocal jazz"
+El Arriero (El Pampero Live Version),Gato Barbieri,1972.0,4fnZciCjxRG0hDKNHfR6Zi,0.38,0.424,0.607,0.0377,7.0,0.927,-9.873,0.0,0.066,109.206,3.0,0.573,10.0,7dXBi98p0mN5JCpBnU0XEm,"jazz saxophone,latin soundtrack"
+Rubber Band,The Trammps,1972.0,13Mzsb8VzRSZ5w3pM48cn6,0.74,0.801,0.446,0.038,10.0,0.0832,-14.605,1.0,0.0735,97.898,4.0,0.925,69.0,5fbhwqYYh4YwUoEs582mq5,"classic soul,disco,funk,motown,philly soul,quiet storm,soul"
+Just Because I Really Love You,Jerry Butler,1968.0,0rLKAokRZwKWSiu06eSZiy,0.656,0.39,0.441,0.000714,7.0,0.455,-10.443,1.0,0.0369,146.283,3.0,0.531,39.0,0U2mUJuJkthantMGmsJygP,"chicago soul,classic soul,motown,philly soul,soul"
+Black Is the Color,Joe Sample,1993.0,70DaOMWmGdBGAuBVqL5I7P,0.882,0.362,0.244,0.61,4.0,0.095,-17.491,0.0,0.0338,105.848,4.0,0.268,19.0,4H2b90USTVSstPktwUsDZE,"jazz funk,jazz piano,smooth jazz"
+Wait for Me (Live),Daryl Hall & John Oates,1983.0,3wiM6jj066wDeNaCnxKsRk,0.161,0.59,0.731,3.07e-06,10.0,0.0744,-7.12,1.0,0.0303,175.268,4.0,0.918,46.0,77tT1kLj6mCWtFNqiOmP9H,"album rock,classic rock,heartland rock,mellow gold,rock,singer-songwriter,soft rock,yacht rock"
+Morning Order,Hugh Hopper and Alan Gowen,1980.0,5a4MgIUSf9K8wXLSm6xPEx,0.205,0.519,0.413,0.152,0.0,0.351,-12.535,0.0,0.0251,75.219,4.0,0.267,58.0,0k17h0D3J5VfsdmQ1iZtE9,"album rock,art rock,classic rock,progressive rock,psychedelic rock,rock,symphonic rock"
+É Isso Aí,Baden Powell,1971.0,0XzYqo3Q7mS8nF8OD3teoY,0.636,0.583,0.85,0.853,8.0,0.104,-15.04,1.0,0.0372,110.945,3.0,0.831,7.0,0VSgciOd32tP2Yna1w4vDr,"bossa nova,brazilian jazz,jazz guitar,mpb,samba,samba-jazz,violao"
+My People...Hold On,Eddie Kendricks,1972.0,5zKAlrdrdEkBkylhwT3cqH,0.629,0.489,0.477,0.0014,8.0,0.0763,-13.62,1.0,0.114,144.854,4.0,0.54,35.0,2Uuon75BhnuuxdKLYn4wHn,"classic soul,disco,funk,motown,p funk,quiet storm,soul"
+Stuffed Aubergine,Vangelis,1971.0,36qn2bFfZzUwM6eIv2XOc9,0.206,0.486,0.312,0.734,1.0,0.0854,-16.772,1.0,0.0317,135.988,4.0,0.11,53.0,4P70aqttdpJ9vuYFDmf7f6,"cyberpunk,synthesizer"
+I Don't Really Care,L. V. Johnson,1981.0,3NXZvTvYkp7ZE7A2vHOXlF,0.735,0.784,0.104,0.0,8.0,0.121,-16.585,1.0,0.043,114.488,4.0,0.28,45.0,5mFKYdmiYwNJTDtSzgFyQx,"canadian indie folk,chamber pop,saskatchewan indie"
+"Share What You Got, Keep What You Need",The Modulations,1975.0,6VZRuXs9ubfs9shrXcOV1Z,0.00778,0.411,0.562,0.754,0.0,0.0698,-9.296,0.0,0.0284,133.666,3.0,0.524,20.0,76fR3EF5Cbk5nFXce8PAMc,"classic soul,gospel soul"
+Sing Me Softly of the Blues,Gary Burton,1967.0,0CMO8upTEJuBGtlEpBv0zL,0.988,0.299,0.135,0.803,9.0,0.103,-16.628,1.0,0.0374,48.591,4.0,0.0365,11.0,2vB9VR5CJ70elfI1wWrvBl,"ecm-style jazz,jazz quartet,jazz vibraphone"
+Vulcan Mind Probe,George Duke,1982.0,3j8xsPnIX77j4VhgYlroOA,0.0151,0.753,0.587,0.00336,7.0,0.0374,-8.932,1.0,0.0563,88.188,4.0,0.747,35.0,3EB0uKE2lGw6BB1UFJrONl,"jazz funk,jazz fusion,jazz piano,smooth jazz"
+For Once in My Life (Live),Stevie Wonder,1969.0,4kP69y3GKHi9tXckfgp4bK,0.195,0.524,0.519,0.0,6.0,0.523,-11.903,1.0,0.043,110.121,4.0,0.847,74.0,7guDJrEfX3qb6FEbdPA5qi,"motown,soul"
+When I Die,Motherlode,1969.0,2h7A00Xc3UHDyGSLpKnBxa,0.0678,0.34,0.561,0.00479,5.0,0.0946,-8.927,0.0,0.0294,175.748,4.0,0.653,36.0,24uSD486ywQ4VJ2OMDXv8y,
+Life,Funky Cowboys,1997.0,5YIF6HSOtHN9HdcE5IPzMe,0.0755,0.988,0.633,1.88e-06,5.0,0.0668,-15.012,0.0,0.0888,117.493,4.0,0.929,59.0,5Y8EphH8Vdqu5SLj6K5vjj,"hip hop,hip house,miami bass"
+Speak Your Mind,Kevin Moore,1980.0,6zozkHIrxeMJDExQ83WUYb,0.911,0.763,0.481,0.165,0.0,0.183,-10.278,1.0,0.0553,96.892,4.0,0.416,19.0,4ilUGyAQUq1x3OkQIxwSgu,
+The Colorado Trail,Dave Grusin,1976.0,1PgOvjozYVZ03qBJDwuyhd,0.964,0.368,0.0362,0.942,7.0,0.0946,-29.824,1.0,0.0351,133.437,3.0,0.0553,16.0,0SPkat5bgfP5wo2kbqZIwu,smooth jazz
+Tama,Tonto's Expanding Head Band,1971.0,5zJvuQbOLLAJ1oaa3UI51o,0.95,0.227,0.133,0.954,8.0,0.103,-21.43,0.0,0.0441,137.509,3.0,0.129,2.0,1EAuonSn6FGXejwZS6EU9Z,"laboratorio,moog"
+Much Better Off,Smokey Robinson and The Miracles,1968.0,42V7F468ieBbxKwaxBlpls,0.194,0.297,0.328,0.000118,4.0,0.123,-13.61,0.0,0.0291,131.024,3.0,0.686,50.0,6TKOZZDd5uV5KnyC5G4MUt,"classic soul,motown,quiet storm,soul"
+A Legend in Its Own Time,Smokey Robinson and The Miracles,1969.0,7LyjOVrLQVCNk2CIZmAJJb,0.203,0.393,0.55,0.0,2.0,0.0806,-11.279,1.0,0.0361,156.217,4.0,0.679,20.0,6TKOZZDd5uV5KnyC5G4MUt,"classic soul,motown,quiet storm,soul"
+Cum on Feel the Noize,Neil Innes & Son,1980.0,6FBmHx1FuaSnTnnnaThgbF,0.000183,0.441,0.908,0.00328,11.0,0.0612,-4.627,0.0,0.115,145.439,4.0,0.632,65.0,1dLWg6m8RRhizsdqJbhyj3,"album rock,classic rock,glam metal,hard rock,metal,rock"
+Genius of Love,Tom Tom Club,1981.0,6UBQONiLH8kNmmB8UrV2Ef,0.0845,0.921,0.529,0.000779,2.0,0.0478,-11.974,1.0,0.0851,102.941,4.0,0.724,59.0,1m24736Bdew1oQVxTePOCo,"dance rock,new wave,no wave"
+Ain't Got Time,Roy Ayers Ubiquity,1971.0,66BTx0xlzyEVhYSbWv4VW3,0.319,0.505,0.536,0.00486,11.0,0.128,-15.316,0.0,0.04,99.396,4.0,0.659,32.0,3WbeZvDk1COiO2dEokZqn7,"funk,jazz funk"
+Air Born,Camel,1976.0,2k1NQW6ddGacCthIy9gmTa,0.737,0.247,0.221,0.444,0.0,0.155,-15.299,0.0,0.0312,83.845,4.0,0.185,43.0,3Uz6jx81OY2J5K8Z4wmy2P,"canterbury scene,flute rock,progressive rock,symphonic rock"
+Le Bracelet,Alain Goraguer,1973.0,04uauFxLrz9VTsqQpsGKMa,0.0566,0.609,0.426,0.956,1.0,0.11,-12.681,0.0,0.0391,96.336,4.0,0.35,47.0,2yenSHFA1v0ZsCMFWr5N1M,"french soundtrack,laboratorio,moog,vintage french electronic"
+Trouble,Brenton Wood,1967.0,5Bqy1zVxYrmr9eZVUeb3OC,0.366,0.612,0.405,9.9e-06,2.0,0.151,-10.231,1.0,0.0881,96.674,4.0,0.581,34.0,6ohvzFHYmLd05kyYhLui5K,souldies
+God Is Love,Marvin Gaye,1970.0,0osLiChas8MULX2V1Ak6Ji,0.763,0.551,0.815,0.0,0.0,0.729,-9.631,0.0,0.0681,99.092,4.0,0.789,50.0,3koiLjNrgRTNbOwViDipeA,"classic soul,motown,neo soul,northern soul,quiet storm,soul"
+Maimoun,Stanley Cowell Trio,1973.0,1RaQG7aC2BxG4SP1UiX2Kt,0.896,0.401,0.194,0.915,2.0,0.0776,-21.0,1.0,0.0311,144.102,4.0,0.318,10.0,3SnWjOQ9kt5lrFeWVR7Rce,jazz trio
+Afro Blue,Dee Dee Bridgewater,1974.0,2eAobEDmJeH1ypY6X3Dstl,0.356,0.408,0.448,0.00356,0.0,0.0787,-10.226,0.0,0.0508,103.961,3.0,0.345,9.0,2H3xDjMmp31iLmsgXxLFyI,"contemporary vocal jazz,jazz blues,vocal jazz"
+You Are Just a Living Doll,J.J. Barnes,1973.0,2NqGrQKJJVlf0Kma8mGYwB,0.273,0.722,0.481,0.0,2.0,0.092,-12.631,1.0,0.0362,139.561,4.0,0.604,22.0,2hIOIluaknpeTzdniBzj8A,northern soul
+The Stars Are Out Tonight,Starcastle,1978.0,0rNW0QC50ZoTHDsJkYkARx,0.792,0.714,0.286,0.0,9.0,0.191,-10.04,0.0,0.0571,103.328,4.0,0.66,44.0,6UKDgKJpv0MCwiQHbllkfR,trap queen
+Daylight,RAMP,1977.0,2B2MpyO86cVAVjNyBDhXYc,0.565,0.506,0.527,0.0159,0.0,0.131,-11.758,1.0,0.0526,171.755,3.0,0.592,42.0,3KAulMlhjlTfIZD8yhMJPb,"jazz funk,rare groove"
+Come and Play in the Milky Night,Stereolab,1999.0,5Aon86qtmerQqXTYyEx9Vh,0.964,0.431,0.292,0.941,6.0,0.109,-16.908,0.0,0.0344,94.924,4.0,0.435,57.0,3Rj0tDHoX7C5NFq5DKIpHt,"alternative rock,art pop,experimental,experimental pop,experimental rock,indietronica,noise pop"
+Soul Love,David Bowie,1972.0,1bo6xzrCrK7ocEirC5rrZk,0.0579,0.573,0.404,1.52e-06,2.0,0.217,-12.142,1.0,0.0626,72.906,4.0,0.709,57.0,0oSGxfWSnnOXhD2fKuz2Gy,"art rock,classic rock,glam rock,permanent wave,rock"
+Sunset in Golden Horn,Les Mogol,1972.0,0DaXPLskMeTu01eqx7Di1i,0.0326,0.502,0.846,0.0,5.0,0.26,-7.263,1.0,0.0577,174.884,4.0,0.69,51.0,41Q0HrwWBtuUkJc7C1Rp6K,"alternative metal,funk metal,funk rock,nu metal,pop rock,rap rock,reggae fusion"
+Lamento Di Tristan / La Rotta,John Renbourn,1970.0,1ji33FsoYKyTHOA1xH3pzz,0.0945,0.603,0.156,0.377,9.0,0.0897,-19.336,0.0,0.0651,119.381,4.0,0.711,10.0,4XXKzQCGcb2otkzMyxzeQ4,"british blues,british folk,library music"
+Radio (Times Square),"Gary Burton, Steve Swallow, Roy Haynes and Tiger Okoshi",1978.0,1GDAvJth0ebssC2XkG7RYM,0.595,0.701,0.497,3.12e-05,4.0,0.118,-10.05,1.0,0.0316,96.513,4.0,0.963,50.0,2FMZn5P3WATd7Il6FgPJNu,"bakersfield sound,classic country pop,country,country rock,cowboy western,western swing"
+Maybe,The Three Degrees,1970.0,02srSkeu2pzybuVr2B9TJm,0.732,0.564,0.593,0.00366,9.0,0.343,-9.245,1.0,0.0328,120.753,4.0,0.766,64.0,2zpFG5cvw00QmrYTUsjApa,"classic girl group,disco,motown,philly soul"
+Windy C,100% Pure Poison,1974.0,5WNheu2jm9ynRLKroSyqEo,0.613,0.627,0.326,0.000341,9.0,0.249,-13.233,0.0,0.102,106.491,4.0,0.577,35.0,7xdbPbrTlMcRNSf4WBGtrh,rare groove
+Early Morning Clown,Nektar,1974.0,2pi2DE5vQg1ia7wO4rKbhb,0.205,0.437,0.638,0.000183,9.0,0.101,-9.165,1.0,0.0291,148.876,4.0,0.622,11.0,0n2Uel3CvQrmMsYLEfpO3s,"krautrock,progressive rock,symphonic rock"
+"Holding You, Loving You",Don Blackman,1982.0,5Jgj5Yo5deJ2RPlixBm88u,0.307,0.585,0.476,0.000123,10.0,0.16,-13.097,0.0,0.0721,78.898,4.0,0.459,37.0,0aavHBWTe9ng2jWfnnQ0hp,
+"A Very Smelly, Grubby Little Oik",Caravan,1976.0,2Xtsv7BUMrNodQWH2JPOc0,0.00631,0.425,0.783,0.852,8.0,0.0745,-9.077,1.0,0.0808,106.281,3.0,0.422,60.0,2ObUFCwd6NhS8iyCv8JdPL,
+Give It to Me Baby,Rick James,1981.0,13v3siPyvy5TTEZYmGPPse,0.114,0.706,0.727,7.7e-05,11.0,0.174,-8.714,1.0,0.0456,119.55,4.0,0.965,66.0,0FrpdcVlJQqibaz5HfBUrL,"disco,funk,motown,quiet storm,soul,synth funk"
+What Makes You Happy,KC & the Sunshine Band,1975.0,37d8O4cIq36tssCoJnhJxg,0.496,0.931,0.801,0.379,4.0,0.0563,-10.725,1.0,0.0548,119.533,4.0,0.971,64.0,3mQBpAOMWYqAZyxtyeo4Lo,"disco,mellow gold,new wave pop,soft rock,soul"
+Fruitman,Kool & the Gang,1974.0,2je56j0xuoTi1gYkLLMlJU,0.156,0.877,0.56,0.000139,7.0,0.0535,-8.529,1.0,0.0621,110.86,4.0,0.969,70.0,3VNITwohbvU5Wuy5PC6dsI,"disco,funk,motown,soul"
+Opus Pocus,Jaco Pastorius,1976.0,1hk6KMDQwGWsdy08PYotmM,0.543,0.561,0.661,0.575,9.0,0.0608,-9.631,1.0,0.0685,89.283,4.0,0.639,34.0,3U3C9o6UTYNdEsDckpRyvX,"contemporary post-bop,electric bass,jazz,jazz funk,jazz fusion"
+See You Later,Flip Nunez,1976.0,7FKkswFflI5Txc3Y4gH0IB,0.257,0.576,0.467,0.0,1.0,0.13,-6.435,1.0,0.0305,86.011,4.0,0.234,70.0,3aHe9rMa5HFTjXHw8tEz0A,alt z
+For the Love of You (Part 1 & 2),The Isley Brothers,1975.0,7teF2kwC3GL00mQfwtxzo9,0.665,0.686,0.374,1.91e-05,11.0,0.101,-11.029,0.0,0.0439,102.879,4.0,0.693,59.0,53QzNeFpzAaXYnrDBbDrIp,"classic soul,funk,motown,quiet storm,soul"
+The Advent of Panurge,Gentle Giant,1972.0,7BCG8qrwGFsTMT3R4AhF10,0.39,0.527,0.44,0.0694,11.0,0.0944,-17.608,0.0,0.0691,94.289,4.0,0.238,28.0,1hrQ50kU6hMQBVLatqUqnO,"progressive rock,symphonic rock,zolo"
+We Must Be in Love,The Impressions,1969.0,1ZgP9d8OaiBCUQKOrvbAsH,0.175,0.56,0.849,8.27e-05,5.0,0.28,-6.108,0.0,0.0422,97.473,4.0,0.866,35.0,1b1N51wmSK0ckxFAMPSSHO,"chicago soul,classic soul,funk,quiet storm,soul"
+Toccata and Fugue in D Minor,Mike Hankinson,1972.0,5cYyCE4b3T5TdQ3sGg8CYc,0.87,0.117,0.0492,0.291,2.0,0.0873,-25.341,0.0,0.036,76.49,4.0,0.0669,50.0,5aIqB5nVVvmFsvSdExz408,"baroque,classical,early music,german baroque"
+Take Me to the Mardi Gras,Bob James,1975.0,6i5U5NyCknF93w4BilFity,0.18,0.477,0.731,0.845,10.0,0.0504,-8.599,1.0,0.0282,106.35,4.0,0.9,35.0,6ryjbFyWBZho9KGXqKZdqQ,"jazz funk,jazz piano,smooth jazz"
+Baby,J Dilla feat. Madlib and Guilty Simpson,2006.0,0wotldYXx2K5HH0CwhzYrX,0.369,0.478,0.812,0.0,11.0,0.278,-5.709,0.0,0.423,89.041,4.0,0.768,39.0,0IVcLMMbm05VIjnzPkGCyp,"alternative hip hop,detroit hip hop,hip hop,instrumental hip hop"
+Light My Fire,Africa,1968.0,5EWMey6EWacf5tu8X2JOeQ,0.426,0.686,0.589,0.0,5.0,0.265,-11.715,0.0,0.0304,100.068,4.0,0.926,36.0,4bszODJhbxkwHlq0Inh6VU,psychedelic soul
+Two Lovers History,Mary Wells,1968.0,00CmjeeHvAVKvx3tcIiZTy,0.426,0.678,0.405,0.0,2.0,0.109,-16.965,1.0,0.0304,105.902,4.0,0.96,49.0,1cjZk1xXn3YCToNg3uJpA7,"classic soul,motown,soul"
+Via Beato Angelico,Perigeo,1974.0,6JEevQAcV4n1uhhZTxp7Zs,0.969,0.203,0.105,0.544,10.0,0.141,-22.814,0.0,0.0444,141.819,4.0,0.0462,45.0,3ePHoPWDrxEt93wK19jxi0,gregorian chant
+Watermelon Man,Herbie Hancock,1973.0,2zQl59dZMzwhrmeSBEgiXY,0.262,0.724,0.414,0.111,1.0,0.0785,-11.19,1.0,0.0588,146.939,4.0,0.719,58.0,2ZvrvbQNrHKwjT7qfGFFUW,"contemporary post-bop,instrumental funk,jazz,jazz funk,jazz fusion,jazz piano"
+Nautilus,Bob James,1974.0,2emP5oaNH6cwFsugIPqVau,0.0405,0.499,0.532,0.00896,9.0,0.152,-14.182,0.0,0.0283,98.382,4.0,0.761,41.0,6ryjbFyWBZho9KGXqKZdqQ,"jazz funk,jazz piano,smooth jazz"
+Dance Girl,The Rimshots,1975.0,7cvkXf3AwPGT041PyOi5VX,0.0321,0.621,0.781,0.0,2.0,0.173,-6.062,1.0,0.0636,110.002,4.0,0.484,64.0,6vWDO969PvNqNYHIOW5v0m,"pop,r&b"
+I Thought It Was You,Herbie Hancock,1977.0,0taRW8bPp2xW6ewm6PDMTZ,0.394,0.729,0.787,0.0514,1.0,0.112,-11.38,1.0,0.047,116.21,4.0,0.717,42.0,2ZvrvbQNrHKwjT7qfGFFUW,"contemporary post-bop,instrumental funk,jazz,jazz funk,jazz fusion,jazz piano"
+Extra Dry,Thomas Bangalter,1998.0,2eE7XVOlLtl3ZnZd6wuGOJ,0.719,0.109,0.00978,0.0371,11.0,0.0863,-29.649,0.0,0.0375,92.809,4.0,0.0598,43.0,41vv2Tj1knysv6MuFUmdwi,filter house
+Moonshine Rider,Lucifer's Friend,1976.0,2KpZHROP7U8njjj81hRlBV,0.000863,0.504,0.929,0.000784,2.0,0.229,-7.106,1.0,0.0511,98.074,4.0,0.847,11.0,2lO0iDc9iMWfHpDZ1vReBk,"german hard rock,german rock,proto-metal,psychedelic blues-rock"
+Dancing Machine,The Jackson 5,1973.0,0xqb2Euq1PAxKHBA36NUnx,0.133,0.776,0.794,2.35e-05,6.0,0.689,-7.722,1.0,0.0723,109.277,4.0,0.845,56.0,2iE18Oxc8YSumAU232n4rW,"motown,soul"
+(I Know) I'm Losing You,The Undisputed Truth,1975.0,1by5g6VtXu7GU8Lteg5KUs,0.128,0.608,0.484,0.0254,10.0,0.252,-14.828,0.0,0.054,95.911,4.0,0.566,12.0,2tkwWmcZOQPNbbIdknfBsw,"classic soul,motown,psychedelic soul,southern soul"
+First Light of the Morning,Dexter Wansel,1977.0,2v5ipbPg5O86hyp9SSaHb2,0.0969,0.408,0.671,0.254,9.0,0.0906,-7.486,0.0,0.0371,109.878,4.0,0.61,17.0,7azp9wRyXcxIq5vZnJgYvt,"jazz funk,philly soul,rare groove"
+You Can't Take It When You Go,Dave Mason,1974.0,7qpuECko60EoztznowMWj1,0.336,0.624,0.388,0.0,4.0,0.0918,-8.465,1.0,0.0242,85.925,4.0,0.445,58.0,2DWQX92uew7DlsgN0yD775,"british blues,country rock,folk rock,mellow gold,singer-songwriter,soft rock,southern rock,yacht rock"
+Kisses Sweeter Than Wine,Robert DeCormier Singers,1967.0,2luRltDp0ZG4ORi3lA8NsB,0.672,0.497,0.318,0.0,6.0,0.0783,-12.974,1.0,0.0597,162.104,4.0,0.696,48.0,7bKOOOKEkE918wKOQEhYnp,yodeling
+Once It Was Alright Now (Farmer Joe),Laura Nyro,1968.0,5rCdQrwqLE30EmRNAwsyhU,0.75,0.593,0.779,2.36e-05,5.0,0.406,-5.183,1.0,0.0959,132.884,4.0,0.599,17.0,6QDWC6QeGhvCWCv3nUJwoV,"folk,singer-songwriter"
+You've Got the Love I Need,Smokey Robinson and The Miracles,1970.0,7ifcJ5DDytGf8aITxmgsLN,0.131,0.64,0.381,0.0,9.0,0.17,-13.265,0.0,0.03,118.229,3.0,0.677,57.0,6TKOZZDd5uV5KnyC5G4MUt,"classic soul,motown,quiet storm,soul"
+Walk on By,The Undisputed Truth,1973.0,1X9m2vctL8evJnZhCqEbUg,0.747,0.495,0.243,6.71e-05,5.0,0.0742,-13.48,1.0,0.0309,81.246,4.0,0.587,18.0,2tkwWmcZOQPNbbIdknfBsw,"classic soul,motown,psychedelic soul,southern soul"
+North Beach,George Duke,1973.0,0mA6dq5xN4jfyV8zg1oySp,0.75,0.347,0.323,0.896,3.0,0.0794,-24.168,0.0,0.0573,141.911,4.0,0.418,11.0,3EB0uKE2lGw6BB1UFJrONl,"jazz funk,jazz fusion,jazz piano,smooth jazz"
+You Just Can't Win (By Making the Same Mistake),Gene Chandler and Jerry Butler,1970.0,6Hy22YDN9HJMRlJP1LwnJy,0.824,0.422,0.28,0.0,5.0,0.297,-11.277,1.0,0.0365,100.839,4.0,0.496,56.0,52uMkSFt2RVO6XxTEt5VeW,"chicago soul,classic soul,northern soul,southern soul"
+It Was a Very Good Year,Craig Hundley Trio,1968.0,2ID3rNM3hFBjqrLcV0Wr0y,0.862,0.215,0.142,0.0,7.0,0.113,-15.395,0.0,0.0325,79.608,4.0,0.126,57.0,1Mxqyy3pSjf8kZZL4QVxS0,"adult standards,easy listening,lounge"
+Bicentennial Present,Peter Baumann,1976.0,3PMQJBG74UpBYYtW0vwWvb,0.0632,0.604,0.276,0.82,7.0,0.0586,-15.076,0.0,0.0361,120.046,4.0,0.039,25.0,4u9mLb6exlbHuNehyJ11jq,"berlin school,krautrock"
+A Time for Us,Joe Pass,1969.0,5ALMF4Z6a9VUl66LHVHjBl,0.704,0.333,0.448,0.677,9.0,0.141,-14.122,0.0,0.0384,82.554,4.0,0.369,46.0,4DuZTASH5eSyd0K73W6fuZ,"bebop,jazz,jazz guitar"
+The Awakening,Ahmad Jamal Trio,1970.0,4QC4XLTPHiSdexDsKO5Vi7,0.829,0.531,0.2,0.486,1.0,0.117,-17.265,1.0,0.0353,81.898,4.0,0.128,47.0,0BqALs1lInR9TTOulUADH7,"bebop,jazz,jazz trio"
+Evening Star,Yutaka Yokokura,1978.0,4azoV50K4s4eBkGRHSVWYV,0.936,0.667,0.329,0.942,5.0,0.104,-15.775,0.0,0.0298,128.015,4.0,0.428,46.0,0stmdx2IonUUUIlWQ9bLYZ,"j-ambient,japanese guitar"
+I Think I'll Catch a Bus (And Go Back Home),The Gainsborough Gallery,1969.0,1A3tuE6ti9qoZDwB3LB0t2,0.0401,0.622,0.455,0.0,9.0,0.0957,-7.116,1.0,0.0282,124.412,4.0,0.274,76.0,3OykSjAE6F2Mb51WplFoRk,alabama indie
+Whatcha Gonna Wear Tomorrow,Detroit Emeralds,1973.0,6UBvhlms1M16oUYZkEfqpy,0.349,0.735,0.709,0.0,2.0,0.0944,-7.632,1.0,0.0988,127.241,4.0,0.909,55.0,4K3DSWzghkGUcQOEZG9gpo,"country,country road,wyoming roots"
+Papa Was Too,Joe Tex,1966.0,1whTvmjrBnzDBmyMpLzlqk,0.539,0.742,0.397,0.0,10.0,0.0874,-12.689,0.0,0.0697,91.211,4.0,0.612,14.0,5TbXjzD8tYgMD5JU2g2F8q,"northern soul,southern soul"
+Make the Move,Kenny Loggins,1980.0,4z9HYZuOA4hxGkqsaTj59n,0.132,0.394,0.945,0.333,4.0,0.102,-5.947,0.0,0.383,164.5,4.0,0.393,19.0,3Y3xIwWyq5wnNHPp5gPjOW,"album rock,classic rock,heartland rock,mellow gold,new wave pop,singer-songwriter,soft rock,yacht rock"
+Indiana,Zoot Sims and Bucky Pizzarelli feat. Buddy Rich,1974.0,6OB0RIqwXwXBFpi3Qn1ndS,0.0636,0.434,0.88,0.879,5.0,0.0683,-7.292,0.0,0.0511,141.267,4.0,0.863,47.0,1pVtwG5Up1OZOEpSHJ4AAs,"bebop,jazz,jazz drums"
+Wax & Wane,Dorothy Ashby,1970.0,3maOEqyMVU4V9m1lx1zN6H,0.931,0.41,0.377,0.0128,9.0,0.115,-14.87,0.0,0.0488,92.603,3.0,0.713,29.0,0dAZ2slrElfR0Y5flcoSPt,"jazz funk,jazz harp,space age pop"
+Eleanor Rigby,Four Tops,1969.0,2DjhK8kKIELi6HJub8lU7i,0.0943,0.552,0.72,0.0,0.0,0.0868,-7.843,1.0,0.0521,110.607,4.0,0.423,14.0,7fIvjotigTGWqjIz6EP1i4,"classic soul,disco,motown,quiet storm,soul"
+They Reminisce Over You (T.R.O.Y.),Pete Rock & C.L. Smooth,1992.0,2Mb3zpobD0CvJGWv6NpsPy,0.141,0.761,0.683,0.0,2.0,0.342,-10.889,1.0,0.164,101.787,4.0,0.671,63.0,3fJ60AcIgLzQkVitEvA7uq,"east coast hip hop,jazz rap"
+A Tribute to Wes,Little Beaver,1974.0,3DOdGoUBGnD8FUQDqCbLrY,0.164,0.589,0.761,0.0101,7.0,0.0635,-6.47,1.0,0.0817,123.728,4.0,0.784,30.0,6avpsZzjS5Yy9daHLBCYmn,"traditional funk,traditional soul"
+Invitation,The Four Freshmen,1959.0,21jEuMn2lf37715rwjow2M,0.0757,0.571,0.505,1.04e-05,1.0,0.109,-9.312,0.0,0.0238,99.562,4.0,0.276,64.0,242iqFnwNhlidVBMI9GYKp,"pop rock,post-grunge"
+Jonz in My Bonz,D'Angelo,1995.0,7114JMdpaHhNEOlIY0Ljze,0.462,0.796,0.408,0.0902,1.0,0.0993,-12.268,1.0,0.231,86.855,4.0,0.688,40.0,336vr2M3Va0FjyvB55lJEd,"indie soul,neo soul,soul"
+Shoe Salesman,Alice Cooper,1970.0,5XcZRgJv3zMhTqCyESjQrF,0.0327,0.28,0.908,8.85e-06,2.0,0.18,-5.509,0.0,0.109,118.698,4.0,0.26,75.0,3EhbVgyfGd7HkpsagwL9GS,"album rock,classic rock,detroit rock,glam metal,glam rock,hard rock,metal,protopunk,rock"
+Plain Truth,Gentle Giant,1971.0,3nn6UD1JIeLe7KmK5cv6rd,0.605,0.501,0.271,0.604,11.0,0.2,-16.509,0.0,0.063,97.731,4.0,0.39,22.0,1hrQ50kU6hMQBVLatqUqnO,"progressive rock,symphonic rock,zolo"
+Does Anybody Know I'm Here,The Dells,1969.0,5O5AwtNW8jjhTfM98LmuG1,0.601,0.43,0.572,0.0,7.0,0.159,-8.779,1.0,0.0327,87.067,4.0,0.674,20.0,0wbrRIw2po5DV4LeaHw55S,"chicago soul,classic soul,disco,funk,quiet storm,soul,southern soul"
+Nothing's the Same,Banco Del Mutuo Soccorso,1975.0,4NhpT1ZDvHYJtpG1XyVMFn,0.402,0.642,0.567,0.0,7.0,0.324,-6.504,1.0,0.0836,76.048,4.0,0.148,57.0,1agitLLSB3eRO5FTo5FK6y,
+Sweet Misery,Martha Reeves,1974.0,2fiu7gHgMvJbwdAhXro5rb,0.0451,0.724,0.62,0.0,4.0,0.141,-7.755,1.0,0.0658,95.814,4.0,0.83,10.0,3Hut5CO4gDNYQfG63a7Wl4,motown
+Long Red,Mountain,1972.0,6Y5VZsAiaWIThMqHGN0GST,0.292,0.455,0.871,0.129,4.0,0.334,-6.25,0.0,0.113,92.136,4.0,0.758,8.0,7LCp4MN0SOIVWlssid9KyE,"album rock,blues rock,classic rock,country rock,electric blues,hard rock,proto-metal,psychedelic rock"
+Animosity,Fred Weinberg,1968.0,39v0PIZDBGdEbcfbYE2TCj,0.0159,0.79,0.472,0.0,9.0,0.0668,-12.405,1.0,0.394,115.882,4.0,0.621,5.0,4Z47dBr1kJfehebcuhmnZZ,"library music,moog"
+Moments in Love,Art of Noise,1983.0,2bsczk82MWGPmTbe6IWYsa,0.28,0.696,0.234,0.0511,9.0,0.311,-14.991,1.0,0.112,138.118,4.0,0.489,55.0,77zrvBORXcnTyysjjKRfBU,"new romantic,synthpop"
+One Way Ticket (To the Blues),Barry Blue,1974.0,0meAc2H0tC5tOTd6MDe0cI,0.0291,0.696,0.778,1.77e-06,1.0,0.13,-7.28,1.0,0.0286,119.93,4.0,0.746,58.0,2d3VHzlOEwXvmBdS4pzOPL,"contemporary country,country,country dawn,country road"
+Dernier Domicile Connu,François de Roubaix,1970.0,54lPGCMFPBDjRBWDjNRdHR,0.531,0.529,0.484,0.678,10.0,0.106,-9.059,1.0,0.0257,82.618,4.0,0.457,36.0,5oyNl4KxsjkVfyvnwcl8ex,"french soundtrack,vintage french electronic"
+It's a Man's Man's Man's World,James Brown,1966.0,3SQ9Hb9rfpJ02AWfaOPhpy,0.687,0.539,0.24,5.12e-05,3.0,0.133,-16.632,0.0,0.0426,80.816,3.0,0.567,64.0,32r72WOqqRO1DtSznId7Lr,soul
+Nothing Seems Impossible,The Emotions,1972.0,2M2WJ7gBlcKNxdhyfPp9zY,0.447,0.784,0.713,0.14,0.0,0.0904,-6.865,1.0,0.0339,115.443,4.0,0.97,72.0,64CuUOOirKmdAYLQSfaOyr,"chicago soul,classic soul,disco,funk,girl group,motown,post-disco,quiet storm,soul"
+Fly Me to the Moon,Vince Guaraldi Trio,1989.0,59vZ4sIpNRXW9QCxT1Xr4P,0.906,0.41,0.29,0.267,3.0,0.106,-12.624,1.0,0.0337,174.064,4.0,0.229,31.0,4ytkhMSAnrDP8XzRNlw9FS,jazz trio
+Time: The Donut of the Heart,J Dilla,2006.0,6ywnTBL62OTd8HUaztJizb,0.0685,0.419,0.713,0.541,5.0,0.291,-8.867,0.0,0.0975,186.788,4.0,0.555,57.0,0IVcLMMbm05VIjnzPkGCyp,"alternative hip hop,detroit hip hop,hip hop,instrumental hip hop"
+They're Off to Find the Wozard,The Wozard of Iz,1968.0,3cT2knV4AvpBPGUmYxIonh,0.164,0.537,0.747,0.000255,10.0,0.712,-7.297,1.0,0.0537,76.273,4.0,0.65,48.0,3C8RpaI3Go0yFF9whvKoED,"australian alternative rock,australian dance,collage pop,electronica,indietronica,new rave,psychedelic hip hop"
+Whole Lotta Love,Led Zeppelin,1969.0,0hCB0YR03f6AmQaHbwWDe8,0.0484,0.412,0.902,0.131,9.0,0.405,-11.6,1.0,0.405,89.74,4.0,0.422,78.0,36QJpDe2go2KgaRleHCDTp,"album rock,classic rock,hard rock,rock"
+Verses From the Abstract,A Tribe Called Quest,1991.0,6zrsmzrMoxNkXEQLubCWtA,0.0913,0.868,0.424,0.000152,7.0,0.161,-14.047,1.0,0.329,87.614,4.0,0.755,50.0,09hVIj6vWgoCDtT03h8ZCa,"conscious hip hop,east coast hip hop,golden age hip hop,hip hop,jazz rap,queens hip hop"
+Middle of the Night,Lalo Schifrin,1979.0,58HvfVOeJY7lUuCqF0m3ly,0.0228,0.41,0.611,0.0,4.0,0.116,-8.271,0.0,0.0467,185.727,3.0,0.0899,87.0,67MNhiAICFY6Pwc2YxCO0K,alt z
+Herman Wright,Larry Coryell,1969.0,3uIfRksE9UPDXaKdPs3IXS,0.47,0.554,0.164,0.0179,11.0,0.152,-17.907,0.0,0.0339,83.262,4.0,0.195,7.0,25s8YpOLWqI2SgTlvapJyQ,"jazz fusion,jazz guitar"
+Diamond Girl,Seals & Crofts,1973.0,7CQQBWqFfROA5RWyY04ifv,0.463,0.575,0.386,0.00176,4.0,0.0576,-12.012,0.0,0.0319,138.467,4.0,0.414,57.0,6jdObwsrIjSRnBbMw6lPBj,"album rock,classic rock,folk rock,mellow gold,singer-songwriter,soft rock,yacht rock"
+Pain,Ohio Players,1971.0,01NsJ6eZGuF0dWVtGtFYh3,0.0838,0.515,0.705,0.000245,0.0,0.0853,-9.687,1.0,0.078,98.921,4.0,0.616,30.0,6m30rs1IQqnWqV5nKMpU7U,"classic soul,disco,funk,p funk,quiet storm,soul"
+Moonchild,King Crimson,1969.0,32GKpDMBMNQI3FdXlFFsMD,0.869,0.362,0.0373,0.451,9.0,0.106,-26.157,0.0,0.0529,77.479,4.0,0.0427,48.0,7M1FPw29m5FbicYzS2xdpi,"art rock,instrumental rock,jazz rock,progressive rock,psychedelic rock,symphonic rock,zolo"
+King Heroin,James Brown,1972.0,0zu7GG2nftctpGY7WAYfhW,0.659,0.506,0.32,1.76e-05,10.0,0.135,-14.447,0.0,0.327,145.274,3.0,0.719,36.0,7GaxyUddsPok8BuhxN6OUW,"funk,soul"
+Aquarius/Let the Sunshine In,The Moog Machine,1969.0,0jEd8otuJyoFGojLtOmzl0,0.632,0.39,0.546,0.386,0.0,0.227,-10.726,1.0,0.0553,118.009,4.0,0.519,9.0,7Jq6MI5lICjpWFTfIm9buj,moog
+A Treatise on Cosmic Fire: Intro - Prana,Todd Rundgren,1975.0,0QtrSCEezodsQ7pHXsIvc8,0.195,0.233,0.69,0.203,11.0,0.202,-14.346,1.0,0.0422,166.258,4.0,0.365,9.0,0Lpr5wXzWLtDWm1SjNbpPb,"art rock,country rock,folk rock,mellow gold,philly soul,power pop,singer-songwriter,soft rock,zolo"
+Rock On,David Essex,1973.0,0uPIwcT6OdJ5BAJdYkxVp9,0.723,0.676,0.292,0.00189,11.0,0.433,-14.448,1.0,0.34,74.798,4.0,0.649,52.0,46n0cAhBmsRJZiX6GSFmbf,glam rock
+I'm Hooked on You,Al Green,1974.0,40SxgMXh5FDikmZdNaLDeH,0.109,0.661,0.433,5.59e-05,5.0,0.0821,-11.145,1.0,0.0252,92.173,4.0,0.816,33.0,3dkbV4qihUeMsqN4vBGg93,"classic soul,funk,memphis soul,soul,soul blues,southern soul"
+Talybont,Gentle Giant,1975.0,3KUzngWbwJ5a38toqxM1HY,0.000757,0.449,0.836,0.867,4.0,0.146,-9.13,1.0,0.0808,142.045,4.0,0.33,41.0,3adhzSHzVWN1ICfxIqO9Cn,"djent,jazz metal,progressive jazz fusion"
+Can't You See It's Me,Diana Ross and The Supremes,1969.0,4yChgYDVcQrAgIEIErW27b,0.273,0.687,0.45,0.0,1.0,0.0694,-10.379,1.0,0.0258,99.832,4.0,0.752,51.0,0rXI0q8Cahq6numvPlloaq,classic girl group
+Turn Off the Lights,Larry Young,1975.0,7dsImih2L25fa6qjNphBI7,0.0467,0.824,0.745,3.29e-05,11.0,0.198,-5.49,0.0,0.0755,125.013,4.0,0.888,68.0,5Igpc9iLZ3YGtKeYfSrrOE,"bass house,edm,electro house,house,melbourne bounce,pop dance,progressive house"
+Yesterday,Gladys Knight & the Pips,1968.0,0bYwN4LqZYLfs9ZEHPXjBC,0.309,0.352,0.545,0.0563,1.0,0.106,-11.939,0.0,0.0871,189.498,4.0,0.459,55.0,0TF2NxkJZPQoX1H53rEFM1,"classic soul,disco,funk,motown,quiet storm,soul"
+Catherine of Aragon,Rick Wakeman,1973.0,3bFue3Ib0IsxhkvM7BsIiS,0.433,0.351,0.307,0.85,3.0,0.328,-12.071,1.0,0.0336,105.092,4.0,0.0951,28.0,0mkcYaXUbJUs5mJointuzB,"art rock,progressive rock,rock keyboard,symphonic rock"
+Gimme Little Sign,Brenton Wood,1967.0,1h4XVjt26ZCDKmeEoHxT07,0.154,0.742,0.663,0.0,10.0,0.197,-5.06,0.0,0.0321,113.005,4.0,0.913,58.0,6ohvzFHYmLd05kyYhLui5K,souldies
+Run Through the Jungle,Creedence Clearwater Revival,1970.0,5VfgDw3oOzcNoszDwkLQhH,0.0157,0.638,0.756,0.176,7.0,0.0958,-5.916,1.0,0.0483,136.557,4.0,0.837,69.0,3IYUhFvPQItj6xySrBmZkd,"classic rock,country rock,rock,southern rock,swamp rock"
+Cidade Vazia,Milton Banana Trio,1966.0,6IY2P99JNJXMYEPCEUoXRy,0.108,0.584,0.807,0.864,1.0,0.172,-11.626,0.0,0.0356,101.903,4.0,0.869,38.0,67Hc7bfMwfqkyOUCjQgRkf,"bossa nova,brazilian jazz,samba-jazz"
+The Smile,David Axelrod,1968.0,5T5MLNxEg0h6lGWRetSZPV,0.264,0.43,0.385,0.875,9.0,0.352,-12.948,0.0,0.0278,90.806,4.0,0.274,30.0,4hCKF3RZSkFSMntkfCxO74,"instrumental soul,jazz funk"
+Daquilo Que Eu Sei,Joe Pass,1985.0,6BH7yXu2TGulH6Gdn6zJSI,0.914,0.613,0.287,0.864,2.0,0.133,-14.378,0.0,0.119,80.726,4.0,0.692,42.0,4DuZTASH5eSyd0K73W6fuZ,"bebop,jazz,jazz guitar"
+Les Entretiens De La Belle Et De La Bête,Isao Tomita,1979.0,2rJFFUEl1LURkV0b0OARXx,0.78,0.241,0.162,4.53e-06,8.0,0.153,-14.447,1.0,0.035,171.584,4.0,0.183,58.0,0LtVJXnPR8msCJiE2DjHxy,movie tunes
+Summer in the City,The Lovin' Spoonful,1966.0,7AzFID6u1b3zIWbd9pb8Dk,0.0592,0.423,0.681,0.000177,10.0,0.0889,-9.756,1.0,0.0398,110.461,4.0,0.56,66.0,7CCn4PFRRRZF127jtCBAUe,"classic rock,country rock,folk,folk rock,mellow gold,psychedelic rock,rock-and-roll,soft rock"
+San Juan Sunset,Deodato,1978.0,0Pq0mOdgFXTezl6mMt8a39,0.959,0.597,0.263,0.9,7.0,0.134,-21.112,0.0,0.0284,94.44,4.0,0.262,43.0,0hE3uA2w3guHeKvuc7BpRr,"bossa nova jazz,brazilian jazz,jazz funk"
+Remind Me,Patrice Rushen,1982.0,4nFtNdjJtuRXmThiJo7Z5t,0.334,0.807,0.475,0.0392,4.0,0.0781,-9.003,0.0,0.0458,91.193,4.0,0.84,54.0,1mNnxxnPfHQDOkFjnZmdkc,"disco,funk,jazz funk,post-disco,quiet storm,soul"
+Are You All the Things,Bill Evans and Eddie Gomez,1974.0,3KHadZNkrxLXgR8ji3cScB,0.986,0.618,0.123,0.938,1.0,0.167,-20.434,1.0,0.112,119.784,4.0,0.591,10.0,4jXfFzeP66Zy67HM2mvIIF,"bebop,contemporary post-bop,cool jazz,jazz,jazz piano,vocal jazz"
+Daphnis Et Chloé: Suite No. 2,Isao Tomita,1979.0,1xbCmCTvzd6nhbTJIg5pFu,0.925,0.0704,0.179,0.911,4.0,0.112,-17.395,0.0,0.0409,77.027,3.0,0.0354,44.0,17hR0sYHpx7VYTMRfFUOmY,"classical,impressionism,neoclassicism,post-romantic era"
+Cars,Gary Numan,1979.0,4QQEzkxcONBthDLfzqIh9S,0.0114,0.545,0.578,6.57e-05,2.0,0.0692,-8.745,1.0,0.0406,128.038,4.0,0.819,64.0,5KQMtyPE8DCQNUzoNqlEsE,"new romantic,new wave,new wave pop,permanent wave,synthpop"
+Track 09,J Dilla,2005.0,4S6Bo2c9FzVaq0vdqqLqgU,0.74,0.47,0.792,3.3e-05,5.0,0.708,-6.242,0.0,0.411,180.685,4.0,0.559,62.0,0IVcLMMbm05VIjnzPkGCyp,"alternative hip hop,detroit hip hop,hip hop,instrumental hip hop"
+Ponteio,Sérgio Mendes,1968.0,0999z9YuguBAfivqf4PpDX,0.257,0.529,0.571,0.338,1.0,0.11,-11.165,1.0,0.0379,113.262,4.0,0.577,10.0,65c5si0ePAwkOCn4M35Ho7,"bossa nova,brazilian jazz,samba"
+Funky Drummer,James Brown,1970.0,0VbpqlboEkGQ7Pu6juJljZ,0.736,0.696,0.676,0.471,11.0,0.126,-10.798,1.0,0.213,91.043,4.0,0.485,32.0,7GaxyUddsPok8BuhxN6OUW,"funk,soul"
+Psyché Rock,Pierre Henry and Michel Colombier,1967.0,1SeFJKXiXP8o374gDUylL9,0.475,0.566,0.864,0.168,9.0,0.154,-10.704,1.0,0.0525,106.863,4.0,0.342,33.0,5ITPNl5P6R6cFbw4DAcMAY,"acousmatic,electroacoustic composition,musique concrete,vintage french electronic"
+Alpha,Vangelis,1975.0,1qkp9OvCk8FjeDdEd2bKQ6,0.149,0.556,0.284,0.808,9.0,0.297,-16.047,1.0,0.0288,84.202,4.0,0.087,43.0,4P70aqttdpJ9vuYFDmf7f6,"cyberpunk,synthesizer"
+Don't Stop What You're Doin',Alicia Myers,1981.0,3BgU91zcmjGqjk3GciEh5b,0.186,0.756,0.42,0.00173,11.0,0.0897,-12.09,0.0,0.0615,119.584,4.0,0.947,27.0,7v4FV3DzSUOvaZyMwTxKIG,post-disco
+Eleanor Rigby,Wendy Carlos,1975.0,5GjPQ0eI7AgmOnADn1EO6Q,0.936,0.581,0.28,1.56e-05,4.0,0.305,-9.091,0.0,0.0381,137.831,4.0,0.813,70.0,3WrFJ7ztbogyGnTHbHJFl2,"beatlesque,british invasion,classic rock,merseybeat,psychedelic rock,rock"
+Sexy Mama,The Moments,1973.0,5ChVinzHHiPyUAbQhB4w3g,0.0868,0.738,0.512,0.0986,11.0,0.171,-12.143,1.0,0.0295,84.277,4.0,0.762,32.0,6avGAzQTmqu8mfSmZrN7gT,"classic soul,disco,funk,motown,post-disco,quiet storm,soul,southern soul"
+T.T.T. (Twelve Tone Tune),Bill Evans,1971.0,1cpANF6zMBoFoxkoIjZHjv,0.993,0.478,0.0294,0.948,0.0,0.105,-25.319,1.0,0.0453,124.308,3.0,0.148,59.0,4jXfFzeP66Zy67HM2mvIIF,"bebop,contemporary post-bop,cool jazz,jazz,jazz piano,vocal jazz"
+Risin' to the Top,Keni Burke,1982.0,5iVxHPyHVO7vWSDnRpNH5d,0.189,0.729,0.54,0.000208,0.0,0.14,-9.33,0.0,0.0606,94.071,4.0,0.815,54.0,1EVOoMiMrmOEYXHd36poF2,"post-disco,post-disco soul"
+You Make Me Feel Like Dancing,Leo Sayer,1976.0,6gTrbqZnyljwXdYQTyBkSx,0.0848,0.728,0.718,0.0,8.0,0.0579,-5.281,0.0,0.0501,95.922,4.0,0.733,64.0,04LIHk1SobiQwt2tlupoAV,"mellow gold,soft rock"
+Escape (I Need a Break),Whodini,1984.0,2n3GMJ9jj7MU1Lw7QAhJm7,0.0309,0.848,0.855,0.00122,7.0,0.0277,-8.138,1.0,0.0452,114.42,4.0,0.765,22.0,4dBOV77d0Fy9KcTZkieXcu,"east coast hip hop,old school hip hop"
+One for Ghost,J Dilla,2006.0,08BY6BAxMOZ76RKIcupvXR,0.322,0.591,0.543,0.852,2.0,0.285,-8.253,1.0,0.0722,85.012,4.0,0.366,42.0,0IVcLMMbm05VIjnzPkGCyp,"alternative hip hop,detroit hip hop,hip hop,instrumental hip hop"
+Introduction,"Bel-Sha-Zaar, Tommy Genapopoluis and The Grecian Knights",1969.0,6GVmcfHhkfuRC6FRGJbX2p,0.843,0.901,0.546,0.925,10.0,0.111,-12.264,0.0,0.0367,102.308,4.0,0.589,53.0,5qnkHpjyS6CUxH1UUy82B7,
+Pictures of Matchstick Men,Status Quo,1968.0,0MRs5O62wfDgf5cQKalrPq,0.0672,0.241,0.604,4.98e-05,7.0,0.0541,-3.817,1.0,0.0313,173.134,4.0,0.417,51.0,4gIdjgLlvgEOz7MexDZzpM,"blues rock,british blues,glam rock"
+Procession,The Moody Blues,1971.0,6L5BZEcZmD6RBJnimzlyKr,0.465,0.195,0.483,0.497,4.0,0.0686,-4.991,0.0,0.03,84.71,4.0,0.173,67.0,5BcZ22XONcRoLhTbZRuME1,"album rock,art rock,british invasion,classic rock,country rock,flute rock,folk rock,hard rock,heartland rock,mellow gold,progressive rock,rock,singer-songwriter,soft rock,symphonic rock"
+Make Love,The Travel Agency,1968.0,3zo93Swpm7wIkLJEFc1DIL,0.0868,0.581,0.579,0.0,9.0,0.312,-5.866,1.0,0.036,60.991,4.0,0.852,51.0,7bXgB6jMjp9ATFy66eO08Z,"r&b,rap"
+Movement 1 (Soil Festivities),Vangelis,1984.0,2OIcJNXh2RKY9i13XN7d11,0.799,0.381,0.1,0.0548,10.0,0.203,-22.604,0.0,0.0291,144.628,4.0,0.0531,15.0,4P70aqttdpJ9vuYFDmf7f6,"cyberpunk,synthesizer"
+Wring Out the Ground (Loosely Now),Egg,1974.0,7cxcMgTHKSZ25C0q1i50Dk,0.974,0.552,0.0855,0.0,7.0,0.137,-21.638,1.0,0.101,83.871,4.0,0.604,52.0,6zQlhM6cyJRrzuqAbB8PlB,"pixel,pov: indie"
+It's About Time,H. P. Lovecraft,1968.0,3aabBAjWkJZhD8Y8zfzTF2,0.0462,0.388,0.376,0.00726,11.0,0.712,-10.874,0.0,0.0421,127.723,4.0,0.389,11.0,6VF7eMgoQIHyufTkib3Fff,
+Take Me,Fabulous Souls,1971.0,7LyBijjHIOoO8CSxVwVRKM,0.202,0.676,0.632,0.000139,8.0,0.101,-12.726,1.0,0.0688,120.862,4.0,0.86,49.0,6zmLTiN3NBNCDECRbbJKkT,"blues,blues rock,country rock,electric blues,heartland rock,modern blues,southern rock,texas blues"
+Canto De Ossanha,Dorothy Ashby,1969.0,4yCohBrqXj0iFdeuQK7AkO,0.813,0.714,0.55,0.91,10.0,0.158,-12.031,1.0,0.0949,93.303,4.0,0.804,35.0,0dAZ2slrElfR0Y5flcoSPt,"jazz funk,jazz harp,space age pop"
+Annabelle Clark,The Cake,1968.0,0gPpxPmn0Cr0pKeeuyahZX,0.0168,0.548,0.323,4.73e-06,11.0,0.32,-9.565,0.0,0.0328,121.912,4.0,0.365,2.0,0dLI7RV05PRj2Rk14ATa40,
+Asiko (In a Silent Mix),Tony Allen,1999.0,6VJxaWAaMSKZsZNtZxpVan,0.00643,0.853,0.713,0.748,1.0,0.306,-10.11,1.0,0.141,119.621,4.0,0.304,36.0,6JpZEemWmunccsrHXFUOgi,"afrobeat,afropop,world"
+Occapella,Ringo Starr,1974.0,4RFqi5JQduiSlRZCVlUDGH,0.0396,0.609,0.624,0.000168,7.0,0.277,-11.717,1.0,0.0292,123.191,4.0,0.691,58.0,6DbJi8AcN5ANdtvJcwBSw8,"beatlesque,classic rock,rock drums"
+"Three Dances From ""Nutcracker Suite""",Walter Carlos,1975.0,0CJuLeZpCdqrqoCMXWZw8k,0.944,0.149,0.128,0.928,2.0,0.0703,-20.459,1.0,0.0462,47.362,3.0,0.113,59.0,3MKCzCnpzw3TjUYs2v7vDA,"classical,late romantic era,russian romanticism"
+Dead,Cresa Watson,1970.0,2Oo397nWzelAKMQBBIL8YI,0.00263,0.558,0.925,0.0,8.0,0.188,-3.428,0.0,0.0423,148.042,4.0,0.829,56.0,2cFrymmkijnjDg9SS92EPM,"alt z,pop"
+Look of Love,Ray 'Funky Trumpet' Davies,1967.0,6HvUtPLqkP0t6zd6YNdWby,0.11,0.731,0.91,0.000447,9.0,0.313,-4.559,0.0,0.0918,120.991,4.0,0.886,65.0,2s79xe5F6eUQkjwjww27Fh,"dance rock,new romantic,new wave,new wave pop,sophisti-pop,synthpop"
+Lady Ostrich,Pookah,1969.0,5wTuwHjZ7bbaAkf2vqFS37,0.14,0.72,0.649,0.787,11.0,0.238,-9.394,0.0,0.0415,139.993,4.0,0.212,45.0,56XvNT6cBlQRq80XBVFqYi,livetronica
+Let the Sunshine In,Mort Garson,1969.0,5G7eMQn03ikTyrIM7PWL7t,0.00421,0.57,0.798,0.932,10.0,0.044,-10.479,0.0,0.0666,114.316,4.0,0.211,12.0,0WmzT6tMLhdST5BfYagbha,"canadian psychedelic,moog,space age pop,synthesizer"
+Rain Dances,Camel,1977.0,20ItjRPMSnOXezouvde0k9,0.747,0.198,0.289,0.178,7.0,0.145,-15.74,0.0,0.0453,142.08,3.0,0.0786,22.0,3Uz6jx81OY2J5K8Z4wmy2P,"canterbury scene,flute rock,progressive rock,symphonic rock"
+Problems,Lee Fields,2002.0,0eSqikhE2HIHrPbZFk5UXy,0.734,0.752,0.734,0.438,3.0,0.0557,-6.566,0.0,0.0673,86.432,4.0,0.955,22.0,2bToe6WyGvADJftreuXh2K,"afrobeat,funk,soul"
+The Wisdom of Time,The Supremes,1972.0,06A4NOCfI6WyixbKbxg4LW,0.587,0.795,0.535,1.58e-05,1.0,0.196,-11.038,1.0,0.0389,114.039,4.0,0.945,10.0,57bUPid8xztkieZfS7OlEV,"adult standards,classic girl group,disco,motown,soul"
+Why Is That?,Boogie Down Productions,1989.0,7IsDxjibIjtXXZKQH0Zxud,0.00638,0.856,0.544,0.0,2.0,0.104,-14.483,1.0,0.367,96.073,4.0,0.582,24.0,4toEjJSZu1rbfX2hfVdZFA,"bronx hip hop,conscious hip hop,east coast hip hop,gangster rap,golden age hip hop,hip hop,old school hip hop"
+Let the Dollar Circulate,Billy Paul,1975.0,3ihmJ6AKx2BC6vWhx25eaH,0.0151,0.616,0.756,0.000317,3.0,0.0648,-9.24,0.0,0.0396,95.936,4.0,0.884,35.0,187xgSpsFH8mMbAcoCW0zE,"classic soul,disco,motown,philly soul,quiet storm,soul"
+Chillin' Out,The Fatback Band,1980.0,0EdED1sDvu0BH6HEirMClE,0.19,0.64,0.607,0.769,2.0,0.0484,-12.507,1.0,0.0327,111.864,4.0,0.686,29.0,6PWU6JQvvYv5sz5FOODHg6,"classic soul,disco,funk,harlem hip hop,jazz funk,p funk,post-disco"
+Cosmic Mind Affair,Acqua Fragile,1974.0,6y0Etr2KJr0sdcEp7ajoUK,0.0261,0.633,0.921,0.00102,11.0,0.309,-7.719,0.0,0.0495,119.865,4.0,0.925,68.0,6J7biCazzYhU3gM9j1wfid,dance pop
+"Make It Fast, Make It Slow",ROB,1978.0,2pjldV28AOlRL9QOZxdFu5,0.0413,0.252,0.55,5.37e-05,1.0,0.173,-14.356,1.0,0.28,75.947,5.0,0.305,56.0,3ljwDyCS0rfMOlhf5QMxV0,
+My Baby Must Be a Magician,The Marvelettes,1968.0,1CmylxKewaz3wVVgYcPzmb,0.16,0.643,0.471,0.00128,7.0,0.191,-10.029,0.0,0.056,127.165,4.0,0.639,31.0,0MponVSpW81oLvJZ53vYZH,"classic girl group,classic soul,motown,soul"
+"Heartbreaker (Part I, Part II)",Zapp,1983.0,487lDz6QPxnAgrVTpykRHb,0.0671,0.891,0.446,3.59e-06,5.0,0.157,-12.784,0.0,0.0602,104.94,4.0,0.832,44.0,396Kh0m4wGUvcMUULw71yi,"funk,new jack swing,p funk,popping,post-disco,quiet storm,soul,synth funk"
+Cold Blooded,Rick James,1983.0,7LHfhusSfulgzuiMg7e3Cz,0.0172,0.939,0.487,0.0124,10.0,0.05,-7.641,0.0,0.153,117.637,4.0,0.646,46.0,0FrpdcVlJQqibaz5HfBUrL,"disco,funk,motown,quiet storm,soul,synth funk"
+Hold Tight,Change,1981.0,3HmU74RIPV2LgkjJUeU7Cd,0.257,0.767,0.79,1.01e-06,5.0,0.152,-5.495,0.0,0.0846,115.03,5.0,0.876,32.0,2fJ2vi4PUSxyvYaeq0FTbE,"disco,funk,minneapolis sound,post-disco"
+Michelle,The Singers Unlimited,1972.0,7ijbbG90SkjSKO9oZ0N8vR,0.99,0.246,0.0828,2.35e-05,2.0,0.123,-17.078,0.0,0.033,142.336,1.0,0.0512,33.0,3RsROIs1zuuC3lwIdhJ0if,"a cappella,vocal harmony group"
+The Clapper,Joseph Enterprises,1984.0,2XHqeL9BXzLniPegco74aH,0.634,0.596,0.301,0.0,10.0,0.0924,-17.191,1.0,0.0806,148.176,4.0,0.351,37.0,4aP1lp10BRYZO658B2NwkG,"broadway,west end"
+Comin' From All Ends,The New Birth,1974.0,494DXMQIWCdr4qUdO88wRL,0.201,0.604,0.712,0.000179,4.0,0.0389,-12.173,0.0,0.0594,98.177,4.0,0.878,6.0,34Bm9d5DAJjSnaI02BCjdA,"classic soul,disco,funk,motown,p funk,post-disco,quiet storm,soul,southern soul"
+You Call It Madness,Clare Fischer,1970.0,3Y4rUyw7XBCK6hGHCOt6rp,0.983,0.544,0.241,0.774,4.0,0.101,-14.779,0.0,0.03,109.437,4.0,0.359,72.0,0epOFNiUfyON9EYx7Tpr6V,"alternative rock,garage rock,modern rock,permanent wave,rock"
+Five to One,The Doors,1968.0,5FlBGGwGuqYmqr0qeBWrxe,0.203,0.615,0.401,0.0,4.0,0.086,-14.07,0.0,0.0507,87.959,4.0,0.672,57.0,22WZ7M8sxp5THdruNY3gXt,"acid rock,album rock,classic rock,hard rock,psychedelic rock,rock"
+Why Is Now,Les McCann,1975.0,2RExPsuk58t5LFadfzcZ6k,0.688,0.324,0.11,1.82e-05,9.0,0.0944,-11.961,0.0,0.0348,143.818,3.0,0.068,2.0,07tYu4BGrfeogBobCefkHI,"jazz funk,jazz piano,soul jazz"
+The Rainmaker,The 5th Dimension,1971.0,0HZlND4giwzgolBpaNIRGV,0.445,0.293,0.74,0.00152,7.0,0.0998,-6.098,1.0,0.0399,118.225,4.0,0.514,60.0,1UUYAQ9LiRsZF0ZukQNWXM,"adult standards,bubblegum pop,folk rock,mellow gold,motown,singer-songwriter,soft rock,sunshine pop"
+Spirit of Summer,Deodato,1972.0,4IaalxlQr40ydpKxEFg8sm,0.585,0.3,0.31,0.506,3.0,0.228,-14.576,1.0,0.0348,142.495,4.0,0.332,24.0,0hE3uA2w3guHeKvuc7BpRr,"bossa nova jazz,brazilian jazz,jazz funk"
+Eric B. Is President,Eric B. & Rakim,1987.0,3a8r3EYOFZB7cT1OkK4zXF,0.067,0.891,0.69,0.0,1.0,0.234,-8.649,1.0,0.378,96.561,4.0,0.835,41.0,6jHG1YQkqgojdEzerwvrVv,"bboy,east coast hip hop,golden age hip hop,hip hop,old school hip hop"
+Dream Suite,Dreams,1970.0,3RznzRnsl8mzP63l4AF2M7,0.919,0.341,0.426,0.0673,0.0,0.106,-11.194,1.0,0.0416,169.986,4.0,0.187,66.0,2FRXiAz5Uz78LLLSwEUhLt,pov: indie
+Stay With Me,Gary Davis,1982.0,2WYs5LxOZfEyURXu7V0O1a,0.302,0.684,0.844,0.0,9.0,0.374,-7.649,1.0,0.335,126.677,5.0,0.335,78.0,3ZHU5AKrUmIPnCFfr82QER,aesthetic rap
+Clover,"Earth, Wind & Fire",1973.0,2grjqo0Frpf2okIBiifQKs,0.168,0.697,0.832,0.00131,9.0,0.269,-7.264,1.0,0.0298,125.926,4.0,0.979,77.0,4QQgXkCYTt3BlENzhyNETg,"disco,funk,jazz funk,soul"
+Kazooed on Classics,Temple City Kazoo Orchestra,1982.0,4vUFscDzST4yiAu5F8rbuW,0.881,0.573,0.1,0.0287,0.0,0.143,-11.205,1.0,0.0449,118.99,4.0,0.413,37.0,7wru3hNbTK0BfgZa9LKxd3,meme
+Bacharach-David Medley,Carpenters,1971.0,5GZTkT6Oe7Ub2Nh4X9eQDc,0.792,0.423,0.523,5.22e-06,5.0,0.965,-11.882,1.0,0.0947,94.036,4.0,0.506,8.0,1eEfMU2AhEo7XnKgL7c304,"adult standards,mellow gold,soft rock"
+Glowin',The Rationals,1969.0,4DaShac4Lp2LdpNZfKHZ9K,0.341,0.399,0.393,0.0,7.0,0.856,-13.209,1.0,0.032,82.98,4.0,0.521,41.0,2meCldH9KV1ehJBoluZZag,"classic garage rock,deep classic garage rock"
+Me and the Gang,Bohannon,1978.0,0GjiU2WQ8IVxmbt8WJL7TY,0.00175,0.626,0.84,0.000382,2.0,0.0567,-13.132,1.0,0.162,115.872,4.0,0.498,28.0,3opvWF0Koer2VPIJVOqnU6,"deep disco,disco,post-disco"
+Necronomania,Manfred Hübler and Siegfried Schwab,1971.0,3cbiqfq1YOGhFYlOPZxEw5,0.302,0.293,0.328,0.0133,4.0,0.235,-12.134,0.0,0.0306,82.123,3.0,0.38,29.0,13MnV7biLgN0jfwmU62VFV,
+Eldorado,Electric Light Orchestra,1974.0,2hdqQznTXT1M96p0v64ABI,0.78,0.195,0.281,0.915,4.0,0.146,-16.853,0.0,0.0425,73.537,4.0,0.11,38.0,7jefIIksOi1EazgRTfW2Pk,"album rock,art rock,beatlesque,classic rock,glam rock,mellow gold,rock,soft rock,symphonic rock"
+Quiet Lady,Thad Jones and Mel Lewis,1974.0,6TkAWagMMPHBooHfZJRNLA,0.897,0.536,0.128,0.0081,2.0,0.248,-20.283,0.0,0.0384,117.122,3.0,0.229,4.0,6DbqS0X8cSFOPGsvyze2yh,"bebop,contemporary post-bop,hard bop,jazz,jazz trumpet"
+Affolements Grantiques,The Camarata Contemporary Chamber Group,1970.0,4WJ51qD9MgEEIXmdJYNIms,0.0284,0.647,0.621,0.00244,11.0,0.112,-7.421,1.0,0.0321,120.976,4.0,0.517,35.0,3WmJtsu5NfNAXAO2akMlrq,
+Is This What Feeling Gets? (Dorothy's Theme),Diana Ross,1978.0,04WKUKU3DJSuefjv67ZiwV,0.806,0.227,0.22,2.13e-05,9.0,0.187,-12.204,1.0,0.0399,82.782,4.0,0.191,19.0,3MdG05syQeRYPPcClLaUGl,"adult standards,disco,motown,quiet storm,soft rock,soul"
+You're the One for Me Bobby,The Marvelettes,1968.0,3s2inuLbQQZ7z1GJrdlQr6,0.938,0.573,0.431,0.00995,0.0,0.17,-6.962,1.0,0.0292,174.661,3.0,0.722,48.0,0MponVSpW81oLvJZ53vYZH,"classic girl group,classic soul,motown,soul"
+Frantic Moment,Eddie Hazel,1977.0,4dTyaSoGAyvzvnCY5VDJjE,0.625,0.808,0.515,0.451,7.0,0.187,-11.362,1.0,0.0757,90.32,4.0,0.846,31.0,3JVF9a4IJrL7sTSdjXxIqJ,p funk
+Maxine,Bill Evans,1978.0,3f9KhpRN6mMYoVnpuozgHD,0.903,0.421,0.08,0.859,7.0,0.135,-21.795,1.0,0.04,122.044,3.0,0.0546,59.0,4jXfFzeP66Zy67HM2mvIIF,"bebop,contemporary post-bop,cool jazz,jazz,jazz piano,vocal jazz"
+Hold You Close,P'taah,2003.0,6mk4y7ds78IC01dVJTuq9n,0.0456,0.805,0.872,0.876,10.0,0.0697,-10.056,0.0,0.0465,109.998,4.0,0.803,6.0,1POMDkMfgPRGyHbfkbE67l,broken beat
+Bettina,Bola Sete,1971.0,5Uh3QIc00mXWNQ059q1iwD,0.776,0.562,0.26,0.771,4.0,0.15,-17.132,0.0,0.0282,94.747,4.0,0.292,38.0,3vVLhTD4Etza2AvvWJaNyW,"bossa nova,brazilian jazz"
+Handclapping Song,The Meters,1970.0,3COOd5xqfP3VUeTZtUKcvD,0.487,0.805,0.518,0.853,9.0,0.102,-12.802,1.0,0.0804,90.52,4.0,0.631,46.0,2JRvXPGWiINrnJljNJhG5s,"funk,instrumental soul,jazz funk,new orleans funk,soul"
+The Revolution,Joe Bonner,1988.0,0FUGzUqkqRktGBvIeM3p2X,0.851,0.261,0.296,0.0305,0.0,0.107,-14.22,1.0,0.0324,136.294,3.0,0.308,70.0,1hLiboQ98IQWhpKeP9vRFw,indie pop
+I Get Around,2Pac feat. Shock G and Money-B,1993.0,4voEoczU7Ijborps9XF1n3,0.156,0.846,0.416,9.34e-06,10.0,0.238,-13.767,0.0,0.118,96.188,4.0,0.645,72.0,1ZwdS5xdxEREPySFridCfh,"g funk,gangster rap,hip hop,rap,west coast rap"
+Deus Brasileiro,Jackie & Roy,1968.0,0yO6acWFVxjNLdamo6mqXc,0.983,0.145,0.132,0.00436,1.0,0.0979,-18.143,1.0,0.0388,53.946,4.0,0.0354,9.0,5TlIEEHom333zi0equADiu,
+Red Clay Live,Freddie Hubbard,1980.0,2JdllRPH6a8NCpt2bpxpns,0.407,0.519,0.379,0.288,9.0,0.161,-14.368,1.0,0.0353,139.749,4.0,0.598,37.0,0fTHKjepK5HWOrb2rkS5Em,"bebop,contemporary post-bop,hard bop,jazz,jazz funk,jazz trumpet"
+One More Try,Billy Preston and Syreeta,1981.0,72PoJMDfdaw9gGECgA9kTZ,0.613,0.808,0.83,0.0112,9.0,0.198,-3.995,0.0,0.0283,102.8,4.0,0.909,62.0,0IecGJbdBeYSOVtSPRehh5,"psychedelic soul,rock keyboard,soul"
+Cu Oonuh,Reggie Stepper,1993.0,5WtvWU8nY4S9SLMERRbzHy,0.527,0.788,0.561,0.0,0.0,0.124,-11.12,1.0,0.266,166.338,4.0,0.873,28.0,5jXyw1hN0YcQ7jHeQq1uEk,"deep ragga,old school dancehall"
+Norwegian Wood,Gary Burton,1966.0,4Dg8h2SORZE3lvxMvpKs7L,0.995,0.446,0.057,0.934,9.0,0.106,-20.135,1.0,0.04,140.488,4.0,0.271,5.0,4iovNkf44dsELmo3E7XSKX,"bebop,contemporary post-bop,ecm-style jazz,jazz,jazz fusion,jazz vibraphone"
+Upper Egypt & Lower Egypt,Pharoah Sanders,1966.0,2gbnEaRAcPw30t7RHYczNd,0.576,0.374,0.341,0.561,1.0,0.105,-17.532,0.0,0.0416,107.098,4.0,0.288,19.0,3JLUCojZaHrX2LaUkSj7Ud,"avant-garde jazz,free jazz,hard bop,jazz,jazz funk,jazz saxophone,spiritual jazz"
+The Great Pretender,Brian Eno,1974.0,2FkCjtQ1lYsf71s2FAS8hE,0.943,0.425,0.401,3.44e-06,7.0,0.072,-9.427,1.0,0.0315,115.71,3.0,0.531,64.0,6KWcxMWVNVIYbdOQyJtsSy,"adult standards,easy listening,rock-and-roll,rockabilly"
+"On a Clear Day, You Can See Forever",Barney Kessel,1971.0,6uddYxVxC6qX5PSPzAylid,0.992,0.571,0.0177,0.817,7.0,0.105,-26.536,1.0,0.0481,86.651,4.0,0.108,36.0,6pVkGhtBvjj1P52yn0tNLG,jazz guitar
+More Bounce to the Ounce,Zapp,1980.0,1LiwqqaafXkNQuWGW3HeId,0.124,0.85,0.818,0.00135,0.0,0.349,-8.623,1.0,0.0904,105.266,4.0,0.839,56.0,396Kh0m4wGUvcMUULw71yi,"funk,new jack swing,p funk,popping,post-disco,quiet storm,soul,synth funk"
+The Affair,Brother to Brother,1974.0,2Qv7LbOFsvrxMpymWAA5fg,0.669,0.407,0.171,0.937,7.0,0.108,-22.787,1.0,0.0527,87.472,3.0,0.0379,26.0,0qDZ7wym9Vg843lDKkzmoR,"latin soundtrack,soundtrack"
+Jimbrowski,Jungle Brothers,1987.0,0JwhT2vTrFK4eFlX5ecTdf,0.678,0.312,0.472,0.0,2.0,0.107,-7.344,1.0,0.0415,82.253,3.0,0.346,52.0,2NzWRNaaLByHyI3wpuec8P,"new age,new age piano"
+Healing Force,Don Pullen,1976.0,2AHQFMOrR13phXE9wImOM2,0.98,0.446,0.0959,0.896,0.0,0.122,-19.693,0.0,0.0503,74.92,4.0,0.155,10.0,0zdSGWAAxDPCaU0Xa3FTQP,"avant-garde jazz,free jazz,jazz piano"
+Silhouette,The L.A. Express,1976.0,3hgpJB7GtaaPtetEJ2ueIK,0.000411,0.392,0.923,1.46e-05,2.0,0.351,-2.588,1.0,0.0671,183.024,4.0,0.568,45.0,4sf4DrAOkheqktxTyKm7tO,otacore
+Oh No I Don't Believe It,The Fraternity of Man,1969.0,0U2TocFjqul3sis3sE5jZl,0.0373,0.562,0.991,1.14e-05,7.0,0.425,-2.654,1.0,0.0745,118.004,4.0,0.266,55.0,2OgUPVlWYgGBGMefZgGvCO,"album rock,glam metal,hard rock,metal,progressive metal,speed metal,us power metal"
+Sugar Me/ Standing in the Road,Klaus Wunderlich,1975.0,0yCS3zSVAvCzWWdAEsll0V,0.654,0.605,0.817,0.908,0.0,0.171,-10.521,1.0,0.034,113.232,4.0,0.969,32.0,3ioa0YcViKMk2UwVku6vhe,jazz organ
+Light My Fire,Shirley Bassey,1970.0,2RxYGOHMSm6nc9q9xyLtYq,0.201,0.386,0.607,0.000264,2.0,0.116,-8.805,0.0,0.0437,183.912,4.0,0.528,47.0,090VebphoycdEyH165iMqc,"adult standards,easy listening"
+Funkin' for Jamaica (N.Y.),Tom Browne,1980.0,55xXj4qc4ByMxcVRb5Slc4,0.178,0.822,0.854,0.00574,8.0,0.0343,-6.7,1.0,0.237,111.301,4.0,0.691,52.0,4Ytvi4r3WPIZmEw1Ndmkp9,"disco,funk,jazz funk,p funk,post-disco"
+Love,George Duke,1974.0,7kuo8SpSGkn7f3ISWdGcr0,0.619,0.552,0.525,1.27e-05,0.0,0.117,-10.982,1.0,0.219,93.996,4.0,0.57,45.0,7BxJEL8I7OoAMGyPWn1cPS,jazz rap
+Wonderin',Roy Haynes,1979.0,36nGmZ1BVGSI1XHmHmlDSL,0.915,0.488,0.203,0.888,7.0,0.36,-17.666,1.0,0.0437,126.857,4.0,0.261,30.0,4Gtcxqk0DjMyqqvYBr1RWX,"bebop,hard bop,jazz quartet"
+The New Style,Beastie Boys,1986.0,0Mu1MYdE414HeybYSms5KK,0.0282,0.583,0.791,0.0,6.0,0.272,-7.191,0.0,0.45,98.673,4.0,0.685,51.0,03r4iKL2g2442PT9n2UKsx,"alternative rock,east coast hip hop,golden age hip hop,hip hop,old school hip hop,rap,rap rock,rock"
+Lightworks,J Dilla,2006.0,0TIItu69NmCbgvJUD0Zbnb,0.497,0.451,0.775,0.00335,2.0,0.198,-6.983,1.0,0.379,93.315,4.0,0.278,43.0,0IVcLMMbm05VIjnzPkGCyp,"alternative hip hop,detroit hip hop,hip hop,instrumental hip hop"
+Searching,Roy Ayers Ubiquity,1976.0,5le4sn0iMcnKU56bdmNzso,0.168,0.52,0.571,5.14e-06,11.0,0.17,-10.326,0.0,0.036,161.051,3.0,0.701,67.0,3WbeZvDk1COiO2dEokZqn7,"funk,jazz funk"
+The Windmills of Your Mind,Dorothy Ashby,1969.0,6no0N476tAU1oJM7fZiP5Y,0.786,0.595,0.472,0.811,4.0,0.248,-13.415,0.0,0.0539,80.948,4.0,0.562,40.0,0dAZ2slrElfR0Y5flcoSPt,"jazz funk,jazz harp,space age pop"
+Brazilian Skies,Bill Summers,1976.0,3bMc9oRaUWnojCrYTUXXcQ,0.0602,0.598,0.716,0.537,1.0,0.0628,-13.154,0.0,0.037,121.987,4.0,0.876,52.0,2Ex4vjQ6mSh5woTlDWto6d,
+Baroque-A-Nova,Mason Williams,1968.0,4tCwSvowrAURzTqmcX56on,0.191,0.467,0.464,0.944,9.0,0.137,-15.142,0.0,0.0307,79.478,4.0,0.636,1.0,1XgVoPT2Va5L64LFzskVBW,
+Space Talk,Asha Puthli,1976.0,4jTXmhMv91Fq0ivNQDzhPh,0.142,0.638,0.432,0.019,10.0,0.213,-17.345,0.0,0.0754,98.932,4.0,0.693,39.0,6XS2GPyMwHEgAn0VspnhMf,indian jazz
+Edges of Illusion,John Surman,1979.0,3PZ0RoABbjIZhqvfFizOqa,0.995,0.529,0.0715,0.962,2.0,0.122,-17.772,0.0,0.0365,115.549,3.0,0.393,31.0,5THaOlI8Qr3Za3FD6FnWvK,"british jazz,ecm-style jazz,jazz saxophone"
+Razor Blade,Little Royal & the Swingmasters,1972.0,70k69JvZFSoieZXEdGCGST,0.04,0.852,0.436,0.00089,2.0,0.128,-6.635,0.0,0.516,168.224,4.0,0.179,56.0,7Ey6760malJE2lPWsZKC9Q,
+Basketball Throwdown,The Cold Crush Brothers and The Fantastic Five,1983.0,6ZxrUCaynLgKSUudACOTwj,6.06e-05,0.451,0.815,0.0,2.0,0.27,-5.55,0.0,0.0368,147.974,4.0,0.618,71.0,4IR8ZkpbyyKrqsIzchF3NB,"alternative metal,nu metal,post-grunge"
+Much More,De La Soul feat. Yummy Bingham,2003.0,792UwI6utk5DMQUT1KXa5E,0.134,0.865,0.939,0.0,9.0,0.641,-6.339,0.0,0.0888,114.6,4.0,0.835,56.0,1Z8ODXyhEBi3WynYw0Rya6,"east coast hip hop,golden age hip hop,hip hop,jazz rap"
+God Gave Rock 'N' Roll to You,Argent,1973.0,7kkLBfxW41iVO0cdLU9e9S,0.249,0.518,0.845,0.0,7.0,0.0764,-5.051,1.0,0.0647,142.133,4.0,0.37,71.0,1E2AEtxaFaJtH0lO7kgNKw,"contemporary country,country,country road,modern country rock"
+The Moving Finger,Dorothy Ashby,1970.0,2CPFaD7XlLP1ahIhjrvR84,0.604,0.648,0.632,0.225,5.0,0.1,-12.938,0.0,0.0739,82.27,4.0,0.749,36.0,0dAZ2slrElfR0Y5flcoSPt,"jazz funk,jazz harp,space age pop"
+Ashley's Roachclip,The Soul Searchers,1974.0,5KTc1UNNv8HaVFSgRy4gbR,0.121,0.474,0.865,0.0332,5.0,0.679,-6.386,0.0,0.135,192.506,4.0,0.804,31.0,1lCR3CeDs4k24mC8R5fpU5,"instrumental soul,rare groove"
+Malaguena,Martin Denny,1964.0,7cUERcVjFFRyADVPHv3BVs,0.484,0.479,0.529,4.69e-05,9.0,0.136,-16.318,1.0,0.0851,120.72,4.0,0.518,5.0,3D9J9nPNW1cBktx5apJq4V,"easy listening,exotica,lounge"
+"Yes, Yes, Yes",Bill Cosby,1976.0,1fTvDXpyCM0oZsBMr3N6Y2,0.12,0.805,0.405,0.0,8.0,0.182,-11.981,1.0,0.668,95.908,4.0,0.726,31.0,1AMm82jgWgkDpczxW5DMjn,detroit hip hop
+Ecstasy,Ohio Players,1973.0,00snuSKTpZuqOcxyqNjXoZ,0.2,0.658,0.633,0.00261,7.0,0.11,-9.374,1.0,0.0536,101.057,4.0,0.936,47.0,6m30rs1IQqnWqV5nKMpU7U,"classic soul,disco,funk,p funk,quiet storm,soul"
+Sir Lancelot and the Black Knight,Rick Wakeman,1975.0,2iX5qp2InnOoYFzJQecabR,0.287,0.3,0.789,0.00282,7.0,0.357,-6.27,0.0,0.0426,136.565,4.0,0.657,23.0,0mkcYaXUbJUs5mJointuzB,"art rock,progressive rock,rock keyboard,symphonic rock"
+Nite and Day,Al B. Sure!,1988.0,3r0Rhl5Zdo9YjACZNsaBvN,0.029,0.655,0.477,0.000221,1.0,0.0518,-9.616,0.0,0.0421,92.097,4.0,0.642,58.0,1fvz0vd4P0LNMkAysF1ivk,"contemporary r&b,new jack swing,quiet storm,r&b"
+Come Give Your Love to Me,Janet Jackson,1982.0,6IyzR0X4glFMP4KEjPKHm9,0.00549,0.723,0.598,0.000556,6.0,0.0701,-14.328,1.0,0.0456,139.815,4.0,0.793,20.0,4qwGe91Bz9K2T8jXTZ815W,"dance pop,r&b,urban contemporary"
+A Chunk of Sugar,Roger,1981.0,0N2roHDNPO5wQzdhRW4hne,0.185,0.816,0.762,0.00235,7.0,0.0806,-3.505,1.0,0.0359,118.705,4.0,0.708,22.0,3GMoVpWJy4smKuxFuFTwXC,"funk,new jack swing,p funk,post-disco,quiet storm"
+A Message From the Inner City,The Crusaders,1972.0,1n8HIzFUOJ0nII0xka0fBs,0.536,0.432,0.412,0.248,2.0,0.0804,-15.158,0.0,0.0357,172.472,4.0,0.573,35.0,3Bhgbs9kIwl8SuU0eIqN6b,"jazz funk,smooth jazz,soul jazz"
+Before the Dawn,Patrice Rushen,1975.0,3ZP4fTXsJ2DfLqR5xG4aR4,0.897,0.374,0.0905,0.939,5.0,0.0949,-24.903,1.0,0.0271,93.372,4.0,0.112,12.0,1mNnxxnPfHQDOkFjnZmdkc,"disco,funk,jazz funk,post-disco,quiet storm,soul"
+Paradise,Sade,1988.0,2KpjKWyj0TI0FmGgENEKr6,0.128,0.599,0.663,0.34,5.0,0.073,-7.351,0.0,0.0516,199.241,4.0,0.976,58.0,47zz7sob9NUcODy0BTDvKx,"british soul,sophisti-pop"
+Do My Thing,Busta Rhymes,1996.0,6n2GPvMJtFZ4ckoc9EWHMx,0.282,0.76,0.575,0.000383,6.0,0.0993,-4.06,1.0,0.0444,131.983,4.0,0.314,59.0,5YGY8feqx7naU7z4HrwZM6,pop
+Human Nature,Michael Jackson,1982.0,4cgjA7B4fJBHyB9Ya2bu0t,0.498,0.628,0.409,0.00565,2.0,0.29,-14.348,1.0,0.0306,93.005,4.0,0.755,65.0,3fMbdgg4jU18AjLCKBhRSm,"r&b,soul"
+Drink,Dorothy Ashby,1970.0,1PoGWZbJPGmViVi7CYbDUK,0.836,0.483,0.431,5.19e-05,8.0,0.199,-7.656,1.0,0.0343,78.26,4.0,0.296,67.0,0BvkDsjIUla7X0k6CSWh1I,"contemporary country,country,country road"
+Berimbau Carioca,The L.A. Four,1975.0,4wia0UJ0Irt6KD00jUFXq2,0.389,0.629,0.363,0.0239,11.0,0.609,-18.728,0.0,0.217,114.26,4.0,0.404,0.0,2no1ptGGRbtf9hhS9FX3VV,
+One Loving Night,Bob James,1977.0,2dg3KwUHPMn3n6haPT4pTw,0.328,0.344,0.335,0.769,0.0,0.24,-13.797,0.0,0.0337,86.391,3.0,0.417,10.0,6ryjbFyWBZho9KGXqKZdqQ,"jazz funk,jazz piano,smooth jazz"
+Love at Last,Monty Norman,1963.0,1lNdqczd0uKZcioivNQZBt,0.993,0.196,0.0321,0.965,4.0,0.0776,-30.426,1.0,0.0473,65.935,4.0,0.0381,52.0,2utndN6OrmNQKozhXYJ8Hn,
+For the Love of Money,Disco Dub Band,1976.0,1Q4ieeGAQOfaE9FuuK2O7t,0.0128,0.764,0.708,0.0729,8.0,0.0381,-10.659,1.0,0.056,120.541,4.0,0.891,21.0,63mThjfPcQlggvZKkB5zQs,
+There Are No Words,Todd Rundgren,1970.0,10XplsthOjB4hde5KIimEM,0.992,0.243,0.115,0.967,9.0,0.148,-24.354,0.0,0.0441,73.15,1.0,0.0388,12.0,0Lpr5wXzWLtDWm1SjNbpPb,"art rock,country rock,folk rock,mellow gold,philly soul,power pop,singer-songwriter,soft rock,zolo"
+Here We Go (Live at the Funhouse),Run-DMC,1985.0,6rs1Jt3bqNdPN01kQeAXX5,0.268,0.912,0.954,0.0,5.0,0.349,-4.718,0.0,0.368,102.188,4.0,0.497,29.0,3CQIn7N5CuRDP8wEI7FiDA,"east coast hip hop,golden age hip hop,hip hop,old school hip hop,queens hip hop,rap"
+Boa Palavra,Sérgio Mendes,1968.0,6War35N56Qw5C2FWShdA3q,0.493,0.58,0.446,0.708,3.0,0.0825,-11.867,1.0,0.0252,82.919,4.0,0.545,7.0,65c5si0ePAwkOCn4M35Ho7,"bossa nova,brazilian jazz,samba"
+Heartbeat,War,1975.0,7FC9Lng8iXU081lbigu8m8,0.0137,0.49,0.798,0.0,6.0,0.0627,-3.66,1.0,0.0489,149.109,4.0,0.479,66.0,3BmGtnKgCSGYIUhmivXKWX,"dance pop,pop,talent show"
+I Like the Way You Love Me,Brenton Wood,1967.0,0nNavzWSD6AUiQK2rLgbBx,0.81,0.477,0.267,0.0,0.0,0.336,-8.625,1.0,0.0301,152.039,3.0,0.667,60.0,6ohvzFHYmLd05kyYhLui5K,souldies
+When You Feel the Love,Rodney Jones,1981.0,1XfkneVjMAH5SgfO6KsDkB,0.765,0.472,0.394,0.924,9.0,0.0766,-17.24,0.0,0.0327,85.669,4.0,0.334,2.0,6zudeEfsUpQ6R9WW8abFMi,
+King of the Beats,Mantronix,1988.0,0AQUD5s0tu6FFYA6sMk36R,0.0566,0.754,0.867,0.779,10.0,0.198,-7.269,0.0,0.103,173.548,4.0,0.78,29.0,1SsdsVIIKLUe54OsHzm5uQ,"breakbeat,drum and bass,jungle,ragga jungle"
+High Society,Special EFX,1985.0,0dzEsIpdf4DF0ei2WmeQYZ,0.0459,0.56,0.313,0.716,4.0,0.0872,-17.631,0.0,0.0319,109.207,4.0,0.173,5.0,5xUKGtiP4KvMEJWSQ72SyZ,"progressive jazz fusion,smooth jazz"
+Sequent C,Tangerine Dream,1974.0,2hRsN3reHuwyLaHq2S1z0Q,0.996,0.109,0.0157,0.993,2.0,0.0778,-28.469,0.0,0.0397,91.75,3.0,0.0381,38.0,1BGN1IdyiSR0ZYrkoKNchl,"berlin school,german prog,krautrock,synthesizer"
+Folks,Miroslav Vitous,1976.0,02sUId0qMdZHGscosyeDQq,0.143,0.734,0.387,6.16e-05,6.0,0.0923,-11.589,1.0,0.0372,116.399,4.0,0.219,35.0,2v7wIbCkIzxOfT3GnqCexD,"classic texas country,modern southern rock,outlaw country"
+Sketches of Mythical Beasts,Synergy,1978.0,6X2N1J8FPjnSW1NLoGRTPP,0.00734,0.2,0.292,0.402,6.0,0.325,-17.099,0.0,0.0337,97.108,4.0,0.0366,3.0,7F1Z73WAkEvhVNo1hiWUvT,
+Catch a Star,Men at Work,1981.0,3ZZq9396zv8pcn5GYVhxUi,0.129,0.739,0.459,0.0194,11.0,0.0474,-14.42,0.0,0.0294,107.115,4.0,0.892,75.0,0f3EsoviYnRKTkmayI3cux,"album rock,australian rock,classic rock,hard rock,heartland rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock"
+Gobstopper,J Dilla,2006.0,39XY5TmM47I3WsO07knVZg,0.0156,0.368,0.791,0.741,2.0,0.162,-6.889,1.0,0.169,174.28,4.0,0.723,47.0,0IVcLMMbm05VIjnzPkGCyp,"alternative hip hop,detroit hip hop,hip hop,instrumental hip hop"
+Never Too Much,Luther Vandross,1981.0,3nFJbZCHP4d9vduKjJLdBL,0.125,0.734,0.586,0.0,2.0,0.0367,-11.866,1.0,0.129,109.933,4.0,0.762,74.0,19y5MFBH7gohEdGwKM7QsP,"quiet storm,soul"
+Then,Yes,1970.0,3skk6UIXV4kepq2bdYy97g,0.0418,0.417,0.425,1.31e-05,4.0,0.0897,-11.689,1.0,0.062,134.917,4.0,0.498,57.0,7AC976RDJzL2asmZuz7qil,"album rock,art rock,classic rock,hard rock,progressive rock,rock,soft rock,symphonic rock"
+More Than Just a Joy,Aretha Franklin,1978.0,4yQw7FR9lcvL6RHtegbJBh,0.251,0.687,0.63,0.0,6.0,0.221,-10.817,1.0,0.0389,110.051,4.0,0.926,70.0,7nwUJBm0HE4ZxD3f5cy5ok,"classic soul,jazz blues,memphis soul,soul,southern soul,vocal jazz"
+Life Goes On,Utopia,1980.0,7Bw9F9lSHiQtwd0rchxlZ1,0.91,0.594,0.244,8.01e-06,10.0,0.447,-12.758,0.0,0.028,137.728,4.0,0.558,7.0,2AVt92RJvypZ6WIvhNyTej,beatlesque
+Lonely Man,Johnny Adams,1970.0,2NkY19YwDttHE4K5xM6mwp,0.289,0.518,0.441,0.000505,5.0,0.288,-10.331,1.0,0.0314,85.786,4.0,0.445,14.0,24qtJegdRiX2TPRvPN6rzk,"louisiana blues,memphis blues,new orleans blues,new orleans soul,soul blues,southern soul"
+Sweet Inspiration,"Diana Ross, The Supremes and The Temptations",1968.0,3Ec9T8CmpAI55M1HCyy1IT,0.147,0.703,0.395,1.27e-06,10.0,0.182,-13.762,1.0,0.0334,114.369,4.0,0.841,28.0,0rXI0q8Cahq6numvPlloaq,classic girl group
+Mask Movement IV,Vangelis,1985.0,4UlosQSFMZTdaYIU3N3UN3,0.673,0.351,0.127,0.353,7.0,0.113,-20.206,1.0,0.0313,95.857,3.0,0.139,4.0,4P70aqttdpJ9vuYFDmf7f6,"cyberpunk,synthesizer"
+You Belong to Me,The Doobie Brothers,1977.0,1qrpoAMXodY6895hGKoUpA,0.0623,0.632,0.773,0.0,6.0,0.0885,-4.856,1.0,0.0346,130.033,4.0,0.474,84.0,06HL4z0CvFAxyc27GXpf02,pop
+Animal Planet,GZA,2002.0,5JAMS3p3wOHcVzKajhIy4D,0.00838,0.679,0.805,1.82e-05,8.0,0.057,-4.652,0.0,0.295,148.207,4.0,0.616,32.0,6ns6XAOsw4B0nDUIovAOUO,"east coast hip hop,hardcore hip hop"
+Our Delights,Bill Evans,1956.0,37vEa9sfgAqEZuqX8AX0Zk,0.852,0.517,0.108,0.881,0.0,0.124,-24.465,1.0,0.0479,79.512,4.0,0.206,46.0,3VEG6gxFIMfl4Cdog26avS,"bebop,contemporary post-bop,jazz,jazz trio"
+Mental Door,Klaus Schulze,1975.0,2McDV0nVZ1FcC8ZfwWI6zj,0.95,0.199,0.0516,0.988,8.0,0.0893,-17.311,1.0,0.0455,78.711,5.0,0.0295,32.0,3U2U4TR03ZuStsizrv0EJB,"ambient,berlin school,krautrock,rock keyboard"
+Front Street,1st Down,1995.0,7AtQxohgEu5dRYdcY4gB6G,0.0728,0.874,0.202,0.0,1.0,0.14,-16.814,1.0,0.798,134.989,4.0,0.3,61.0,4W7fxKwDR9luCrOryB3GVK,
+Do the Funky Penguin,Rufus Thomas,1971.0,0PxsrYl9gj445HDcF58unk,0.0481,0.798,0.577,0.00358,2.0,0.0586,-11.11,1.0,0.0785,101.026,4.0,0.926,30.0,3iRSHS3b4NUdjNbnw3Opg8,"memphis blues,memphis soul,southern soul"
+Meadow of Infinity Part 1,Peter Baumann,1976.0,02C6UlOJSBbMUuSRWhHHh2,0.896,0.292,0.16,0.925,9.0,0.0984,-18.657,1.0,0.0381,111.367,3.0,0.0608,13.0,4u9mLb6exlbHuNehyJ11jq,"berlin school,krautrock"
+Katalin,Special EFX,1984.0,2x2crcqmFd0q3o0apXqpgl,0.928,0.267,0.322,0.118,4.0,0.177,-15.149,1.0,0.0365,117.667,3.0,0.132,1.0,5xUKGtiP4KvMEJWSQ72SyZ,"progressive jazz fusion,smooth jazz"
+Last Donut of the Night,J Dilla,2006.0,2zdg5ICoK5WGKCpX1LAdOf,0.375,0.536,0.662,0.466,10.0,0.444,-7.384,0.0,0.385,80.727,4.0,0.472,52.0,0IVcLMMbm05VIjnzPkGCyp,"alternative hip hop,detroit hip hop,hip hop,instrumental hip hop"
+Bad Boy for Life,"P. Diddy, Black Rob and Mark Curry",2001.0,2eOuL8KesslTLQERQPu11D,0.179,0.669,0.829,0.0,1.0,0.241,-3.801,1.0,0.49,118.934,4.0,0.61,67.0,59wfkuBoNyhDMQGCljbUbA,"dance pop,east coast hip hop,hip hop,hip pop,pop rap,rap"
+M3000 (Opus VI),Mandré,1979.0,2aDdlDnP6Xd3vLb09yvQVq,0.0176,0.536,0.93,0.529,7.0,0.894,-7.221,0.0,0.0725,133.678,4.0,0.682,5.0,4gp93oyCtmejjaduXV1IXG,
+Doowutchyalike,Digital Underground,1989.0,6J8QSbWiJOlVrRCLMTid7F,0.0314,0.603,0.73,9.76e-05,9.0,0.117,-8.533,1.0,0.498,217.588,4.0,0.791,40.0,7jocoSCuCtpCxCI6IbP8ye,"conscious hip hop,gangster rap,hardcore hip hop,hip hop,west coast rap"
+Cybersports,Synergy,1976.0,6jqvbCajA0NIkVADIFnNrT,0.0336,0.621,0.617,5.67e-06,11.0,0.116,-10.234,1.0,0.374,87.404,4.0,0.514,50.0,6xini6REf0CP8muuVvDa91,"anime drill,anime rap"
+Effi,Max Roach,1968.0,3HqkZQP8zPRathO94XQLCC,0.0693,0.381,0.774,0.436,9.0,0.086,-10.261,0.0,0.0465,94.106,3.0,0.543,30.0,6jrlNnS5B830kpi40j3S6g,"bebop,contemporary post-bop,free jazz,hard bop,jazz,jazz drums"
+Peaceful Sundown,Jan Hammer Group,1977.0,0xfOvIRVN08EgN2wB0LyWY,0.00055,0.311,0.88,7.13e-06,0.0,0.108,-6.271,1.0,0.0594,93.982,4.0,0.364,20.0,1LkRvd0mF7sh56nyibirHw,eastern bloc groove
+Where or When,Cal Tjader,1964.0,2AFLjcssAvJq62eeHZ0Q4q,0.991,0.461,0.00861,0.146,9.0,0.104,-28.227,0.0,0.0345,79.975,4.0,0.103,46.0,1pBuKaLHJlIlqYxQQaflve,"adult standards,big band,dixieland,jazz,jazz clarinet,swing,vintage jazz,vocal jazz"
+Hey Hey Hey Heyyyy,J Dilla,2005.0,0Vg1lQpk2IHk2JU8UfAa5d,0.701,0.599,0.396,0.82,5.0,0.11,-8.519,0.0,0.138,104.068,3.0,0.691,56.0,0IVcLMMbm05VIjnzPkGCyp,"alternative hip hop,detroit hip hop,hip hop,instrumental hip hop"
+Trashy,Jay Dee,2003.0,5ygDxewCaJXQejvYG58qHe,0.886,0.595,0.373,0.905,8.0,0.22,-12.648,0.0,0.0612,180.158,4.0,0.723,41.0,0IVcLMMbm05VIjnzPkGCyp,"alternative hip hop,detroit hip hop,hip hop,instrumental hip hop"
+San Lorenzo,Pat Metheny Group,1978.0,6Cnq3giYBnvFrhl2DG8p8J,0.586,0.37,0.336,0.898,8.0,0.184,-19.623,1.0,0.0342,87.849,4.0,0.225,36.0,4uBSazM6snEc9wCG3jMlYt,"contemporary post-bop,ecm-style jazz,jazz,jazz fusion"
+The Confessions of Dr. Dream - Part Four: Dr. Dream Theme,Kevin Ayers,1974.0,6yIGZp1AaFBoDczu3b4hVU,0.385,0.806,0.756,0.0,7.0,0.11,-4.093,0.0,0.208,141.97,4.0,0.637,57.0,4xRYI6VqpkE3UwrDrAZL8L,"conscious hip hop,dmv rap,hip hop,pop rap,rap"
+Sienna: Waiting for the Moment,Stanley Cowell,1977.0,0Rxgdpe1zgZ6ZzHgxSaYEJ,0.102,0.582,0.805,3.14e-06,9.0,0.271,-5.267,1.0,0.0301,144.047,4.0,0.895,56.0,5P1oS9DUTPEqcrmXDmX4p8,"modern southern rock,southern rock"
+Anti-American Graffiti,J Dilla,2006.0,2mE1fmoHkbAqPAzx79nE9C,0.0126,0.444,0.882,0.0834,1.0,0.66,-7.508,1.0,0.371,181.371,4.0,0.342,42.0,0IVcLMMbm05VIjnzPkGCyp,"alternative hip hop,detroit hip hop,hip hop,instrumental hip hop"
+You're the One for Me,Barney Kessel,1971.0,0B9x2BRHqj3Qer7biM3pU3,0.281,0.758,0.612,0.00288,0.0,0.0954,-11.403,1.0,0.0598,106.945,4.0,0.822,74.0,4hKkEHkaqCsyxNxXEsszVH,hollywood
+Nobody Home,Kansas,1977.0,76kAMRUS516qXOztvlN18z,0.119,0.369,0.322,0.131,9.0,0.159,-8.206,1.0,0.0325,73.997,4.0,0.313,31.0,2hl0xAkS2AIRAu23TVMBG1,"album rock,classic rock,hard rock,heartland rock,mellow gold,progressive rock,rock,soft rock"
+Little Child Runnin Wild,Curtis Mayfield,1972.0,24Mx7vklBWuqFjsHMO8ofZ,0.349,0.556,0.588,0.00828,6.0,0.116,-7.443,0.0,0.0376,110.58,4.0,0.666,37.0,2AV6XDIs32ofIJhkkDevjm,"chicago soul,classic soul,funk,soul"
+Purple (A Tribe Called Quest Edit),Crustation,1997.0,0VGdOE6W9O8D4RoVhO1vb9,0.199,0.754,0.528,0.866,10.0,0.109,-8.659,0.0,0.0459,87.994,4.0,0.774,52.0,1UirLyIwdIElsaGCp0W4Ym,"focus beats,lo-fi jazzhop"
+She Wandered Through the Garden Fence,Procol Harum,1967.0,7L46et7T4ogH7wTLnhS5X6,0.611,0.562,0.567,1.51e-06,0.0,0.106,-7.219,1.0,0.0511,89.413,4.0,0.924,37.0,0GbqW5TJr7n4is453VOY4C,"album rock,art rock,blues rock,british blues,british invasion,classic rock,folk rock,mellow gold,progressive rock,psychedelic rock,singer-songwriter,symphonic rock"
+Audio Bongo,Monty Norman,1963.0,5WIQTUDLCEY1g1lmOWvDB4,0.62,0.819,0.494,0.0403,11.0,0.272,-11.065,0.0,0.0343,105.502,4.0,0.866,52.0,2A09V0kHlETOFfT8Hz8oba,solo wave
+Davito (Live),Cal Tjader,1972.0,51WdRcA70xRtWlddbXkicp,0.936,0.654,0.488,0.848,5.0,0.151,-16.071,0.0,0.0415,103.845,4.0,0.915,4.0,3XOVABzceOUTbR3iEz0ImO,"cool jazz,jazz vibraphone,latin jazz"
+Put Your Love (In My Tender Care),The Fatback Band,1975.0,2nGFzvICaeEWjIrBrL2RAx,0.167,0.739,0.511,1.34e-06,9.0,0.133,-7.844,1.0,0.0362,96.038,4.0,0.542,80.0,29WzbAQtDnBJF09es0uddn,"british soul,neo soul,pop soul,soul"
+The Coming (Intro),Busta Rhymes,1996.0,09WxJCWFMWAxTHBLLelpDS,0.127,0.842,0.831,0.0,1.0,0.0881,-7.072,1.0,0.242,92.053,4.0,0.814,55.0,1YfEcTuGvBQ8xSD1f53UnK,"east coast hip hop,hardcore hip hop,hip hop,pop rap,rap"
+Love Poem,Tom Scott and The L.A. Express,1975.0,0k2JlssoN3Op7Kqb2BLjDG,0.844,0.43,0.303,0.916,9.0,0.105,-18.228,1.0,0.0317,80.471,4.0,0.145,14.0,5dWO7HTDbCfs8x7WwDM1Vp,
+Kolumbo,Dick Hyman,1969.0,1938FeAi8kI7w9TpbgQWgP,0.98,0.0,0.214,0.916,10.0,0.12,-18.376,0.0,0.0,0.0,0.0,0.0,55.0,3BiJGZsyX9sJchTqcSA7Su,"british dance band,deep adult standards,swing"
+Serengeti Walk (Slippin' in the Back Door),Dave Grusin,1982.0,4MYLxsPSPWgGq3Xr85jWGT,0.125,0.691,0.508,0.802,5.0,0.665,-10.972,1.0,0.0435,95.955,4.0,0.813,15.0,0SPkat5bgfP5wo2kbqZIwu,smooth jazz
+Armin,Curved Air,1973.0,2ebjV8EMIxCJ9Zm2I27MFM,0.00182,0.408,0.852,0.839,9.0,0.0543,-10.182,0.0,0.0491,133.928,4.0,0.694,20.0,3UtSTTCQ0EMUQxmsfZ3Px1,"british blues,progressive rock,symphonic rock,zolo"
+So Sure,Cheri,1983.0,2aEuA8PSqLa17Y4hKPj5rr,0.458,0.677,0.616,0.0132,10.0,0.349,-13.826,1.0,0.032,114.223,4.0,0.851,76.0,79bxUQsBIXO8nVLB9fYKf7,"europop,german pop,synthpop"
+Down to the Moon & Moon Dance,Andreas Vollenweider,1986.0,0dvUaT7o2Nkhh0yyrcbmTI,0.321,0.459,0.776,0.127,5.0,0.708,-8.043,0.0,0.0293,85.083,4.0,0.604,34.0,7MynOMOTsGz8NFcPUImWAp,"harp,new age"
+Ill Vibe,Busta Rhymes feat. Q-Tip,1996.0,22XFWYPabTnoWvfultCjuK,0.144,0.791,0.446,2.52e-06,11.0,0.126,-9.994,1.0,0.423,93.065,4.0,0.521,35.0,1YfEcTuGvBQ8xSD1f53UnK,"east coast hip hop,hardcore hip hop,hip hop,pop rap,rap"
+Café / Sapain / Dança Solitária No. 2 / Baião Malandro,Egberto Gismonti,1978.0,53gVEYkMZoJct1Ptbwn5wm,0.716,0.497,0.143,0.711,2.0,0.104,-20.772,0.0,0.042,102.977,4.0,0.0937,9.0,6L31zhaK3DUZEze55P3lYJ,"bossa nova,brazilian contemporary classical,brazilian jazz,latin classical,violao"
+Make It Funky,James Brown,1971.0,3pNfCtcbhWwa6TouKcMTGp,0.631,0.903,0.475,0.0607,9.0,0.113,-12.055,0.0,0.12,97.554,4.0,0.804,48.0,7GaxyUddsPok8BuhxN6OUW,"funk,soul"
+Just Kickin' It,Xscape,1993.0,2CG9mGkKC6IQE5lEjDioEi,0.0571,0.692,0.353,2.26e-05,1.0,0.579,-12.872,0.0,0.0613,80.902,4.0,0.73,57.0,5z2cHsOmmmWcAPNG1oEhw0,"atl hip hop,contemporary r&b,girl group,hip pop,r&b,urban contemporary"
+Phire,Charles Earland,1976.0,7GAKkO3EXsJZvsG1racYMa,0.676,0.484,0.865,0.903,2.0,0.253,-7.866,0.0,0.0488,167.523,4.0,0.635,33.0,3ud1yQWO0eEL8hVcXyU0Oi,"hard bop,jazz funk,jazz organ,soul jazz"
+Story Book,The Alan Bown,1968.0,4fqoW7HOkusXo6NI6c2giG,0.204,0.441,0.727,0.614,5.0,0.335,-9.032,1.0,0.0369,132.108,4.0,0.464,2.0,1WJHmUbrD8tYoQIoBVnSAQ,
+Luv Connection,Towa Tei feat. Joi Cardwell and Vivian Sessoms,1995.0,5dHWEjMKw0buIaTfiJjgZ2,0.122,0.718,0.779,1.9e-05,7.0,0.079,-6.646,0.0,0.0557,102.042,4.0,0.702,26.0,5FLbE1s9bnHwJhmngtVXpD,"japanese jazztronica,shibuya-kei"
+Gonna Fly Now (Theme From Rocky),Bill Conti,1976.0,5dulYd9AKIprMoF837OTDb,0.499,0.438,0.812,0.768,0.0,0.0444,-3.7,1.0,0.0377,95.613,4.0,0.465,62.0,272ygo5fv9cYsiCLcV0HV2,theme
+Frevo (1979 Version),Egberto Gismonti,1979.0,6ezO3mZt2abCmTV55W1hLT,0.97,0.232,0.14,0.902,2.0,0.152,-22.241,0.0,0.0421,93.071,4.0,0.0779,10.0,6L31zhaK3DUZEze55P3lYJ,"bossa nova,brazilian contemporary classical,brazilian jazz,latin classical,violao"
+Rock Medley,The Town Criers,1970.0,3RB6zxrgPQBUxpTtoMW60r,0.366,0.625,0.523,2.54e-06,1.0,0.0826,-8.227,0.0,0.0369,139.964,4.0,0.191,49.0,1Xyo4u8uXC1ZmMpatF05PJ,"canadian contemporary r&b,canadian pop,pop"
+I Never Told You,Quincy Jones,1969.0,4KBaW9QLYxw1n2QK7wsmz0,0.893,0.324,0.184,0.43,10.0,0.0956,-15.478,0.0,0.0306,111.289,4.0,0.105,17.0,3rxIQc9kWT6Ueg4BhnOwRK,soul jazz
+And That's Saying a Lot,Christine Perfect,1970.0,6TrgkS1CCRs0RKJ3UGG5LZ,0.342,0.749,0.271,0.157,7.0,0.0534,-20.524,1.0,0.0737,83.322,4.0,0.752,34.0,1YTLOHyyXnaj7W1g1oSS56,
+Blow Your Mind (Part 1 & 2),Jamiroquai,1993.0,5rzmEiv5KA1OskLzcqRDFK,0.159,0.677,0.827,0.295,2.0,0.224,-7.589,1.0,0.0527,105.44,4.0,0.321,52.0,6J7biCazzYhU3gM9j1wfid,dance pop
+The Watcher,Rodney Franklin,1980.0,2kWtnap841Grd8HDbFcGjw,0.0146,0.345,0.374,0.00193,9.0,0.144,-14.973,1.0,0.0303,114.899,4.0,0.0396,8.0,5CjlZu8c45u0rRvyONtxsn,jazz funk
+Mind Power,James Brown,1973.0,3mIZljTgYhz71DrGSlL9fD,0.0905,0.733,0.487,8.54e-06,2.0,0.235,-12.692,1.0,0.123,102.982,4.0,0.649,38.0,7GaxyUddsPok8BuhxN6OUW,"funk,soul"
+Steppin' It Up,A Tribe Called Quest feat. Busta Rhymes and Redman,1998.0,0OhHqIEtDur5NeMooGOs81,0.015,0.814,0.636,1.8e-06,10.0,0.0295,-10.241,0.0,0.396,95.731,4.0,0.773,42.0,09hVIj6vWgoCDtT03h8ZCa,"conscious hip hop,east coast hip hop,golden age hip hop,hip hop,jazz rap,queens hip hop"
+Strawberry Letter 23,Phil Upchurch,1978.0,2LWJmKaOtxk5r2QUAwVamf,0.0704,0.787,0.755,0.0,2.0,0.128,-5.311,1.0,0.106,139.981,4.0,0.201,60.0,2pSObt5Fk8izuX8ZfI3jRn,"country rap,redneck"
+Hydrant Game (Jaylib Remix),Quasimoto,2006.0,1ufWVlnuj6BezMxQaJ20GV,0.134,0.715,0.885,1.86e-06,1.0,0.423,-4.583,1.0,0.303,94.335,4.0,0.88,35.0,1rJkz5vopfGxTUGFNB3o4G,"alternative hip hop,psychedelic hip hop"
+Earthquake Shake,The Undisputed Truth,1975.0,5QjsMqji3rkNfdLWsclFpz,0.0153,0.649,0.76,0.0779,1.0,0.113,-13.423,1.0,0.0934,100.934,4.0,0.427,9.0,2tkwWmcZOQPNbbIdknfBsw,"classic soul,motown,psychedelic soul,southern soul"
+Rap Phenomena,Yellow Magic Orchestra,1981.0,4m9Iudipxb9gpGNLG2LoQs,0.0728,0.557,0.851,0.0,1.0,0.437,-5.852,1.0,0.419,172.678,4.0,0.86,53.0,5me0Irg2ANcsgc93uaYrpb,"east coast hip hop,gangster rap,hardcore hip hop,hip hop,rap"
+In the Air Tonight (Ben Liebrand Extended Version),Phil Collins,1988.0,18AXbzPzBS8Y3AkgSxzJPb,0.551,0.446,0.239,4.1e-06,0.0,0.0697,-13.945,1.0,0.0316,189.507,4.0,0.298,78.0,4lxfqrEsLX6N1N4OCSkILp,"rock drums,soft rock"
+Flute Thing,The Blues Project,1966.0,5Hbd5ZazhinrRP6mS5XaR1,0.778,0.477,0.409,0.702,2.0,0.0988,-13.828,0.0,0.0465,104.72,4.0,0.627,31.0,1lvclIZLUGZ52gMi7uDDkv,"british blues,classic garage rock,psychedelic rock"
+Fantasy,Aquarian Dream,1978.0,0XVz2TRpjd99IzI9Etu5Cp,0.489,0.625,0.701,0.000413,9.0,0.247,-9.94,1.0,0.168,133.489,4.0,0.841,29.0,3isYg6esLI9mPQ5IzXp5lD,rare groove
+Just Chillin' Out,Bernard Wright,1981.0,1ESgUlVVvucBkaLWMMoLIB,0.0341,0.856,0.697,3.86e-06,7.0,0.0729,-7.03,1.0,0.148,118.134,4.0,0.556,29.0,2g8J4iI5qyYFMVHcpMcSsS,p funk
+One Note Samba / Spanish Flea,Sérgio Mendes & Brasil '66,1966.0,2pryIzW17hFkcebKGWzDRR,0.698,0.596,0.343,0.0,2.0,0.0602,-14.793,1.0,0.194,195.838,4.0,0.771,41.0,6hCsqVHnBo1BVQWuIjRMkL,
+Timeless,John Abercrombie,1974.0,3nTQL2ScjeyOxjqSmDoCCr,0.916,0.325,0.0834,0.859,9.0,0.0963,-23.197,1.0,0.0374,86.988,4.0,0.0388,37.0,1OCdpTg8d7Ehpj8B9j4iqa,"ecm-style jazz,jazz guitar"
+Samba De Orfeu,João Donato,1965.0,1xZJP3lavEcMYq1eva8cce,0.477,0.619,0.315,0.000101,0.0,0.0837,-18.213,1.0,0.0827,95.635,4.0,0.711,37.0,17wDxPR2GcU3r1dpCoCiUi,"bossa nova,brazilian jazz,piano mpb"
+(You Caught Me) Smilin',Sly & the Family Stone,1971.0,2BydLQAh7CUIFvSEqAMc4x,0.28,0.843,0.48,0.000782,11.0,0.108,-11.574,0.0,0.0492,101.993,4.0,0.762,68.0,5m8H6zSadhu1j9Yi04VLqD,"classic soul,funk,funk rock,p funk,psychedelic soul,soul,southern soul"
+Friday the 13th,The Gil Evans & the Monday Night Orchestra,1987.0,5eGWO4pktJi3VZdBvHn0nL,0.179,0.812,0.694,3.77e-06,10.0,0.0641,-7.869,0.0,0.113,109.95,4.0,0.193,48.0,1VPmR4DJC1PlOtd0IADAO0,"cloud rap,dark trap,new orleans rap,underground hip hop"
+Interview,Gentle Giant,1976.0,1u9nZLT2BFdTgtWxmQq0Mg,0.801,0.568,0.127,0.0116,2.0,0.0975,-22.768,1.0,0.0461,130.521,4.0,0.198,46.0,1hrQ50kU6hMQBVLatqUqnO,"progressive rock,symphonic rock,zolo"
+Scented Wind,Fred Miller,1972.0,78FHUZRbFDCG6VkRAQdFLm,0.134,0.286,0.5,4.57e-05,1.0,0.108,-14.281,0.0,0.0357,99.162,4.0,0.443,71.0,7Bah8E0kCETqEpAHI6CPzQ,"album rock,mellow gold,new romantic,new wave,new wave pop,soft rock,synthpop"
+Do It ('Til You're Satisfied),B.T. Express,1974.0,4lnQfs7AmQm6dqCaNMDJLr,0.115,0.703,0.761,4.99e-06,10.0,0.103,-10.136,1.0,0.0552,104.838,4.0,0.652,40.0,67PmHOmt1tveILUtasiYAf,"classic soul,disco,funk,p funk,post-disco,quiet storm,soul,southern soul"
+Hall of Mirrors,The Slipstream Group,1978.0,1X1DWw2pcNZ8zSub3uhlNz,0.0654,0.421,0.873,0.0,10.0,0.123,-4.343,1.0,0.0564,84.786,4.0,0.629,70.0,3AQRLZ9PuTAozP28Skbq8V,"celtic rock,pop"
+Tarot Woman,Rainbow,1976.0,5NYjaAwqvdUWy44HKXEmyf,0.0934,0.302,0.884,0.158,7.0,0.106,-9.706,1.0,0.0861,138.155,4.0,0.212,44.0,6SLAMfhOi7UJI0fMztaK0m,"album rock,classic rock,glam metal,hard rock,metal,rock"
+Fly Like an Eagle,Steve Miller Band,1976.0,3e0FzZjTXOUtiJGSClOBrI,0.61,0.561,0.754,0.0194,9.0,0.328,-12.769,0.0,0.112,100.08,4.0,0.642,68.0,6QtGlUje9TIkLrgPZrESuk,"album rock,classic rock,hard rock,heartland rock,mellow gold,rock,singer-songwriter,soft rock"
+Miles Behind,Clare Fischer,1968.0,53osVzzwherA2RxJpMmaWM,0.929,0.39,0.528,0.491,8.0,0.104,-14.107,1.0,0.0505,170.313,1.0,0.561,2.0,6YUywiIGx79eA85WXt0FrM,jazz organ
+Electric Café,Kraftwerk,1986.0,2Fo50QYr3vRvdvqR7oMRz4,0.132,0.779,0.486,0.172,1.0,0.093,-10.261,1.0,0.0457,125.027,4.0,0.757,24.0,0dmPX6ovclgOy8WWJaFEUU,"art rock,dusseldorf electronic,early synthpop,electro,new wave,proto-techno,synthpop"
+"Eyes of the Heart, Pt. 2",Keith Jarrett,1979.0,4FMI4Ln1LhyxGldkNXan5e,0.973,0.27,0.688,0.884,0.0,0.669,-16.305,1.0,0.0547,75.845,4.0,0.219,52.0,0F3Aew9DSd6fb6192K1K0Y,"bebop,contemporary jazz,contemporary post-bop,ecm-style jazz,jazz,jazz fusion,jazz piano"
+That's All Right With Me,Esther Phillips,1971.0,3gZ5OyEyBQCHRtH8QAnFRP,0.905,0.46,0.15,0.00101,1.0,0.0812,-16.626,1.0,0.0343,91.9,3.0,0.319,26.0,0WZ7IgzdjPvwFdjDjjuZm7,"jazz blues,rhythm and blues"
+Sexual Healing,Marvin Gaye,1982.0,3VZmChrnVW8JK6ano4gSED,0.119,0.805,0.602,0.000122,0.0,0.0581,-9.7,0.0,0.0579,94.382,4.0,0.744,73.0,3koiLjNrgRTNbOwViDipeA,"classic soul,motown,neo soul,northern soul,quiet storm,soul"
+Warm Weather,Larry Coryell and Brian Keane,1983.0,0Pj6KjqwmJNdIOttPShZC9,0.794,0.557,0.364,0.7,2.0,0.31,-12.141,1.0,0.0294,101.985,4.0,0.293,61.0,19OAtq7pNHnBRKJORFeahx,"australian indie,folktronica,indie anthem-folk,indie folk"
+America Eats Its Young,Funkadelic,1972.0,5WJU527RQNyMLuKecjsL8V,0.499,0.305,0.372,0.723,4.0,0.637,-15.089,0.0,0.0432,131.245,3.0,0.125,59.0,450o9jw6AtiQlQkHCdH6Ru,"funk,funk rock,p funk,psychedelic soul,soul"
+Mûlâdhâra: The Dance of Kundalini,Todd Rundgren,1975.0,3gHFKiDanj4d2rqgHlRFFc,0.0563,0.578,0.848,0.00426,5.0,0.0963,-6.842,1.0,0.0261,87.246,4.0,0.779,57.0,0Lpr5wXzWLtDWm1SjNbpPb,"art rock,country rock,folk rock,mellow gold,philly soul,power pop,singer-songwriter,soft rock,zolo"
+Rock Steady,Aretha Franklin,1971.0,7rvGZDlfqCjY9EWEUg3Xs6,0.0108,0.749,0.752,0.0954,7.0,0.235,-10.3,1.0,0.126,104.7,4.0,0.887,59.0,7nwUJBm0HE4ZxD3f5cy5ok,"classic soul,jazz blues,memphis soul,soul,southern soul,vocal jazz"
+Maxx Axe,Roger,1981.0,5gAExefoeU6cVPyfANcmFn,0.497,0.763,0.917,0.151,7.0,0.057,-4.867,0.0,0.112,112.746,4.0,0.741,20.0,3GMoVpWJy4smKuxFuFTwXC,"funk,new jack swing,p funk,post-disco,quiet storm"
+Over the Breaks,J Dilla,2006.0,4ic8hlf4FkirjFpXJNBT3N,3.35e-06,0.58,0.831,0.839,11.0,0.0599,-4.502,1.0,0.113,91.191,4.0,0.767,29.0,0IVcLMMbm05VIjnzPkGCyp,"alternative hip hop,detroit hip hop,hip hop,instrumental hip hop"
+Can't You See,The Impressions,1970.0,4fUU9WKxEgJXyrZJsUA2iP,0.276,0.406,0.713,0.00354,7.0,0.112,-5.49,1.0,0.0348,164.444,4.0,0.577,70.0,59QxeZBL6k9L4oJBGSyukd,"album rock,blues rock,classic rock,country rock,hard rock,mellow gold,singer-songwriter,soft rock,southern rock"
+A Certain Kind,Soft Machine,1968.0,2CbtdkBeW9Znt4vXTOafAl,0.000566,0.455,0.881,6.06e-05,11.0,0.11,-5.587,1.0,0.0401,137.949,4.0,0.201,54.0,7Ln80lUS6He07XvHI8qqHH,"garage rock,modern rock,permanent wave,rock,sheffield indie"
+Blue Bossa,"Milt Jackson, Joe Pass and Ray Brown",1976.0,0F5vfGNwHXj0WKngicBulM,0.981,0.524,0.138,0.912,5.0,0.089,-25.345,0.0,0.0515,118.083,4.0,0.631,21.0,23i8EixXKG0EWGRCfHlUGN,"bebop,contemporary post-bop,hard bop,jazz,jazz vibraphone,soul jazz"
+1984 (Part 1),Anthony Phillips,1981.0,4Z45MGF0QiNdMdSmoIfz57,0.0896,0.241,0.344,0.688,1.0,0.0922,-10.873,1.0,0.0293,75.575,4.0,0.134,1.0,6VWHWGvsfZm3cOsRCOqwq6,"progressive rock,symphonic rock"
+The Steam Drill,Cannonball Adderley,1972.0,78c7LxsMjzP62X1gwpcdIH,0.593,0.356,0.868,0.0156,5.0,0.651,-7.912,0.0,0.0678,93.699,3.0,0.33,8.0,5v74mT11KGJqadf9sLw4dA,"bebop,cool jazz,hard bop,jazz,jazz blues"
+Survival,Annette Peacock,1979.0,4pHrpb8f1TXy5YXCPDcfzc,0.189,0.678,0.428,0.0615,0.0,0.156,-14.567,1.0,0.0693,83.083,4.0,0.811,30.0,5vuxY740S6HZLvrrQCAzfG,
+Terra Incognita,Synergy,1978.0,6hykEQW67sL7g4oj0XgFZh,6.01e-05,0.465,0.674,0.31,9.0,0.215,-6.116,1.0,0.0369,117.65,4.0,0.192,48.0,0GDGKpJFhVpcjIGF8N6Ewt,"alternative metal,french death metal,french metal,groove metal,metal,nu metal,progressive groove metal"
+Right on Time,Maze Featuring Frankie Beverly,1983.0,6e9xnBJPs0y9omrSU3C3N4,0.179,0.776,0.556,1.48e-06,6.0,0.12,-5.648,0.0,0.0346,103.055,4.0,0.964,57.0,3DvdryKH4O95ZnsUZJKXpt,"funk,neo soul,quiet storm,soul,urban contemporary"
+Serenata Burlesca,Howard Roberts,1957.0,4bcMO5tXlqloqD2NHqqpeY,0.969,0.592,0.152,0.839,10.0,0.112,-19.68,0.0,0.0557,86.156,4.0,0.364,3.0,1E4UIKgZgGsuAZ4CFS0Cel,"jazz guitar,space age pop"
+Incantations (Part IV),Mike Oldfield,1978.0,1ZJv5nYlHzXZvTx7AchAKg,0.92,0.482,0.236,0.0161,7.0,0.146,-12.096,1.0,0.0306,185.491,4.0,0.562,26.0,562Od3CffWedyz2BbeYWVn,"progressive rock,symphonic rock"
+Boogie Down (Bronx),Man Parrish feat. Freeze Force,1984.0,2CbgPrMwa0UWUdppsOIoTR,0.376,0.862,0.639,0.0702,10.0,0.162,-14.938,0.0,0.0917,111.839,4.0,0.469,36.0,2HKVO06HXqGmQxZJ8xIqgr,electro
+Happy Fingers,George Freeman,1974.0,2s2QQRJvpQOFS9s0jWp5lM,0.285,0.455,0.157,0.307,0.0,0.159,-25.555,1.0,0.0327,107.83,4.0,0.534,1.0,7Ach9sbrT4ymDKQBsqGDvG,hammond organ
+Soul Songs,V.O.S. Trio,1974.0,3We23WM1fwrgX6DGaem3qO,0.958,0.413,0.168,0.937,3.0,0.15,-15.799,0.0,0.0322,100.346,4.0,0.0819,52.0,2RfscHz3ooemLWvQslMeqm,
+Moody Magic,"Elvin Jones, James Moody, Clark Terry and Bunky Green",1977.0,5nP6bZZpeT9hbtvePmy9ko,0.674,0.643,0.729,7.99e-06,0.0,0.173,-10.231,1.0,0.0297,135.29,4.0,0.963,61.0,43ZHCT0cAZBISjO8DG9PnE,"rock-and-roll,rockabilly"
+At Twilight,Attila Zoller,1970.0,29SiOLKUH3AD8HUE3hEqZH,0.484,0.434,0.411,0.0592,2.0,0.22,-11.385,0.0,0.0256,62.786,1.0,0.47,1.0,0z0wKIaOwZLP7zN7UJCQyy,
+The Star of a Story,Heatwave,1977.0,7B0uWqVjMySfDKhtZghBkO,0.000214,0.503,0.681,0.00159,9.0,0.147,-5.701,1.0,0.0332,123.891,4.0,0.191,53.0,4QkSD9TRUnMtI8Fq1jXJJe,"art pop,baltimore indie,bubblegrunge,indie pop,indie rock"
+طب وانا مالي (Tab Wana Mali),Warda,1973.0,0eH6w5pp0CCogVhq0t7cOL,0.82,0.366,0.484,0.00106,7.0,0.373,-8.139,1.0,0.045,177.284,4.0,0.405,23.0,5PpgzZbUFBXAdbEnJJHtpH,
+Tiempos Felice (Happy Times),Gary Burton and Pat Metheny,1990.0,7zvK52N0uTuEpNBYEd2Xfm,0.899,0.566,0.308,0.88,1.0,0.0926,-19.485,1.0,0.0337,136.058,4.0,0.202,17.0,4iovNkf44dsELmo3E7XSKX,"bebop,contemporary post-bop,ecm-style jazz,jazz,jazz fusion,jazz vibraphone"
+Magician Moth,Roger Glover,1974.0,2oBwkFOc3uYA3nFhSCdy2p,0.922,0.304,0.0303,0.236,5.0,0.175,-22.42,0.0,0.0429,133.702,4.0,0.135,15.0,5NuneeBDaWZspG13LcsYuV,
+Molly's Lament,Larry Coryell,1989.0,7F8p30SUoAOZeaOGFhNfpY,0.662,0.649,0.13,0.0658,2.0,0.0497,-16.747,1.0,0.0578,122.275,4.0,0.166,1.0,25s8YpOLWqI2SgTlvapJyQ,"jazz fusion,jazz guitar"
+Listening to Mozart,Daniel Vangarde,1973.0,1pHgB58K3y7aXkDHz5kryW,0.962,0.146,0.0451,0.962,5.0,0.0934,-22.971,1.0,0.0352,179.753,3.0,0.0855,48.0,4NJhFmfw43RLBLjQvxDuRS,"classical,classical era,lullaby"
+Dierdre De Samba,John Hicks,1979.0,6RKZq8kiQUNAW9OHfu5TDQ,0.995,0.268,0.067,0.944,8.0,0.13,-24.697,1.0,0.0496,76.563,3.0,0.0484,28.0,2JzTVgQ5vs7k1gGXbC5DWG,modern jazz piano
+It's a Wonderful Life,Henry Kaiser,1984.0,2YYc99GXjgh4asvsf4Evn5,0.413,0.346,0.38,0.898,4.0,0.136,-13.082,0.0,0.0582,72.159,3.0,0.184,3.0,3JgykWJiK9U8B4gfoWdDMb,experimental guitar
+Epilog,Jack DeJohnette,1974.0,7Hz0oqBQQt32fcMioZXyzq,0.165,0.685,0.468,0.328,11.0,0.0975,-12.354,0.0,0.0889,147.733,4.0,0.966,28.0,7rDjbKTLlpNYJRWMm7QVxU,"bebop,contemporary post-bop,ecm-style jazz,jazz,jazz drums,jazz fusion"
+Get Together,Tony Allen,1999.0,75gmTY9q0aZ3RPmlcEhK0I,0.00107,0.664,0.638,0.594,10.0,0.102,-6.494,0.0,0.131,159.905,5.0,0.7,19.0,6JpZEemWmunccsrHXFUOgi,"afrobeat,afropop,world"
+Not Available,Shuggie Otis,1974.0,3q8AgabNzK1mPJdI8egIcn,0.0143,0.805,0.38,0.00974,7.0,0.228,-16.387,1.0,0.0571,89.658,4.0,0.961,50.0,4YHtIE7FI8ITfekzzN5Jpl,"funk,psychedelic soul,soul"
+Love Potion-Cheeba-Cheeba,Mighty Tom Cats,1973.0,5bDO9izGDQj7bdaSgxEBGQ,0.903,0.578,0.174,0.0,1.0,0.112,-8.321,1.0,0.044,129.525,3.0,0.229,53.0,1E6ADXoD9nUhFEwKgwjEdh,gen z singer-songwriter
+Facelift,Soft Machine,1970.0,1jnxRJSuS9QIfjRuzKOvIC,0.408,0.354,0.331,0.92,9.0,0.234,-16.891,0.0,0.0298,129.008,4.0,0.3,43.0,5A0MH7JfEBEMySevsmauds,"art rock,canterbury scene,experimental,jazz fusion,jazz rock,progressive rock,psychedelic rock,zolo"
+I Will Say Goodbye,Bill Evans Trio,1980.0,3pvcejVh4SUFAdFCpu2bao,0.979,0.401,0.139,0.892,5.0,0.148,-21.385,0.0,0.0468,118.929,4.0,0.0739,32.0,3VEG6gxFIMfl4Cdog26avS,"bebop,contemporary post-bop,jazz,jazz trio"
+The Champ,The Mohawks,1968.0,2ShDTRBx2RmT03om9z65Ga,0.0671,0.772,0.824,0.932,0.0,0.3,-4.413,1.0,0.0762,111.73,4.0,0.888,36.0,7KNtGaPAgSPWzhGWZAVlyP,hammond organ
+It's a Blue World,Barney Kessel,1973.0,2hwOoMtWPtTSSn6WHV7Vp5,0.389,0.742,0.553,0.0,8.0,0.0694,-8.98,1.0,0.419,84.931,4.0,0.508,76.0,4LLpKhyESsyAXpc4laK94U,"hip hop,pittsburgh rap,rap"
+Brazilian Rhyme (Beijo Interlude),"Earth, Wind & Fire",1977.0,21AnCQUMUBi2YzgHR4wU1M,0.0984,0.588,0.966,0.0106,7.0,0.973,-6.864,1.0,0.0531,120.672,4.0,0.678,45.0,4QQgXkCYTt3BlENzhyNETg,"disco,funk,jazz funk,soul"
+People Get Up and Drive Your Funky Soul,James Brown,1973.0,5U3i59kbTLrxo46TU1FRnF,0.23,0.8,0.802,0.00379,0.0,0.0971,-5.439,1.0,0.166,97.586,4.0,0.82,61.0,7GaxyUddsPok8BuhxN6OUW,"funk,soul"
+Photograph,David Hentschel,1975.0,0UNXTLCFf3erUgsO8IH4aK,0.993,0.579,0.0965,0.954,4.0,0.0977,-19.808,1.0,0.054,180.038,1.0,0.105,52.0,4aKuEXqhHmIZKdDRkaPPKO,
+Strange Fruit,Gene Ammons,1973.0,1pOj3zjJHWBtyomlt0PPE1,0.992,0.372,0.0754,0.952,0.0,0.0775,-11.84,0.0,0.0422,82.452,4.0,0.0852,15.0,338mC0yGyX0C9of8QMJ5hK,"jazz saxophone,soul jazz"
+Hummin',The Cannonball Adderley Quintet,1969.0,7tjFfNU8OqbddFNGZTMn0a,0.716,0.733,0.235,0.876,0.0,0.0964,-10.529,1.0,0.0438,85.54,4.0,0.696,40.0,2o346NHhUAlVxl5uXBVxK7,"bebop,hard bop,jazz,jazz saxophone"
+Thank You Falletin Me Be Mice Elf Agin,Junior Mance,1970.0,74iQ3gahRTOGc19bYadBE3,0.296,0.9,0.709,0.00047,9.0,0.0863,-12.683,1.0,0.0636,105.822,4.0,0.897,60.0,5m8H6zSadhu1j9Yi04VLqD,"classic soul,funk,funk rock,p funk,psychedelic soul,soul,southern soul"
+Another Bad Morning,Little Tony,1981.0,4M6enxIFSQCh6n2rqQ0wWN,0.00605,0.821,0.438,0.0,2.0,0.139,-10.529,1.0,0.386,147.937,4.0,0.25,42.0,4ix2z6eBWQ6MeihaX04mB6,
+Autumn in New York,The Command All-Stars,1960.0,62FrtiVepyS9UGfcTPhu7W,0.958,0.546,0.152,0.931,7.0,0.3,-17.08,0.0,0.0368,124.562,4.0,0.144,57.0,3tUSGipRrxvpmZgUc13rd4,
+Ndolima,The Cannonball Adderley Quintet,1968.0,4n5AUkvieP9NglLITjihFH,0.805,0.524,0.323,0.00783,5.0,0.142,-11.33,1.0,0.0333,132.977,4.0,0.422,42.0,7F2B7VhQySTBRaqJqv4NDR,
+Paul Revere,Beastie Boys,1986.0,3gKwVWwKmeuFtPubICbOGc,0.0161,0.883,0.553,0.0,6.0,0.228,-13.232,0.0,0.944,91.753,4.0,0.578,60.0,03r4iKL2g2442PT9n2UKsx,"alternative rock,east coast hip hop,golden age hip hop,hip hop,old school hip hop,rap,rap rock,rock"
+Ice Cream,Steve Swallow,1980.0,57QFOU3f7O0gDLadxv5z8w,0.000595,0.851,0.598,0.0,0.0,0.343,-8.356,1.0,0.439,180.046,4.0,0.654,62.0,5MAp6rMiUJjRLXMWtArXRS,dfw rap
+Main Theme From Trouble Man,Marvin Gaye,1972.0,15pYj5ZiUJgBydzD7w6NbJ,0.541,0.677,0.415,0.0136,9.0,0.104,-9.869,0.0,0.0304,107.107,4.0,0.487,55.0,3koiLjNrgRTNbOwViDipeA,"classic soul,motown,neo soul,northern soul,quiet storm,soul"
+Pee-Wee's Dance,Joeski Love,1986.0,0k4JSIG2PfVxVCiV7SDCJh,0.00329,0.877,0.424,0.0,2.0,0.0929,-8.383,1.0,0.0863,150.046,4.0,0.116,52.0,0xTcxl35DKXUeYRWqY10w6,"atl hip hop,trap"
+A.N.G.E.L. (Interlude),Dwele,2003.0,3sDeuisFRzTK7dfwlNvoNK,0.486,0.684,0.396,0.00197,10.0,0.0683,-9.871,1.0,0.0327,96.984,4.0,0.166,36.0,7u6LfVyYpEzMpHLL7jTyvU,neo soul
+Anges Des Orages,Philip Glass,1977.0,4qZh3yJ7tILlDD0Wmv7Ftj,0.989,0.198,0.0382,0.969,0.0,0.17,-29.885,0.0,0.0443,136.392,4.0,0.127,56.0,69lxxQvsfAIoQbB20bEPFC,"american contemporary classical,classical,compositional ambient,contemporary classical,minimalism"
+In a Sentimental Mood,Steps Ahead,1986.0,54UCHdz61P74mrJxmrahQl,0.933,0.204,0.255,0.769,5.0,0.112,-9.92,1.0,0.0298,94.463,3.0,0.0866,32.0,5RKuvhYscPTUScwoFLAeK5,"contemporary post-bop,jazz fusion"
+Somewhere in the Night,Cal Tjader,1965.0,3UhgHkrUkTKhi6xowmvV7R,0.986,0.552,0.128,0.883,7.0,0.0869,-23.902,1.0,0.0629,84.565,4.0,0.462,23.0,3XOVABzceOUTbR3iEz0ImO,"cool jazz,jazz vibraphone,latin jazz"
+17 Days,Prince and The Revolution,1984.0,3TNzMvWUuNoeyBcNeUQZH4,0.0749,0.867,0.716,0.00466,5.0,0.0692,-9.401,1.0,0.069,114.283,4.0,0.667,41.0,5a2EaR3hamoenG9rDuVn8j,"funk,funk rock,minneapolis sound,rock,synth funk"
+Carmen 1,Hans Wurman,1976.0,3St0EIkx2U2XT40rwTa8fi,0.872,0.57,0.3,0.844,0.0,0.0844,-15.26,1.0,0.041,131.833,4.0,0.467,1.0,2D7RkvtKKb6E5UmbjQM1Jd,"classical,french opera,french romanticism,late romantic era"
+Blood and Jasmine,Alex De Grassi,1978.0,7EzhI5uE1Ve7Z8mY2NIsRd,0.949,0.297,0.135,0.835,4.0,0.107,-24.172,1.0,0.0492,151.191,3.0,0.182,11.0,7EXt4A1enL8YDEhheC2MLA,fingerstyle
+Valium,Michal Urbaniak Group,1973.0,6cMFS1jsjtjbH95U81oeVJ,0.656,0.468,0.48,0.0627,3.0,0.627,-16.899,0.0,0.0404,99.333,4.0,0.327,42.0,2o9yy7JZaNONL55k3AtBKU,"contemporary jazz,jazz violin,polish jazz"
+Daydreamer,Mark Colby,1978.0,0gaOxnHfomT4BwtCYAu19P,0.356,0.654,0.338,0.0,5.0,0.277,-16.092,1.0,0.0715,95.979,4.0,0.794,50.0,3BBCgZVbXFRzcnT1ewVfRt,"bedroom pop,pov: indie,san diego indie"
+Rock N Roll,J Dilla,2005.0,67c5M9gVWemCV5SGH5cc4v,0.054,0.23,0.772,0.000138,1.0,0.644,-6.349,1.0,0.342,173.377,5.0,0.589,58.0,0IVcLMMbm05VIjnzPkGCyp,"alternative hip hop,detroit hip hop,hip hop,instrumental hip hop"
+The Orb of Beauty,Tomita,1984.0,3OBcUfsknT6UgaqOfh5S3a,0.0017,0.536,0.727,0.771,10.0,0.747,-8.653,0.0,0.0368,111.041,4.0,0.471,38.0,5HAtRoEPUvGSA7ziTGB1cF,"ambient house,breakbeat,electronica,intelligent dance music,trip hop"
+Il Est Bel Et Bon,Swingle II,1974.0,7iwISpGAO2VYUJlfr6pUyx,0.983,0.451,0.622,0.0,1.0,0.251,-11.042,0.0,0.0686,122.525,4.0,0.199,17.0,41oZ2R2z0NtKVvHLgVj1hx,"franco-flemish school,french renaissance"
+The Way I Feel,George Duke,1978.0,1NAp5n8ZWhE54BW6SytJom,0.0646,0.372,0.652,0.00279,11.0,0.127,-9.115,1.0,0.0395,107.635,3.0,0.609,11.0,3EB0uKE2lGw6BB1UFJrONl,"jazz funk,jazz fusion,jazz piano,smooth jazz"
+Sunshine,Jaki Byard Trio,1968.0,3fbZnliWB8Z0cegIQWkIkd,0.249,0.727,0.825,4.2e-05,5.0,0.116,-4.715,1.0,0.044,144.929,4.0,0.85,51.0,6bswxXQ3qgvkMQCRu0DKuz,edmonton indie
+Stone Ground Seven,The Singers Unlimited,1978.0,6q89q4CwsiFHFIlsySzx7M,0.607,0.372,0.619,0.727,9.0,0.282,-14.42,0.0,0.0371,129.397,3.0,0.678,6.0,3RsROIs1zuuC3lwIdhJ0if,"a cappella,vocal harmony group"
+Good Times,Chic,1979.0,2wYKNcoqKW4IEcllj42xz1,0.0818,0.869,0.503,0.00837,2.0,0.187,-12.804,1.0,0.0479,112.664,4.0,0.914,57.0,0Xf8oDAJYd2D0k3NLI19OV,"disco,funk,soul"
+Waltz for Tricia,The Mystic Moods Orchestra,1970.0,2DUHnhkCHUy8jMKA7SCu4r,0.19,0.272,0.289,0.386,5.0,0.373,-26.424,1.0,0.07,115.252,3.0,0.518,10.0,0HxQeBjzWt18F1em8G2flL,
+A Taste of Honey,The New Classic Singers,1966.0,71ZgxJIApKmssV44AD1Zva,0.976,0.473,0.0203,0.597,4.0,0.117,-28.519,0.0,0.0611,73.561,4.0,0.336,51.0,2PjgZkwAEk7UTin4jP6HLP,"bebop,big band,dixieland,jazz,stride,swing,tin pan alley,vintage jazz"
+Something's Coming,Sounds Orchestral,1965.0,4F17nB9GKTSPfocx9D7jHx,0.111,0.514,0.825,0.0,0.0,0.333,-4.452,1.0,0.0748,119.985,4.0,0.411,60.0,7DMveApC7UnC2NPfPvlHSU,"edm,pop,pop dance"
+Falling Alice,Chick Corea,1978.0,0KQx6HOpJueiSkztcS0r7D,0.263,0.652,0.609,0.00101,11.0,0.233,-7.519,0.0,0.037,95.986,3.0,0.482,73.0,3DiDSECUqqY1AuBP8qtaIa,"neo soul,pop,r&b"
+Everyday,Jamiroquai,1996.0,4pGIF3R8nau0IBHzrYXzWX,0.342,0.703,0.411,0.565,11.0,0.0895,-13.881,0.0,0.0346,136.139,4.0,0.763,48.0,6J7biCazzYhU3gM9j1wfid,dance pop
+Moon Love,Laurindo Almeida,1969.0,5LCaw96SsbpHAQFAcbFwbI,0.0168,0.706,0.935,4.62e-05,6.0,0.106,-2.418,1.0,0.0565,130.001,4.0,0.214,50.0,4m1yRHUMhvB8gKAJTjK4kO,"brostep,electro house,electronic trap"
+Moon,Larry Coryell,1978.0,5DrakA804lNEyW5iFw2tOK,0.495,0.43,0.68,0.548,0.0,0.684,-9.88,1.0,0.0394,78.148,4.0,0.634,29.0,25s8YpOLWqI2SgTlvapJyQ,"jazz fusion,jazz guitar"
+Thanks for the Lift,Ron Proby,1972.0,64yJ0tpcSveze3KJAdZGKe,0.932,0.527,0.134,0.0,4.0,0.103,-11.264,1.0,0.0348,98.879,4.0,0.479,62.0,5RZjpmuD14JKXvB8Ry1G1u,hollywood
+No Hard Feelings,George Shearing and The Montgomery Brothers,1961.0,7bfr0JODCtG2pvVXIqiptY,0.93,0.469,0.145,0.868,9.0,0.0986,-26.303,1.0,0.0474,116.447,4.0,0.608,2.0,7uUBTiZ2u5b40vymlFmXrn,"cool jazz,jazz piano"
+What's Next,Fantasy,1970.0,3aQem4jVGdhtg116TmJnHz,0.0136,0.781,0.594,0.0,0.0,0.162,-6.959,0.0,0.0485,129.895,4.0,0.0628,74.0,3TVXtAsR1Inumwj472S9r4,"canadian hip hop,canadian pop,hip hop,rap,toronto rap"
+Just for Now,Jackie & Roy,1963.0,5Yc2A0YtK6PaXT8J1MQ0Rd,0.215,0.519,0.503,0.0,2.0,0.148,-6.239,1.0,0.0442,89.174,4.0,0.364,61.0,1McMsnEElThX1knmY4oliG,pop
+Mujer Mia,Joe Bataan,1973.0,6uiqzXiQCvAvoeDcjbRbRC,0.779,0.605,0.319,0.662,6.0,0.103,-11.709,0.0,0.0332,146.87,3.0,0.599,44.0,7ME0heqob2B32S9ofWhOyU,"boogaloo,classic soul,souldies"
+Moon City,Absolute Elsewhere,1976.0,5G2lzixjOkTGD9Cc3kelXQ,0.867,0.666,0.351,1.39e-06,2.0,0.133,-9.386,1.0,0.0633,154.968,4.0,0.227,72.0,63yrD80RY3RNEM2YDpUpO8,"alt z,electropop,pop"
+Never Gonna Come Down,Brian Auger's Oblivion Express,1977.0,4cOdK2wGLETKBW3PvgPWqT,0.115,0.721,0.939,3.79e-05,8.0,0.108,-11.823,1.0,0.0376,113.309,4.0,0.914,80.0,0gxyHStUsqpMadRV0Di1Qt,"new romantic,new wave pop,soft rock,sophisti-pop,synthpop"
+Rebirth,Gershon Kingsley,1970.0,1bBetNcLK8TbPfwYtaSMMi,0.0276,0.757,0.916,0.0,10.0,0.138,-3.564,0.0,0.0433,136.01,4.0,0.323,59.0,7EWU4FhUJM1sZQgQKdENeT,conscious hip hop
+Who Is She (And What Is She to You),Gladys Knight & the Pips,1973.0,7aqJzVdVIAwCokmju1Oid8,0.168,0.837,0.538,0.0216,1.0,0.0603,-15.363,0.0,0.0517,106.684,4.0,0.783,44.0,0TF2NxkJZPQoX1H53rEFM1,"classic soul,disco,funk,motown,quiet storm,soul"
+The Changing World,George Benson,1974.0,62GYoGszQfROZswLee6W3O,0.314,0.85,0.466,0.0234,1.0,0.129,-15.673,1.0,0.0555,109.936,4.0,0.86,67.0,4N8BwYTEC6XqykGvXXlmfv,"jazz funk,jazz guitar,smooth jazz,soul jazz,yacht rock"
+Grease,Frankie Valli,1978.0,5Vrczz39CvlD3OGCa6utoA,0.156,0.82,0.464,0.0,11.0,0.101,-8.45,1.0,0.0481,109.374,4.0,0.872,65.0,3CDKmzJu6uwEGnPLLZffpD,"adult standards,bubblegum pop,lounge,rock-and-roll"
+Papa Was a Rollin' Stone,The Temptations,1972.0,7MiLmLbwNoyf47xQ4TCVYp,0.451,0.817,0.405,0.0507,10.0,0.0468,-13.513,0.0,0.0811,121.467,4.0,0.898,66.0,3RwQ26hR2tJtA8F9p2n7jG,"memphis soul,motown,soul"
+Can't Hold It Back No Longer,"Sly, Slick and Wicked",1977.0,7eHn0xcN1mhn7ok3SjzzWf,0.224,0.771,0.864,0.0,1.0,0.0778,-4.895,1.0,0.339,85.405,4.0,0.83,35.0,0av074qUwLn5eyzwqoq3xh,"alternative hip hop,jazz rap"
+Summer Song,"Grover Washington, Jr.",1977.0,1ko2lVN0vKGUl9zrU0qSlT,0.41,0.749,0.497,0.0499,10.0,0.0504,-12.609,0.0,0.105,95.818,4.0,0.585,77.0,05YVYeV4HxYp5rrWalvuE1,
+I'm Pushin In,Roshell Anderson,1974.0,6ABAcuQ00Yst7zYXSsY4Ms,0.0171,0.859,0.791,0.0,9.0,0.307,-5.199,1.0,0.201,96.99,4.0,0.399,29.0,3crnzLy8R4lVwaigKEOz7V,"cali rap,gangster rap,hyphy,oakland hip hop,west coast rap"
+Snowflake Bop,The Gil Evans & the Monday Night Orchestra,1987.0,1IEbtXrHgN37lTQi9Byx6g,0.129,0.301,0.459,0.0166,9.0,0.12,-13.618,0.0,0.0365,95.846,4.0,0.287,30.0,7g9DeYASD3RzlT4kDchsQZ,"bebop,contemporary post-bop,cool jazz,free jazz,jazz"
+Yes We Can Can,Pointer Sisters,1973.0,5cfCiy2vEqsInb0m2SCJd9,0.0267,0.782,0.506,0.00268,5.0,0.0899,-13.282,1.0,0.267,88.87,4.0,0.784,37.0,2kreKea2n96dXjcyAU9j5N,"disco,girl group,hi-nrg,motown,new wave pop,soft rock"
+Danza De Los Ñañigos,Morton Gould,1964.0,0AnwIwxt96ERVRohy7hcnU,0.347,0.812,0.534,0.716,7.0,0.0741,-11.337,1.0,0.269,90.995,4.0,0.948,59.0,1ga48mxYYI9RuUrWLa3voh,"chicha,cumbia,cumbia amazonica,cumbia peruana"
+Misdemeanor,Foster Sylvers,1973.0,0ApFfTbtX1775WkrzZSx4y,0.338,0.762,0.666,0.0,2.0,0.039,-8.675,1.0,0.0446,88.295,4.0,0.895,41.0,0ESCoUJXbD4SOqgJRA84iw,
+I Know You Got Soul,Bobby Byrd,1971.0,2kNG9FJB7FVN7BffCY56sh,0.0977,0.843,0.544,0.000382,9.0,0.0726,-11.689,1.0,0.194,112.792,4.0,0.837,21.0,6WXpplxbfcLvaAlhDbfEyO,rare groove
+Light/Sun,Jan Hammer,1975.0,4xXTGXt6Y93QE7WoxiBWBX,0.31,0.188,0.323,0.14,10.0,0.0871,-13.167,1.0,0.0417,162.755,3.0,0.0556,5.0,50zRydJXfkLzGIOj9mITfy,jazz fusion
+Summerset,"Zoot Sims, Bucky Pizzarelli and Buddy Rich",1974.0,36NzG0ptwi4k798mpIS3Oz,0.984,0.564,0.162,0.358,6.0,0.125,-12.06,1.0,0.0331,62.56,4.0,0.57,52.0,1pwr5rTWLVfqhvHfB7Reap,"cool jazz,jazz saxophone"
+Song for My Father (Version 2),"Richard ""Groove"" Holmes",1975.0,1CDBaGlisZlOJzvx88lL8A,0.794,0.742,0.671,0.00441,5.0,0.122,-8.142,0.0,0.0407,127.359,4.0,0.591,56.0,5ZATfKurLqflrBhv2FLht5,"bebop,hard bop,jazz,jazz piano"
+Scenario,A Tribe Called Quest feat. Leaders of the New School,1991.0,5YTM7OgQDt9EJAYcfHLniJ,0.00308,0.812,0.6,8.38e-06,7.0,0.173,-9.414,1.0,0.254,97.338,4.0,0.555,66.0,09hVIj6vWgoCDtT03h8ZCa,"conscious hip hop,east coast hip hop,golden age hip hop,hip hop,jazz rap,queens hip hop"
+Gang Progress,André Ceccarelli,1976.0,50r8xQYk7Gyo4N9mnguBWJ,0.903,0.353,0.245,0.0477,6.0,0.108,-15.557,1.0,0.0292,99.584,4.0,0.139,49.0,77FgwKhxIPrET0QgGTn58K,french jazz
+Other Mansions,David Friesen and John Stowell,1980.0,2CIwG3pBrir8ZQWgeTf5II,0.975,0.558,0.145,0.912,2.0,0.101,-23.851,1.0,0.0341,91.504,4.0,0.514,4.0,6rPiNVhLi6SZXIQokdJYk7,
+Le Deuxieme,The Camarata Contemporary Chamber Group,1970.0,311LgPjVHouQrLwSHRyQCa,0.065,0.71,0.691,1.39e-06,7.0,0.101,-7.842,1.0,0.0325,123.943,4.0,0.891,48.0,3oFu5CCLk4p4zLBNo3wrai,
+Walk Soft,Eddie Harris,1971.0,0gWkTnHzZgoyteRie3lNdP,0.949,0.44,0.425,0.0208,11.0,0.798,-11.064,1.0,0.0407,102.437,4.0,0.278,2.0,0bcDOCWIbvWApEIB7l1uZ4,"instrumental soul,jazz funk,soul jazz"
+Funky Worm,Ohio Players,1972.0,4UDgg6XL6hRkR7naHh6kze,0.0803,0.633,0.644,0.000246,2.0,0.0356,-9.923,0.0,0.0914,86.115,4.0,0.949,45.0,6m30rs1IQqnWqV5nKMpU7U,"classic soul,disco,funk,p funk,quiet storm,soul"
+The Claw (1986 Live Version),Lenny Breau and Brad Terry,1986.0,56JSw5FKDHxJZLvkoOLcxS,0.922,0.582,0.251,0.854,9.0,0.697,-15.36,1.0,0.0477,125.002,4.0,0.778,1.0,6P2LZHa7t0uN3WiZIWXPR3,
+Le Freak,Chic,1978.0,7Kszjzps0xbQXyo1pO4KfE,0.0258,0.91,0.641,6.42e-05,7.0,0.0642,-11.316,1.0,0.0589,118.533,4.0,0.903,67.0,0Xf8oDAJYd2D0k3NLI19OV,"disco,funk,soul"
+10:30 Returns to the Bedroom,Soft Machine,1969.0,2OJcjvC5RmXMbFDUxvxXOR,0.0459,0.355,0.74,0.833,7.0,0.186,-10.567,1.0,0.135,165.709,4.0,0.463,10.0,5A0MH7JfEBEMySevsmauds,"art rock,canterbury scene,experimental,jazz fusion,jazz rock,progressive rock,psychedelic rock,zolo"
+Ode to Billie Joe,Lou Donaldson,1967.0,0XnA3HeKzwNgVzeIxZlt8o,0.592,0.619,0.56,0.358,5.0,0.0353,-10.598,1.0,0.0344,93.969,4.0,0.641,28.0,063xkuRULzZu8fcoPR2rKR,"bebop,hard bop,jazz saxophone,soul jazz"
+Incantation,Bruce Haack,1970.0,4VkH1PSwDH5r87Gl5vqAOW,0.8,0.551,0.711,0.233,2.0,0.21,-8.127,1.0,0.0312,79.854,4.0,0.356,26.0,62vRPmO2KknlG5VCefR1D3,"canadian psychedelic,hauntology,moog,zolo"
+What Do You See in Her,Inell Young,1972.0,2pJZ1v8HezrAoZ0Fhzby92,0.251,0.838,0.492,0.0,1.0,0.262,-5.69,0.0,0.038,115.092,4.0,0.895,69.0,6eUKZXaKkcviH0Ku9w2n3V,"pop,uk pop"
+Jam on It,Newcleus,1984.0,1lB2kyB5h9ceZ388GBfC9L,0.00302,0.804,0.782,0.0872,6.0,0.662,-6.224,0.0,0.0606,116.806,4.0,0.346,52.0,5X8Tt3rIpdy8VR78KEhZ6C,"electro,hip house,old school hip hop"
+Ankh,Sun Ra and the Arkestra,1968.0,0EjtZmOLT6WLShJRHCFWVU,0.668,0.373,0.108,0.756,8.0,0.168,-16.105,1.0,0.0286,72.118,4.0,0.354,49.0,0tIODqvzGUoEaK26rK4pvX,"afrofuturism,avant-garde jazz,experimental,free jazz,spiritual jazz"
+Eltsuhg Ibal Lasiti,The Daktaris,1998.0,2lhHExlHgiMV2cj0mFksh0,0.488,0.884,0.5,0.836,10.0,0.07,-10.881,1.0,0.119,100.95,4.0,0.928,24.0,42ccKlw9sHnNr29o6gqnsv,instrumental funk
+Without Rhyme or Reason,Scott Jarrett,1980.0,7GIIe4GjW9Bbf2zE4jzOra,0.915,0.686,0.223,0.17,5.0,0.0793,-16.486,1.0,0.0416,119.076,4.0,0.252,2.0,3ioO3E20jTzvVfR2NM1Qka,
+Kama Part 1 (Kama Ula),Michal Urbaniak's Fusion,1974.0,7GiDkfQBCQIpF8rw3oJZmD,0.876,0.391,0.401,0.0062,1.0,0.371,-17.366,1.0,0.379,162.759,4.0,0.151,2.0,2o9yy7JZaNONL55k3AtBKU,"contemporary jazz,jazz violin,polish jazz"
+Lady Madonna,Cal Tjader,1969.0,3t5OV1asJHmOlf23T08CLv,0.881,0.539,0.16,0.000268,3.0,0.105,-13.285,1.0,0.0329,81.446,4.0,0.322,78.0,13ZEDW6vyBF12HYcZRr4EV,"kentucky indie,kentucky roots,outlaw country"
+The Robots,Kraftwerk,1978.0,5eqZWYQ5tbIehx00NeKXz7,0.0236,0.806,0.765,0.617,2.0,0.148,-9.665,0.0,0.0583,115.023,4.0,0.353,49.0,0dmPX6ovclgOy8WWJaFEUU,"art rock,dusseldorf electronic,early synthpop,electro,new wave,proto-techno,synthpop"
+Lover Man,Sonny Rollins and Coleman Hawkins,1963.0,1ZEaD71KTpyNnY2FJywGaq,0.6,0.464,0.295,0.393,1.0,0.106,-11.551,1.0,0.076,52.249,4.0,0.394,15.0,1VEzN9lxvG6KPR3QQGsebR,"bebop,contemporary post-bop,hard bop,jazz,jazz saxophone"
+More Than a Little Bit,The Players Association,1979.0,1QEEqeFIZktqIpPI4jSVSF,0.00088,0.377,0.681,0.0023,7.0,0.0504,-8.039,1.0,0.0298,108.789,4.0,0.285,80.0,29kkCKKGXheHuoO829FxWK,"album rock,classic rock,glam metal,hard rock,mellow gold,rock,soft rock"
+Dooinit,Common,2000.0,7bEEzWWgJS4HhzYtNLCXfa,0.103,0.85,0.637,0.0,8.0,0.0995,-5.82,1.0,0.393,92.859,4.0,0.762,34.0,2GHclqNVjqGuiE5mA7BEoc,"alternative hip hop,chicago rap,conscious hip hop,hardcore hip hop,hip hop,political hip hop"
+Kissing My Love,Cold Blood,1973.0,34JfHOd0fcefm4FSPSrIhF,0.0794,0.961,0.739,0.0,9.0,0.0372,-6.665,1.0,0.224,119.96,4.0,0.759,65.0,64k5e9kV9MdukXjFrR5R37,k-pop
+Preparations,Franz Waxman,1962.0,7EO0xcgAeLmu8VsU9afLE6,0.976,0.145,0.338,0.709,11.0,0.117,-11.701,1.0,0.034,172.966,5.0,0.0918,19.0,3GMsAIP1uVCx0yNz2kmXFw,classic soundtrack
+Djalma,Dave Pike,1976.0,3hbx2HUnYoLu5KuxiBJrAB,0.205,0.659,0.788,0.783,7.0,0.144,-6.245,0.0,0.0555,115.685,4.0,0.51,44.0,6zAEqMMSjBiAH4Dat94F3G,raga rock
+Old Laces,Lalo Schifrin,1966.0,3W4U7TEgILGpq0EmquurtH,0.716,0.478,0.367,0.0,11.0,0.124,-10.513,1.0,0.0283,141.95,3.0,0.359,83.0,5kjFzBMHeoAx9xksFSwfUW,
+"Cigančica Mala (Efige, Efige)",Esma Redžepova,1967.0,2XpoHlJ9qAzBmowR9pkdXp,0.383,0.292,0.295,0.743,9.0,0.281,-12.686,0.0,0.0327,81.157,4.0,0.44,14.0,3hqJ0OoW1ck5ET6lUyV0OQ,"balkan brass,macedonian folk"
+Meadowlands,Jo Basile,1970.0,1nsMASRDWwUwlBMmOuh80d,0.965,0.475,0.138,0.884,5.0,0.0971,-17.099,0.0,0.0424,118.338,4.0,0.123,63.0,3xgSoGgPQpQvOK5XOyoOAm,
+You Can't Do It Alone,Chic,1980.0,6XHl6AuLDJQLQ7p7r28pUK,0.561,0.482,0.497,0.0,1.0,0.117,-7.459,1.0,0.362,178.783,4.0,0.502,44.0,5i4JbHYkeCa702YXS68RGf,"hollywood,show tunes"
+What Is This Thing Called Love?,Ed Bickert and Don Thompson,1978.0,4nRiNLrzanEhQvMJ3FftSE,0.975,0.498,0.0563,0.936,0.0,0.692,-28.945,1.0,0.0403,122.408,4.0,0.375,11.0,1l2y80b850BRWQ3Y6YhLaX,jazz double bass
+Survival of the Funkiest,Wilbur Niles and Thrust,1980.0,07wALNmJgHNMknhHQNQOvb,0.0406,0.692,0.704,0.0,10.0,0.209,-6.079,1.0,0.123,103.839,4.0,0.814,1.0,0sjYytR4h9EBoJxeZRwrfg,
+Onsaya Joy,"Richard ""Groove"" Holmes",1975.0,78e7D7pJbzRPCs2LToD6zu,0.604,0.522,0.956,0.689,0.0,0.705,-7.641,0.0,0.0618,106.763,4.0,0.828,5.0,02KuW0NIYd0JlYMCuk8C47,
+Sunny Earth,Vangelis,1973.0,2jc60rDLMrw2eq70rUZ8X1,0.524,0.356,0.39,0.655,1.0,0.396,-18.777,1.0,0.0564,78.296,4.0,0.374,11.0,4P70aqttdpJ9vuYFDmf7f6,"cyberpunk,synthesizer"
+The Look of Love,Martin Denny,1968.0,6ExtUsA1jXcF2c83gtniSW,0.784,0.309,0.168,7.77e-06,1.0,0.101,-17.814,1.0,0.0305,141.138,4.0,0.257,35.0,3D9J9nPNW1cBktx5apJq4V,"easy listening,exotica,lounge"
+Riding High,Faze-O,1977.0,1SMve8RRwhfTtAiWIvYfAj,0.0524,0.474,0.892,0.0021,6.0,0.0883,-5.844,1.0,0.103,96.91,4.0,0.689,42.0,4KzfI3D3E4Sj4khfuceLi2,"p funk,rare groove"
+Heritage,Cannonball Adderley,1974.0,6NF8MZ2trxckVBr82pyyPt,0.719,0.544,0.425,0.0186,10.0,0.964,-10.231,1.0,0.0346,84.443,4.0,0.348,54.0,5v74mT11KGJqadf9sLw4dA,"bebop,cool jazz,hard bop,jazz,jazz blues"
+Things U Do,Q-Tip,1999.0,31KK3pcPclmIt087tPuwMr,0.007,0.924,0.75,0.000198,9.0,0.0638,-6.582,1.0,0.0418,99.034,4.0,0.672,60.0,3ZotbHeyVQKxQCPDJuQ4SU,"east coast hip hop,queens hip hop"
+Samba for Vicky,Dave Mackay and Vicky Hamilton,1969.0,6MFPwKqgZnTKX4WZqs9Lz2,0.288,0.624,0.65,0.0189,0.0,0.237,-11.166,1.0,0.0361,102.49,4.0,0.769,1.0,4xsruzv4eMAPOFsGp5UXp8,
+Don't Change Your Love,Five Stairsteps,1968.0,74JdR9aXE6I74oS1BVRsvb,0.00154,0.488,0.754,2.42e-05,5.0,0.678,-7.95,0.0,0.0381,88.368,4.0,0.664,66.0,3Inrg8cs8oc4q8oPES4a6S,"chicago soul,classic soul,motown"
+Opus 4,Art of Noise,1986.0,5HZ7yca2j8gelWeu2ad3ea,0.848,0.761,0.321,0.0,6.0,0.196,-13.99,1.0,0.0899,99.536,4.0,0.838,17.0,77zrvBORXcnTyysjjKRfBU,"new romantic,synthpop"
+God Make Me Funky,The Headhunters feat. Pointer Sisters,1975.0,1Hd1LiHrVX7lWEXiZZQZgY,0.226,0.615,0.841,0.178,2.0,0.0553,-7.671,1.0,0.136,96.98,4.0,0.847,33.0,5JzA5RES9AMM9bK3oDyulT,jazz funk
+Gotta Have You (Day by Day),The Fatback Band,1973.0,39sH8Fl415P7O8GRP1Td6Z,0.0443,0.253,0.635,1.43e-05,2.0,0.324,-10.135,1.0,0.053,176.109,4.0,0.41,57.0,1dfeR4HaWDbWqFHLkxsg1d,"classic rock,glam rock,rock"
+Leaving,Steve Hackett,1980.0,3R5oB4OkyzOacho3XOHAwa,0.964,0.113,0.189,0.899,9.0,0.308,-16.912,0.0,0.0343,79.412,4.0,0.107,9.0,4vs7NIU7kZc2Efh6yOGKEZ,"instrumental rock,progressive rock,symphonic rock"
+Sweet Shuffle,Larry Coryell,1978.0,33ZCfWovBIzTrN7ycqqn0j,0.561,0.529,0.446,0.00146,11.0,0.0946,-12.601,1.0,0.0472,131.67,4.0,0.367,1.0,25s8YpOLWqI2SgTlvapJyQ,"jazz fusion,jazz guitar"
+Tuely and Mary,The Road,1971.0,6YY50775yICpXKlRjQkxME,0.713,0.445,0.438,0.398,7.0,0.136,-14.248,0.0,0.0577,107.825,3.0,0.308,0.0,0KgE22XP3NmBIJmzO7LFLN,
+Rhapsody in Blue,Gershon Kingsley and Leonid Hambro,1970.0,7oB0QBEnGRIJjvlDc8YnM6,0.969,0.305,0.184,0.781,9.0,0.132,-18.342,1.0,0.0409,70.813,4.0,0.0771,52.0,1YuknfkSYTTbolRpwZBOv4,"american modern classical,classical,early modern classical,tin pan alley"
+Stepping Into Tomorrow,Donald Byrd,1975.0,2V97gq3ENtfKSEor21yVgx,0.247,0.675,0.919,0.0658,11.0,0.299,-7.772,0.0,0.0406,148.241,4.0,0.872,28.0,3ZUZYvTkSr7kJQyAXVpqaL,"bebop,hard bop,jazz,jazz funk,jazz trumpet,soul jazz"
+Yearning for Your Love,The Gap Band,1980.0,1kSxm4vU26W5xSUdnPUkyB,0.0953,0.586,0.437,4.72e-06,2.0,0.124,-10.306,1.0,0.0264,90.717,4.0,0.458,56.0,4TwHRCIu3Xg9fjS3l7owkp,"disco,funk,motown,quiet storm,soul"
+No Tears Over You,Red Holloway,1983.0,2qT1uLXPVPzGgFOx4jtEuo,0.04,0.699,0.713,3.11e-06,9.0,0.294,-5.507,0.0,0.0594,121.993,4.0,0.354,79.0,66CXWjxzNUsdJxJ2JdwvnR,pop
+Free Hand,Gentle Giant,1975.0,1YrqcUgbtmFrbB0BpYN4On,0.251,0.489,0.632,0.073,4.0,0.117,-7.06,1.0,0.0363,113.368,4.0,0.6,20.0,1hrQ50kU6hMQBVLatqUqnO,"progressive rock,symphonic rock,zolo"
+Theme From Taras Bulba (The Wishing Star),Jerry Butler,1962.0,5W8lR8NrVayLlLC2PSuV3N,0.86,0.44,0.371,3.89e-05,5.0,0.0934,-13.378,0.0,0.0292,104.205,4.0,0.504,0.0,0U2mUJuJkthantMGmsJygP,"chicago soul,classic soul,motown,philly soul,soul"
+N.T.,Kool & the Gang,1971.0,3K7Q9PHUWPTaknlbFPThn2,0.145,0.885,0.664,0.0483,1.0,0.0767,-11.795,1.0,0.0524,121.632,4.0,0.906,73.0,3VNITwohbvU5Wuy5PC6dsI,"disco,funk,motown,soul"
+Choronzon,Tangerine Dream,1981.0,16ZFRxfzSEyjBtGSX8JzWj,0.452,0.768,0.423,0.0493,5.0,0.101,-8.07,0.0,0.152,159.988,4.0,0.423,57.0,10uDX8MnRj05PQIVGMygO2,chill abstract hip hop
+Les Quatre-Coins (The Game of the Cat and the Four Mice),The Camarata Contemporary Chamber Group,1972.0,2vZNvA8PEvBdeWr4EkZjLG,0.483,0.436,0.19,3.1e-06,3.0,0.201,-13.375,1.0,0.0293,77.042,4.0,0.519,44.0,542GsScaNnc2Ed8yokKLsy,"adult standards,doo-wop,easy listening,rock-and-roll,vocal harmony group"
+Afro Blue,The Emily Remler Quartet,1982.0,3iHNiBlXOwXJAFvWU6poMH,0.991,0.393,0.00463,0.96,5.0,0.103,-37.932,1.0,0.0448,67.706,4.0,0.269,41.0,2KD1KC9SgUiYueJUmWTnNJ,jazz guitar
+The Message,Grandmaster Flash and The Furious Five feat. Grandmaster Melle Mel and Duke Bootee,1982.0,5DuTNKFEjJIySAyJH1yNDU,0.0249,0.947,0.607,4.76e-06,10.0,0.0861,-10.58,0.0,0.202,100.619,4.0,0.732,52.0,5hQCwevTf03u1rECrRMeop,"bronx hip hop,old school hip hop"
+The Jam,Graham Central Station,1975.0,1xXNrpcZ7UyKVWiI6GEc75,0.125,0.701,0.83,0.329,11.0,0.114,-10.517,0.0,0.0667,107.772,4.0,0.648,40.0,1OGcRXAY9iO4egWiIBqX8F,"funk,jazz funk,p funk"
+Daydream,"Kenny Burrell and Grover Washington, Jr.",1984.0,6sjaBYmJVG7Xw82YHkDqRv,0.975,0.323,0.164,0.0502,5.0,0.113,-17.124,1.0,0.0363,174.639,3.0,0.169,23.0,1sdyFmN4bVOcuFDpTVsxBB,"bebop,jazz,jazz guitar,soul jazz,straight-ahead jazz"
+How High the Moon,"Jimmy McGriff and Richard ""Groove"" Holmes",1973.0,0onHzLoj8yQbjbHtJzwjBx,0.687,0.695,0.582,0.00914,11.0,0.178,-9.567,0.0,0.0381,118.88,4.0,0.817,40.0,2hkZGvBotqZ7uBBUnBwmLC,space age pop
+Never Had a Dream,Ohio Players,1971.0,3l07bnCelhP04T2TfcXcwd,0.767,0.38,0.435,8.68e-06,5.0,0.276,-9.96,1.0,0.0866,77.026,4.0,0.487,12.0,6m30rs1IQqnWqV5nKMpU7U,"classic soul,disco,funk,p funk,quiet storm,soul"
+5 Definitions of Love,Spanky & Our Gang,1967.0,6CGsNYtYYQ8XMj0PxmKYfh,0.777,0.432,0.516,0.0,8.0,0.326,-7.193,1.0,0.0403,77.033,4.0,0.532,0.0,12V5Y0dEdRroUCBr95IXO9,sunshine pop
+Malagueña,Sid Bass,1969.0,09DkCew2t3dNEh9wqmxqZ5,0.384,0.684,0.457,0.00165,5.0,0.0958,-11.987,0.0,0.0378,98.771,4.0,0.569,1.0,6cBnm4uGHSwJmdhvTfQXEg,"moog,space age pop"
+Love Gonna Pack Up (And Walk Out),The Persuaders,1971.0,3q9e1qjPQAqZOQLR2BBqVK,0.525,0.647,0.443,0.0,9.0,0.039,-11.263,0.0,0.0486,133.296,4.0,0.77,29.0,6PhJqhvF42CZ42NUmxIKLB,"classic soul,southern soul"
+Flight of the Looking Glass,Synergy,1981.0,0gW6KLC4W6vChWUHucb69N,0.000339,0.522,0.793,0.00373,1.0,0.137,-4.97,1.0,0.042,97.871,3.0,0.287,58.0,5iMYu8Sj8dZEDsWJxSFwPP,"multidisciplinary,pov: indie"
+Burn the Night,On the Seventh Day,1970.0,0TkJIyL69RAUIbNwGub6uR,0.0364,0.454,0.66,0.0,0.0,0.181,-4.357,1.0,0.168,184.353,4.0,0.568,69.0,6s22t5Y3prQHyaHWUN1R1C,pov: indie
+Inamorata and Narration by Conrad Roberts,Miles Davis,1971.0,6Nmmmpujq5cbqhKOcu7qyb,0.501,0.416,0.667,0.105,1.0,0.098,-9.0,1.0,0.071,92.822,4.0,0.723,15.0,0kbYTNQb4Pb1rPbbaF0pT4,"cool jazz,hard bop,jazz,jazz fusion,jazz trumpet,soul,vocal jazz"
+"Get Out of My Life, Woman",Iron Butterfly,1968.0,1Se3VN5DEkN4nbeuGVNoEx,0.0998,0.611,0.306,0.00014,5.0,0.11,-12.325,1.0,0.0282,89.087,4.0,0.732,34.0,3cdvlbCYf4WoBdy89RWkNS,"acid rock,album rock,blues rock,british blues,classic rock,country rock,folk rock,hard rock,progressive rock,proto-metal,psychedelic rock,symphonic rock"
+Operation Radication,Yellowman and Fathead,1982.0,4ayqlDiTfBWRtxbZANHdPn,0.0726,0.81,0.337,0.0,0.0,0.0796,-14.377,1.0,0.552,148.831,4.0,0.505,20.0,6yTNMMqumesCWhMJ47HB2a,"dub,reggae,roots reggae"
+Tight Rope,Claude Denjean,1973.0,405HNEYKGDifuMcAZvqrqA,0.855,0.202,0.129,0.00243,1.0,0.104,-18.237,1.0,0.0411,86.741,1.0,0.0793,59.0,1Uff91EOsvd99rtAupatMP,"classical,impressionism,post-romantic era"
+Women Don't Want to Love Me,Chicago,1974.0,5BKKy9fIJL5uM9fz1SnqyP,0.0784,0.608,0.756,0.0,7.0,0.187,-2.675,0.0,0.176,176.086,4.0,0.55,80.0,3fMbdgg4jU18AjLCKBhRSm,"r&b,soul"
+Don't See Us,The Roots feat. Dice Raw,1998.0,4pdLZsxq0y5oJDb6Cxlokw,0.151,0.729,0.442,0.0,11.0,0.189,-8.106,0.0,0.285,81.029,4.0,0.757,68.0,78xUyw6FkVZrRAtziFdtdu,"conscious hip hop,east coast hip hop,hip hop,philly rap,political hip hop"
+Space Symphony,The Electric Moog Orchestra,1977.0,56PqzV9S0vDS8CbU50I07s,0.531,0.393,0.923,0.00835,10.0,0.0789,-8.042,0.0,0.417,90.272,4.0,0.471,1.0,5TCr98myF0cuTtpe4ca5Jh,moog
+Rohans Horn / Slaget På Pelennors Slätter,Bo Hansson,1970.0,6nNRqkUf1mAmCrvEkQxVXO,0.0104,0.332,0.492,4.47e-06,11.0,0.382,-8.28,0.0,0.0335,128.858,4.0,0.337,20.0,2Zi0XljYMecih2LyEEWFla,"svensk progg,swedish prog"
+Blow Your Head,Fred Wesley and The J.B.'s,1974.0,72qWtVWATU9BIIpdGwAJKl,0.073,0.602,0.907,0.00415,9.0,0.065,-8.574,0.0,0.0437,121.023,4.0,0.782,31.0,5No6BqTN5CphuxDG9xAJ5U,p funk
+Set It Out,Detroit Emeralds,1977.0,4WXFDVe299Po8ih6Np54n2,0.00161,0.445,0.907,0.0,11.0,0.403,-3.894,0.0,0.0773,165.069,4.0,0.71,69.0,06bDwgCHeMAwhgI8il4Y5k,"electropowerpop,pixie,pop punk,pov: indie"
+Cell Therapy,Goodie Mob,1995.0,5wvxRlpUTSX9CE52yFZsIY,0.0965,0.849,0.476,0.0,0.0,0.105,-10.479,1.0,0.445,83.21,4.0,0.48,56.0,3F2Y683ovlWT53WKCeq0oj,"atl hip hop,conscious hip hop,dirty south rap,hardcore hip hop,old school atlanta hip hop,southern hip hop"
+Her,Michael White's Magic Music Company,1974.0,4tkmm0pdXEZvHscuHWnkqy,0.058,0.499,0.73,0.0,11.0,0.146,-6.374,1.0,0.0355,142.016,4.0,0.449,63.0,5aBxFPaaGk9204ssHUvXWN,"ccm,christian alternative rock,christian music,worship"
+You Can Fly,Sons of Champlin,1969.0,4CpLkaW3Hjr8sIKvdA5I0t,0.211,0.729,0.923,0.879,9.0,0.0585,-5.779,0.0,0.0328,141.096,4.0,0.755,53.0,1bNgeTuV3MlkAq64Ybvcq5,"new jersey indie,shimmer pop"
+Decoy,The Sandals,1966.0,771sBqIOw1SvFqCWwIGTar,0.1,0.506,0.729,0.417,9.0,0.127,-10.433,0.0,0.0291,83.342,4.0,0.872,31.0,6yaMfzgtXRzZMzaHfUtGX5,surf music
+Harlem River Drive,Yesterdays New Quintet,2002.0,5fjHbFjCGETWMbTNEYNOQs,0.0275,0.716,0.885,0.959,10.0,0.095,-13.382,0.0,0.0598,93.57,4.0,0.62,13.0,5pSUhgxq9FwDCRBDux7gS5,"alternative hip hop,wonky"
+The Look of Love,Steve Douglas,1969.0,3gTTDjDha02XJ4xuS2KF0e,0.191,0.873,0.586,0.0,7.0,0.0849,-5.184,1.0,0.241,92.907,4.0,0.533,53.0,1020a42xVklY6c56imNcaa,"alternative hip hop,detroit hip hop,hardcore hip hop,hip hop"
+Love Sounds,Intimate Strangers,1975.0,35YSCRS2BshfXYdNAQxrs8,0.439,0.52,0.516,0.000299,9.0,0.0614,-9.996,1.0,0.0259,149.959,4.0,0.657,52.0,2Uuon75BhnuuxdKLYn4wHn,"classic soul,disco,funk,motown,p funk,quiet storm,soul"
+The Sealer,Milt Jackson Sextet,1962.0,6B0aELa2yqLyeu2ULt8bEq,0.828,0.55,0.119,0.00694,1.0,0.0951,-19.372,1.0,0.0446,116.187,4.0,0.416,41.0,51gulqh1DpAHn0ZUNMRBRu,
+Can Mind,James Brown,1971.0,7GoZXhuK4GgJ4lqG6E884h,0.529,0.525,0.857,0.801,2.0,0.0641,-6.94,0.0,0.0709,103.965,4.0,0.771,9.0,7GaxyUddsPok8BuhxN6OUW,"funk,soul"
+"The Chase, Et Fin.",Walter Murphy,1978.0,2tb7K5y3mEuW9Ca9EASOTr,0.424,0.628,0.857,0.842,2.0,0.155,-7.58,0.0,0.0383,122.976,4.0,0.168,49.0,3VVLqeEqQQqTgT8YhfY9Z6,
+This Is Our Last Night Together,King Floyd,1969.0,5HNCy40Ni5BZJFw1TKzRsC,0.15,0.472,0.366,0.312,11.0,0.0837,-12.595,0.0,0.0286,127.163,4.0,0.171,75.0,0k17h0D3J5VfsdmQ1iZtE9,"album rock,art rock,classic rock,progressive rock,psychedelic rock,rock,symphonic rock"
+Atomic Dog,George Clinton,1982.0,4cgodXjv4TfrooNQxvlO4O,0.148,0.899,0.491,3.82e-06,6.0,0.411,-11.043,0.0,0.258,107.706,4.0,0.826,57.0,2GVBp7QyHckoOg7rYkLvrA,"funk,p funk,soul"
+One Beat,Carlos Bess and DJ Choco,1995.0,0YYNIGKgAk34vZkV2NySie,0.0352,0.87,0.752,1.1e-06,4.0,0.269,-6.615,1.0,0.372,145.118,4.0,0.591,53.0,28Jt29jw6Smc3ZkzALTouq,houston rap
+Some Other Time,Keno Duke,1975.0,4LgRqskD0OohOTxfZRqV8E,0.992,0.51,0.0807,0.945,0.0,0.1,-20.463,1.0,0.0641,122.25,4.0,0.0586,49.0,4gsIYNl0tbPrqyHBwvGcDe,
+Cosmic Contact,The Undisputed Truth,1976.0,5k2nW7SY0BcIGB6IkcgQUg,0.631,0.614,0.204,0.0,1.0,0.373,-16.606,1.0,0.559,116.883,4.0,0.317,6.0,2tkwWmcZOQPNbbIdknfBsw,"classic soul,motown,psychedelic soul,southern soul"
+Nile Lady,Ron Proby,1972.0,5JDcQAztvZTIkrWoZihgvC,0.785,0.447,0.393,0.0,5.0,0.28,-8.65,1.0,0.038,73.139,3.0,0.564,67.0,6CmXhyslohOFRJMtPpRm4O,"neo mellow,piano rock,viral pop"
+Emperor Kite,Jade Warrior,1976.0,0deLAZbm90b4FMELSL8Kpn,0.948,0.449,0.559,0.225,11.0,0.725,-10.828,1.0,0.0717,159.052,3.0,0.656,1.0,6EM2kLJfgXV0KGffb0hW4a,"flute rock,italian progressive rock,progressive rock"
+So Far to Go,J Dilla feat. Common and D'Angelo,2006.0,4omO3Xwm4REEK5HGT6e6yY,0.0087,0.619,0.561,6.74e-05,5.0,0.304,-5.351,0.0,0.0494,90.36,4.0,0.285,54.0,0IVcLMMbm05VIjnzPkGCyp,"alternative hip hop,detroit hip hop,hip hop,instrumental hip hop"
+Overture,Dov Seltzer,1973.0,1vY2PF4kDOaPbBssDJggqq,0.962,0.413,0.0805,0.931,4.0,0.0699,-27.027,0.0,0.0344,97.541,5.0,0.0354,35.0,14elbOcXjl043MKBKQuGPS,
+What the World Needs Now Is Love,Martin Denny,1968.0,1fjOO2k5k2vjg6TrvPJ2NS,0.814,0.445,0.407,0.0,1.0,0.0964,-9.501,1.0,0.0302,105.7,4.0,0.531,55.0,0iVed2Qu7dmL0pIYCj1Xw8,brill building pop
+Death Mix (Part 1),Afrika Bambaataa,1983.0,4FupIlegZgvXUuK79qcoKW,0.011,0.915,0.807,0.000122,6.0,0.201,-9.636,0.0,0.13,127.35,4.0,0.709,55.0,7cg61q8kK8jlFi8TKKw70p,"bronx hip hop,east coast hip hop,old school hip hop"
+Aguonele,Aidutės,1969.0,3fo43dOoOAMvzLs1mu3rRV,0.0774,0.687,0.485,0.000186,6.0,0.108,-8.652,0.0,0.0795,80.077,4.0,0.287,39.0,1n6KR5r29Zj7X33Ey1pod0,lithuanian pop
+"Zaffit Al Aroussa ""2000""","Mohamad Hijazi ""Mike""",1982.0,6rEmwa6eCK1YsuPoi00fGP,0.28,0.637,0.705,0.000234,7.0,0.184,-11.976,0.0,0.0582,103.632,4.0,0.753,5.0,6d0I86JnyyaQcAFPtTeXqt,
+Concerto in E Minor,Miroslav Vitous,1976.0,5w2uCEoO74E2cE4BwZsL9U,0.71,0.254,0.0922,0.863,2.0,0.274,-29.298,1.0,0.0356,91.541,4.0,0.204,0.0,0ztzt6g8n0NBcnwMGwMlxD,"ecm-style jazz,jazz double bass,rare groove"
+Jan,The Intruders,1974.0,10v7nPfuQaMGJQgpU21L4x,0.511,0.446,0.366,0.0,5.0,0.604,-13.454,1.0,0.0287,173.322,4.0,0.791,42.0,30q5mqJmdYPaKabPMytzvv,"classic soul,motown,philly soul,quiet storm,southern soul"
+Upon This Rock,Joe Farrell,1974.0,0CF4ofOFyu05SLw3A78sX5,0.0791,0.476,0.956,0.64,7.0,0.127,-5.527,1.0,0.149,98.034,4.0,0.699,16.0,550VNM96M8mO90texkUWDC,jazz saxophone
+Who's Lonely Now,England Dan & John Ford Coley,1978.0,5D8KMQ8VmcRMvKnYmK6jHt,0.642,0.478,0.154,0.0,2.0,0.0802,-20.562,0.0,0.0315,83.514,4.0,0.526,38.0,01W8kYNqFHyKicPfR0pLwO,"mellow gold,soft rock"
+Projects and High Rises - Music: Bee Bump,Eddie Harris,1976.0,5gDh43KZH0Cd87myK6n8V0,0.755,0.542,0.329,0.0,8.0,0.301,-22.985,0.0,0.946,167.452,4.0,0.275,1.0,0bcDOCWIbvWApEIB7l1uZ4,"instrumental soul,jazz funk,soul jazz"
+What Up,Busta Rhymes,2002.0,78x3aeTTvCzKysethzCBUo,0.37,0.885,0.839,0.0,1.0,0.323,-3.233,0.0,0.344,93.409,4.0,0.708,21.0,1YfEcTuGvBQ8xSD1f53UnK,"east coast hip hop,hardcore hip hop,hip hop,pop rap,rap"
+Rip Off,Laura Lee,1972.0,1toNKayLMeCcVlsLGXJl7n,0.000654,0.51,0.817,0.0344,9.0,0.146,-8.666,1.0,0.0373,169.481,4.0,0.547,70.0,3sklFG9fuDAq3vbIZlkNH6,"glitchcore,hyperpop,proto-hyperpop,transpop"
+Tomorrow,The Brothers Johnson,1976.0,4gc2yRwyg0JyPxx81HAPOp,0.783,0.592,0.234,0.0288,5.0,0.0972,-17.343,1.0,0.0543,80.05,4.0,0.345,42.0,6h3rSZ8VLK7a5vXjEmhfuD,"disco,funk,jazz funk,p funk,post-disco,quiet storm,soul"
+"Sarek's Son, Spock",Gene Roddenberry,1976.0,7tN9gRPc8eYR9mS5cQsV0M,0.986,0.27,0.0181,0.939,10.0,0.127,-28.839,1.0,0.0372,61.539,4.0,0.102,54.0,2ofMsV0f4ziG96f4ZKPzGr,background music
+Fakin Jax,INI feat. Pete Rock,1996.0,5wnAAO7pZwVZPRBdT1NJWb,0.035,0.675,0.71,0.00124,10.0,0.348,-7.272,0.0,0.295,87.681,4.0,0.729,46.0,3BeQqzKdlARoOd6y30kCO2,"east coast hip hop,instrumental hip hop,jazz rap"
+Busta,Jay Dee,2002.0,5osSw3tL07Tuid7AWsvYcc,0.0206,0.68,0.894,0.0,1.0,0.462,-4.86,1.0,0.255,94.089,4.0,0.803,62.0,1BH45DVSTeGBvcYXNCd67g,"east coast hip hop,hardcore hip hop"
+I'm a Woman,Shocking Blue,1969.0,4dUpahrg0TWSDQLf8YDipM,0.368,0.666,0.573,1.87e-05,2.0,0.109,-10.182,1.0,0.0292,110.162,4.0,0.574,22.0,5WimOFbBnCU5wI6t5PPpEk,nederpop
+DWYCK,Gang Starr feat. Nice & Smooth,1992.0,7vcepKD1pjulQvPOkiQmUe,0.00432,0.911,0.614,8.75e-06,7.0,0.0985,-11.176,1.0,0.338,99.025,4.0,0.601,53.0,5cMgGlA1xGyeAB2ctYlRdZ,"alternative hip hop,conscious hip hop,east coast hip hop,hardcore hip hop,hip hop"
+Lifetime,Break Point,1981.0,1thBXPSkonDRAarfEWaiWU,0.00621,0.481,0.773,0.0716,2.0,0.232,-10.844,1.0,0.0618,153.862,4.0,0.787,0.0,38gBRFdDzwQ7JNlLQ2QHtf,
+P.S.K. - What Does It Mean?,Schoolly D,1985.0,3StKzbpR9dRZB8epDx4KDW,0.224,0.606,0.868,0.00103,7.0,0.692,-13.493,1.0,0.177,98.832,4.0,0.28,37.0,63NXL9k1RkJYcQ5MkUETLL,"east coast hip hop,gangster rap,golden age hip hop,old school hip hop,philly rap"
+Rachmaninoff's Prelude,Michael Quatro,1972.0,3rd1Chqzxr95fcyBaJl0JZ,0.992,0.519,0.0656,0.893,6.0,0.0995,-19.002,0.0,0.0464,115.447,3.0,0.0487,46.0,0Kekt6CKSo0m5mivKcoH51,"classical,post-romantic era,russian romanticism,ukrainian classical"
+Make Your Move,The Electric Flag,1974.0,472PBZo444WeIXgeOEmYO7,0.421,0.574,0.811,4e-06,7.0,0.0765,-4.148,1.0,0.0478,130.015,4.0,0.502,51.0,31Bh5G3Q9JzwqPpHDLIQtW,christian pop
+Wee Willie Sweetwine,Formula IV,1974.0,0iWzbHeplKV9b1HbEWkVZu,0.146,0.714,0.615,0.0151,2.0,0.082,-11.674,1.0,0.0658,88.282,4.0,0.8,0.0,0kSjA9YX46aSfpBmL2ZfVM,
+Lucy's Arrival,Franz Waxman,1962.0,7zoaxmDEONxkI2lMOhxJYN,0.346,0.367,0.671,0.954,7.0,0.496,-10.24,1.0,0.0506,159.278,3.0,0.703,49.0,3DwcX6M6GF3KGWbVmfNp8G,jazz funk
+Close Encounters of the 3rd Grade,Robert W. Schachner,1982.0,1WPszJN4Em99es2kpiaUxt,0.292,0.803,0.517,0.0,6.0,0.115,-8.756,0.0,0.124,78.025,4.0,0.19,66.0,45TgXXqMDdF8BkjA83OM7z,florida rap
+It's Getting Harder,Ten Years After,1974.0,7n3WO6ESKS1uCI9fgkGs66,0.202,0.383,0.516,0.193,9.0,0.114,-12.032,0.0,0.0344,118.144,4.0,0.371,67.0,7nkLRaWHImCvWGHdNGnhVE,"blues rock,british blues,classic rock,country rock,electric blues,folk rock,hard rock,progressive rock,psychedelic rock"
+Ya Aziza,"Mohamad Hijazi ""Mike""",1982.0,4s5kD9Pdiy8iVmJ7TKRRy2,0.447,0.735,0.334,1.37e-06,5.0,0.0956,-11.59,0.0,0.191,148.09,4.0,0.594,56.0,5G9kmDLg3OeUyj8KVBLzbu,"indie pop rap,rhode island rap"
+Cast Your Spell Uranus,Argent,1970.0,0RymunZwSt0gQkZ7LNnXrx,0.873,0.107,0.218,0.927,10.0,0.0603,-18.291,1.0,0.0413,77.009,3.0,0.0386,43.0,0MeLMJJcouYXCymQSHPn8g,"ambient worship,chamber pop"
+Montezuma's Revenge,Rick Wakeman,1976.0,3VOhXaou5TAnOIqb80kVlm,0.0372,0.251,0.761,0.126,9.0,0.418,-5.58,0.0,0.0528,88.165,4.0,0.237,5.0,0mkcYaXUbJUs5mJointuzB,"art rock,progressive rock,rock keyboard,symphonic rock"
+Convincing People,Throbbing Gristle,1979.0,51LRNy0xjmqCOsHgCCE64r,0.0327,0.628,0.265,0.792,8.0,0.108,-20.528,1.0,0.0363,138.904,1.0,0.589,19.0,1UYhxPY1oqFUg1HfF8nV3k,"british experimental,british industrial,experimental,experimental rock,industrial,industrial rock,laboratorio,post-punk,uk post-punk"
+You Can Have Watergate Just Gimme Some Bucks and I'll Be Straight,Fred Wesley and The J.B.'s,1973.0,6iGnJWLxo8LA9OoexX6Qqe,0.388,0.887,0.569,0.0761,10.0,0.0605,-8.426,0.0,0.148,98.287,4.0,0.785,15.0,5No6BqTN5CphuxDG9xAJ5U,p funk
+You Are the Sunshine of My Life,"Grover Washington, Jr.",1973.0,0n2pjCIMKwHSXoYfEbYMfX,0.823,0.519,0.46,5.97e-05,11.0,0.243,-14.53,1.0,0.0688,132.082,4.0,0.675,71.0,7guDJrEfX3qb6FEbdPA5qi,"motown,soul"
+Rocket in the Pocket (Live),Cerrone,1978.0,4UZiFtdujW9zukujUQQx7L,0.0831,0.509,0.864,0.643,7.0,0.939,-7.669,1.0,0.132,131.492,4.0,0.597,6.0,5SE2sfwTpxL2vXRdG6H5PM,"hi-nrg,vintage french electronic"
+Pause,Jay Dee feat. Frank-N-Dank,2001.0,3H4tlAFJRYmUb74SUu0y45,0.0158,0.866,0.734,0.0,10.0,0.0955,-7.444,0.0,0.28,94.629,4.0,0.483,26.0,16L1SS4OancaZUTu3qWqHb,alternative hip hop
+Earl,Jay Dee,2003.0,2LbL1HaoZrXrCR538uxUjl,0.446,0.478,0.801,6.18e-05,11.0,0.362,-8.344,0.0,0.456,84.679,4.0,0.551,50.0,3A5tHz1SfngyOZM2gItYKu,"drumless hip hop,experimental hip hop,hip hop,rap,underground hip hop"
+Rocket's Cat,Alex Cima,1979.0,6Q7POvDeFGVFDYPmz7huYP,1.57e-06,0.129,0.951,0.88,4.0,0.0854,-4.922,1.0,0.117,76.343,4.0,0.203,54.0,6Ghvu1VvMGScGpOUJBAHNH,"alternative metal,nu metal,rap metal,rock,sacramento indie"
+Midnight by the Sea,Brad Love,1983.0,5GcVCrs6l8p8vWhMsUSnm0,0.768,0.59,0.416,0.0226,8.0,0.266,-10.538,1.0,0.0264,102.399,4.0,0.482,0.0,0gLFkebzmFF3OpKyQoKWQT,
+Let's Get Dirty (I Can't Get in Da Club),Redman feat. DJ Kool,2001.0,5BlLqiaTwttKiqzLhBrN1v,0.0542,0.539,0.966,0.0,1.0,0.466,-5.02,1.0,0.433,99.142,4.0,0.432,41.0,7xTKLpo7UCzXSnlH7fOIoM,"east coast hip hop,hardcore hip hop,new jersey rap,wu fam"
+Circus,Jay Dee,2003.0,0xsoZbJDbfhWct56LdnZat,0.214,0.87,0.396,0.0,7.0,0.3,-10.9,1.0,0.149,92.877,4.0,0.728,45.0,16L1SS4OancaZUTu3qWqHb,alternative hip hop
+Crooklyn,The Crooklyn Dodgers,1994.0,3RxF3Mz5wprRMopI8fp9uF,0.0234,0.842,0.478,1.91e-05,2.0,0.892,-9.742,1.0,0.221,95.457,4.0,0.595,46.0,4FjR5GmNXYr2RKHVOXTP7e,
+La Di Da Di,Doug E. Fresh and Slick Rick,1985.0,0WYu233HGAjMAu9UK5iHtS,0.688,0.649,0.967,0.0,6.0,0.986,-6.995,0.0,0.45,89.453,4.0,0.586,39.0,1W9qOBYRTfP7HcizWN43G1,"bronx hip hop,east coast hip hop,golden age hip hop,old school hip hop"
+Ego Trippin' (Part Two),De La Soul,1993.0,2avmI53DtuX5r32jnx3rxt,0.123,0.749,0.582,1.39e-06,10.0,0.046,-8.033,0.0,0.314,97.453,4.0,0.68,46.0,1Z8ODXyhEBi3WynYw0Rya6,"east coast hip hop,golden age hip hop,hip hop,jazz rap"
+Climax (Girl Shit),Slum Village,2000.0,0ql1SFxq7xKtXCPU0huup3,0.371,0.822,0.526,1.49e-06,8.0,0.254,-5.346,0.0,0.229,95.671,4.0,0.763,46.0,1020a42xVklY6c56imNcaa,"alternative hip hop,detroit hip hop,hardcore hip hop,hip hop"
+Get Down,J Dilla,2003.0,1btqbebzIS2IK0QkRUpShJ,0.073,0.776,0.944,0.0,8.0,0.0866,-4.854,0.0,0.0404,113.012,4.0,0.757,45.0,5rSXSAkZ67PYJSvpUpkOr7,"boy band,dance pop,pop"
+Ante Up (Robbing-Hoodz Theory),M.O.P.,2000.0,4o15bze7Jnq9T50wewdz8A,0.00325,0.653,0.862,0.0,1.0,0.841,-5.548,1.0,0.117,94.149,4.0,0.881,45.0,1BH45DVSTeGBvcYXNCd67g,"east coast hip hop,hardcore hip hop"
+Starry Eyed,Mandrill,1982.0,5HBWCKsCLz1RQDnSN3OYky,0.349,0.549,0.0172,6.29e-05,7.0,0.119,-31.58,1.0,0.038,116.384,4.0,0.323,60.0,0ynzbXwyCzxicMKHBoOkSH,
+Love It,Bilal,2000.0,6LF3U5YK1Zgdr6ajQrfW1h,0.0311,0.647,0.844,0.0,6.0,0.312,-5.562,1.0,0.0545,91.983,4.0,0.671,27.0,4jCbgl5Dmt3uOh8WRQfpPs,neo soul
+Let's Ride,Q-Tip,1999.0,4UZlEcQmkAeh4mYokk8TNs,0.148,0.775,0.795,0.00119,5.0,0.0411,-4.171,1.0,0.206,95.212,4.0,0.796,55.0,3ZotbHeyVQKxQCPDJuQ4SU,"east coast hip hop,queens hip hop"
+The Jungle Pioneer (Viola Violar),The Manhattan Transfer,1987.0,4sKKhjWkyhQLevaTmnzmqR,0.557,0.662,0.541,1.19e-06,3.0,0.127,-13.498,0.0,0.0544,136.38,4.0,0.6,14.0,2dogRElUKV20C2khRHqjRc,"a cappella,vocal jazz"
+Down to the Moon,Andreas Vollenweider,1986.0,6dsBkD1XP9EswRcUN0pOqN,0.31,0.349,0.364,0.784,5.0,0.584,-11.731,0.0,0.0354,76.544,3.0,0.133,46.0,7MynOMOTsGz8NFcPUImWAp,"harp,new age"
+Theme From Jack Johnson,Miles Davis,1975.0,2aMcMyK2SQKyftU2ATfHLw,0.0548,0.444,0.257,0.104,1.0,0.117,-20.651,0.0,0.0367,103.102,4.0,0.169,14.0,0kbYTNQb4Pb1rPbbaF0pT4,"cool jazz,hard bop,jazz,jazz fusion,jazz trumpet,soul,vocal jazz"
+People You Can't Trust,Atomic Rooster,1972.0,63mdJr3NMY3wReOkNE6c6W,0.0881,0.695,0.62,5.43e-05,8.0,0.111,-8.082,0.0,0.0521,150.032,4.0,0.62,80.0,0C8ZW7ezQVs4URX5aX7Kqx,"pop,post-teen pop"
+Baroque-a-Nova,Mason Williams,1968.0,2ff6ILugtshFUiWIVu83B9,0.583,0.442,0.546,0.873,9.0,0.111,-11.752,0.0,0.0293,79.709,4.0,0.714,21.0,1XgVoPT2Va5L64LFzskVBW,
+Friendly Street,UPP,1975.0,3alOuerCJRcVLCOX7PMq4c,0.143,0.831,0.638,0.706,2.0,0.0743,-11.523,1.0,0.218,93.602,4.0,0.763,5.0,4XP7HSaD4F46IwFbj1FfWN,
+Sweet Ophelia,Larry Weiss,1974.0,0OFuGDlPTUSfjbWGw2GLMi,0.582,0.357,0.37,0.0,0.0,0.154,-7.448,0.0,0.0318,126.358,4.0,0.235,1.0,3F1K7HEN17beHEBfHmbg2I,
+Soil Festivities (Movement 1),Vangelis,1984.0,2Kt7NJxYjDJqlIKReTah23,0.816,0.507,0.195,0.582,9.0,0.163,-20.616,1.0,0.0312,106.473,4.0,0.0652,24.0,4P70aqttdpJ9vuYFDmf7f6,"cyberpunk,synthesizer"
+Gypsy,Emmett Chapman,1985.0,7lgfvPv7GWJBV4J3CxGZyD,0.751,0.454,0.144,0.0,6.0,0.116,-20.909,0.0,0.0948,110.714,1.0,0.354,33.0,40pTT6YuuFhVUmNRBgYKjb,
+"Stop, Look, Listen",New Birth,1973.0,0oo36oKreIZOwYaOlj7KgB,0.681,0.57,0.278,0.00749,0.0,0.145,-12.519,0.0,0.0353,134.859,4.0,0.524,16.0,34Bm9d5DAJjSnaI02BCjdA,"classic soul,disco,funk,motown,p funk,post-disco,quiet storm,soul,southern soul"
+Agua De Beber,Astrud Gilberto,1965.0,3QKJELWORZZ7rUZDWeMWSA,0.439,0.653,0.319,0.0,4.0,0.0906,-17.813,0.0,0.0364,147.858,4.0,0.845,65.0,5rX2c1zow6hCph8PnnU3kF,"bossa nova,brazilian jazz,lounge,samba-jazz,vocal jazz"
+I Got the,Labi Siffre,1975.0,20VuO95A8RxUPlShnfYArW,0.11,0.476,0.604,4.15e-05,0.0,0.134,-10.85,0.0,0.117,87.304,4.0,0.583,57.0,5CzlICF8GCY0pRC82MKrhX,classic uk pop
+All Day Saturday,John Murtaugh,1970.0,78JmElAFmrPNhLjovDR9Jm,0.262,0.551,0.86,4.57e-06,7.0,0.0558,-7.839,1.0,0.0796,136.921,4.0,0.723,69.0,1SQRv42e4PjEYfPhS0Tk9E,"album rock,art rock,british invasion,classic rock,folk rock,glam rock,protopunk,psychedelic rock,rock,singer-songwriter"
+,Stevens & Grdnic,1979.0,5sIzIEUwbg5IIqCh0dO3Y4,0.0111,0.666,0.602,0.0,1.0,0.393,-6.484,1.0,0.0318,140.124,4.0,0.138,45.0,2ojqsY1ycYzZOpLDBBwHPU,rage rap
+There Are No Words,Runt,1970.0,1m8UOoV8cZPnvV3AK2m7mI,0.3,0.525,0.464,0.000789,7.0,0.0915,-7.186,1.0,0.0268,127.328,4.0,0.355,63.0,0ZUdYzRCIrxbsd80MmGMqo,
+In Time,Sly & The Family Stone,1973.0,21SHzZ1qsXzJ5Socuuyo8w,0.26,0.852,0.536,0.0413,10.0,0.139,-12.557,0.0,0.124,95.791,4.0,0.897,43.0,5m8H6zSadhu1j9Yi04VLqD,"classic soul,funk,funk rock,p funk,psychedelic soul,soul,southern soul"
+She's Always in My Hair,Prince and The Revolution,1985.0,3C5H2ZeTRNYwRsEMlr0gMg,0.0903,0.73,0.777,0.000587,9.0,0.0469,-10.157,0.0,0.0426,92.308,4.0,0.801,38.0,5a2EaR3hamoenG9rDuVn8j,"funk,funk rock,minneapolis sound,rock,synth funk"
+A Pale Smile,Eberhard Weber,1979.0,0AY78O264w7QphaWefvnQj,0.994,0.176,0.0164,0.874,4.0,0.0803,-29.006,0.0,0.0431,76.811,4.0,0.0338,9.0,2BPSfZHtSYon5DKvp95xXT,"ecm-style jazz,german jazz,jazz double bass,norwegian jazz"
+Promise of a Fisherman,Sérgio Mendes & Brasil '77,1972.0,05YDkLO5qTrJM3C8zow6Ua,0.0659,0.697,0.263,0.391,2.0,0.065,-14.213,1.0,0.108,97.715,4.0,0.714,14.0,6hCsqVHnBo1BVQWuIjRMkL,
+Make the Move,Various Artists,1980.0,6pUUtKVRmODliJWTyY2pet,2.49e-05,0.249,0.951,0.0134,9.0,0.0892,-4.062,0.0,0.211,143.018,3.0,0.117,62.0,0FZcPgWI3BsFQl4rOAGSHT,"australian metalcore,blackened deathcore,brutal deathcore,deathcore,melodic deathcore,melodic metalcore,metalcore,symphonic deathcore"
+That's Why I Came To California,Leon Ware,1982.0,6jZXAOHmvseRsqxYCbexTJ,0.189,0.694,0.783,0.0,1.0,0.111,-10.188,1.0,0.111,106.69,4.0,0.741,44.0,3DwcX6M6GF3KGWbVmfNp8G,jazz funk
+Send One Your Love,Stevie Wonder,1979.0,2eF8pWbiivYsYRpbntYsnc,0.0534,0.675,0.597,0.0,5.0,0.0986,-11.329,1.0,0.0337,108.875,4.0,0.828,78.0,7guDJrEfX3qb6FEbdPA5qi,"motown,soul"
+Doctor Love,First Choice,1977.0,7xD7MvjAdZkx1YICschIuI,0.663,0.544,0.884,7.26e-06,8.0,0.381,-8.166,1.0,0.144,127.215,4.0,0.467,54.0,07XSN3sPlIlB2L2XNcTwJw,"glam rock,hard rock,rock"
+Steppin' Out,Joe Jackson,1982.0,2KY0QUeRY3IPuJI1gyU9BJ,0.0439,0.579,0.223,0.00232,11.0,0.0613,-20.208,1.0,0.0364,159.696,4.0,0.532,56.0,6KOqPxwfNAmZPkiCnDE9yT,"mellow gold,new romantic,new wave,new wave pop,permanent wave,power pop,singer-songwriter,sophisti-pop"
+In the Distance,George Duke,1979.0,1bBbMtI0cWyjHnMN88s1oP,0.00787,0.163,0.325,0.123,2.0,0.133,-12.368,0.0,0.0375,92.263,4.0,0.18,7.0,3EB0uKE2lGw6BB1UFJrONl,"jazz funk,jazz fusion,jazz piano,smooth jazz"
 "I've Never Seen Love Like This
-Can't Find The Time To Tell You",Orpheus,1968.0,7KwJrAQMoJyUEBes3evMLv
-Mujer Mia,Joe Bataan,1973.0,6uiqzXiQCvAvoeDcjbRbRC
-Some Other Time,Keno Duke,1975.0,4LgRqskD0OohOTxfZRqV8E
-Eyes of the Heart Pt 2,Keith Jarrett,1979.0,06MTRqGawdtB8zgr6Hvvvd
-Montezuma's Revenge,Rick Wakeman,1977.0,3VOhXaou5TAnOIqb80kVlm
-I'm Your Pal,The Gary Burton Quartet,1967.0,7FDhbzHunmwye3bx0VHDY5
-The Poke,Brand X,1978.0,2pax9dTIxrcfLSWFD8YAGU
-Radio,Gary Burton & Chick Corea,1979.0,6linlPbVWEecMEMfNcul1e
-Snow Creatures,Quincy Jones,1972.0,5p3cA4ahRVzaehcp84hsiF
-Dancing in the Dark,Dorothy Ashby With Frank Wess,1958.0,2KtGiBi5CrX2ERPD2PAS34
-Like a Lover,Sérgio Mendes & Brasil '66,1968.0,5LstxrqYsHKpiFe3Y8sUEo
+Can't Find The Time To Tell You",Orpheus,1968.0,4sOZBAzInhcwqnocdVmA7W,0.567,0.603,0.506,0.0,9.0,0.306,-9.209,1.0,0.0341,127.646,4.0,0.84,11.0,4bR4jAqu6RkhruxWQ6q9EK,bosstown sound
+Eyes of the Heart Pt 2,Keith Jarrett,1979.0,06MTRqGawdtB8zgr6Hvvvd,0.914,0.335,0.256,0.413,7.0,0.69,-15.149,0.0,0.0349,84.982,4.0,0.0726,8.0,0F3Aew9DSd6fb6192K1K0Y,"bebop,contemporary jazz,contemporary post-bop,ecm-style jazz,jazz,jazz fusion,jazz piano"
+I'm Your Pal,The Gary Burton Quartet,1967.0,7FDhbzHunmwye3bx0VHDY5,0.984,0.287,0.0719,0.913,0.0,0.0891,-21.391,1.0,0.0394,65.597,4.0,0.0697,29.0,4iovNkf44dsELmo3E7XSKX,"bebop,contemporary post-bop,ecm-style jazz,jazz,jazz fusion,jazz vibraphone"
+The Poke,Brand X,1978.0,2pax9dTIxrcfLSWFD8YAGU,0.194,0.484,0.67,0.66,4.0,0.124,-13.058,1.0,0.0363,139.878,4.0,0.596,16.0,4DngluvBNHm2Q0rLW1yEqy,"british jazz,instrumental rock,jazz fusion,jazz rock,progressive rock,symphonic rock"
+Radio,Gary Burton & Chick Corea,1979.0,6linlPbVWEecMEMfNcul1e,0.952,0.456,0.205,0.889,11.0,0.101,-19.74,0.0,0.0452,111.5,4.0,0.31,44.0,4iovNkf44dsELmo3E7XSKX,"bebop,contemporary post-bop,ecm-style jazz,jazz,jazz fusion,jazz vibraphone"
+Snow Creatures,Quincy Jones,1972.0,5p3cA4ahRVzaehcp84hsiF,0.504,0.467,0.522,0.034,4.0,0.0744,-10.436,1.0,0.102,161.354,4.0,0.179,12.0,3rxIQc9kWT6Ueg4BhnOwRK,soul jazz
+Dancing in the Dark,Dorothy Ashby With Frank Wess,1958.0,2KtGiBi5CrX2ERPD2PAS34,0.0031,0.657,0.871,0.0,7.0,0.102,-4.614,1.0,0.0675,114.974,4.0,0.532,76.0,3BEV5FcxOtkQJ7lLRKMh3V,"contemporary country,modern country pop"
+Like a Lover,Sérgio Mendes & Brasil '66,1968.0,5LstxrqYsHKpiFe3Y8sUEo,0.698,0.49,0.267,1.31e-05,4.0,0.0811,-15.494,0.0,0.0372,124.187,4.0,0.557,37.0,6hCsqVHnBo1BVQWuIjRMkL,
 "Boa Palavra
-Ponteio",Sérgio Mendes,1968.0,6YTBfxkdGce9pLEy9jG9Jo
-"Never Had a Dream
-Pain",Ohio Players,1972.0,3l07bnCelhP04T2TfcXcwd
-"Funky Worm
-Pride and Vanity",Ohio Players,1973.0,4UDgg6XL6hRkR7naHh6kze
-Pack It Up,Ohio Players,1974.0,1hRDHWWealh2Pk3fnpIe75
-Can't You See It's Me,Diana Ross & The Supremes,1969.0,4yChgYDVcQrAgIEIErW27b
-All the Befores,Diana Ross,1971.0,3SnGymj6ijE2iuUfWxLo1q
-Is This What Feeling Gets? (Dorothy's Theme),Various Artists,1978.0,2PWTZV5znjLtZC5T1EVJvL
-Trans-Europe Express,Kraftwerk,1977.0,4aJulXrGlrQFi2cHLc6kSd
-Are You All the Things,Bill Evans,1975.0,58yFroDNbzHpYzvicaC0de
-Jam on It,Newcleus,1984.0,1lB2kyB5h9ceZ388GBfC9L
-Gotta Have You,The Fatback Band,1973.0,1liJzPedFFxvszqG4UCl7G
-King Tim III,The Fatback Band,1979.0,6nYsrPdgNbJIPzQLkasfm5
-Jungle Boogie,Kool & The Gang,1973.0,3K0SJUQNbOkUprTFcwwAKN
-Get Down on It,Kool & The Gang,1981.0,2je56j0xuoTi1gYkLLMlJU
-Love from the Sun,Roy Ayers Ubiquity,1973.0,2kLAhyeljxwmzqDMrFpuZ0
-Sweet Georgia Brown,The Singers Unlimited,1977.0,1ZbbcE2AUuwjYxxh28emcQ
-Left & Right,D'Angelo,2000.0,4EQ0dK6Sg7v685NGrQvuki
-Soldier in Our Town,Iron Butterfly,1970.0,4kfWmoE8knJtKYR3O9nI9J
-Leo: Rosebud,Cannonball Adderley,1974.0,0X5DcGkbxCXSadgj01ZXd7
-Experience in E,The Cannonball Adderley Quintet & Orchestra,1970.0,6NF8MZ2trxckVBr82pyyPt
-Soul Virgo,Cannonball Adderley Quintet,1971.0,5CwvJwl2OJ1EKakiEV4u3e
-Bumpin' Bus Stop,Thunder & Lightning,1975.0,1lkHaXezlWJshqGMM4guvZ
+Ponteio",Sérgio Mendes,1968.0,6YTBfxkdGce9pLEy9jG9Jo,0.524,0.637,0.493,1.52e-05,0.0,0.136,-13.094,0.0,0.0482,88.796,4.0,0.932,64.0,6hCsqVHnBo1BVQWuIjRMkL,
+Pack It Up,Ohio Players,1974.0,5ECyA2jgrUAHApl8nsHrjn,0.38,0.492,0.455,1.37e-05,0.0,0.12,-10.165,1.0,0.1,91.633,4.0,0.316,41.0,6m30rs1IQqnWqV5nKMpU7U,"classic soul,disco,funk,p funk,quiet storm,soul"
+All the Befores,Diana Ross,1971.0,3SnGymj6ijE2iuUfWxLo1q,0.185,0.72,0.828,0.429,5.0,0.0839,-9.211,1.0,0.0462,110.071,4.0,0.768,73.0,3MdG05syQeRYPPcClLaUGl,"adult standards,disco,motown,quiet storm,soft rock,soul"
+Is This What Feeling Gets? (Dorothy's Theme),Various Artists,1978.0,2PWTZV5znjLtZC5T1EVJvL,0.617,0.422,0.44,0.0,11.0,0.0837,-5.53,1.0,0.0544,128.934,5.0,0.332,81.0,164Uj4eKjl6zTBKfJLFKKK,"modern indie pop,pov: indie"
+Trans-Europe Express,Kraftwerk,1977.0,4aJulXrGlrQFi2cHLc6kSd,0.928,0.551,0.297,0.85,2.0,0.118,-15.397,1.0,0.039,111.852,4.0,0.641,29.0,0dmPX6ovclgOy8WWJaFEUU,"art rock,dusseldorf electronic,early synthpop,electro,new wave,proto-techno,synthpop"
+Inside My Love,Various Artists,1997.0,1HdNTlZrGTlgxDn31GB6Sv,0.519,0.527,0.279,0.0211,10.0,0.116,-12.679,0.0,0.0297,90.728,4.0,0.256,53.0,2i1IdHG5w0wiSmJGoqAGlj,"classic soul,disco,funk,motown,quiet storm,soul"
+Are You All the Things,Bill Evans,1975.0,58yFroDNbzHpYzvicaC0de,0.987,0.464,0.0266,0.879,0.0,0.0836,-20.338,1.0,0.0532,132.972,3.0,0.0659,54.0,4jXfFzeP66Zy67HM2mvIIF,"bebop,contemporary post-bop,cool jazz,jazz,jazz piano,vocal jazz"
+Gotta Have You,The Fatback Band,1973.0,1liJzPedFFxvszqG4UCl7G,0.0706,0.58,0.851,0.678,0.0,0.363,-9.85,1.0,0.194,190.077,4.0,0.863,43.0,6PWU6JQvvYv5sz5FOODHg6,"classic soul,disco,funk,harlem hip hop,jazz funk,p funk,post-disco"
+King Tim III,The Fatback Band,1979.0,6nYsrPdgNbJIPzQLkasfm5,0.00735,0.735,0.905,8.58e-05,0.0,0.134,-7.784,1.0,0.0608,119.349,4.0,0.841,22.0,6PWU6JQvvYv5sz5FOODHg6,"classic soul,disco,funk,harlem hip hop,jazz funk,p funk,post-disco"
+Jungle Boogie,Kool & The Gang,1973.0,3K0SJUQNbOkUprTFcwwAKN,0.115,0.808,0.85,0.000109,5.0,0.316,-8.772,1.0,0.0868,106.855,4.0,0.717,64.0,3VNITwohbvU5Wuy5PC6dsI,"disco,funk,motown,soul"
+Love from the Sun,Roy Ayers Ubiquity,1973.0,2kLAhyeljxwmzqDMrFpuZ0,0.625,0.57,0.491,0.00618,6.0,0.153,-13.679,0.0,0.0455,134.317,4.0,0.592,18.0,3WbeZvDk1COiO2dEokZqn7,"funk,jazz funk"
+Sweet Georgia Brown,The Singers Unlimited,1977.0,1ZbbcE2AUuwjYxxh28emcQ,0.77,0.638,0.51,0.000242,7.0,0.365,-9.196,1.0,0.209,116.142,4.0,0.683,2.0,3RsROIs1zuuC3lwIdhJ0if,"a cappella,vocal harmony group"
+Left & Right,D'Angelo,2000.0,4EQ0dK6Sg7v685NGrQvuki,0.219,0.842,0.404,0.0,1.0,0.369,-9.504,1.0,0.628,91.963,4.0,0.826,46.0,336vr2M3Va0FjyvB55lJEd,"indie soul,neo soul,soul"
+Soldier in Our Town,Iron Butterfly,1970.0,4kfWmoE8knJtKYR3O9nI9J,0.228,0.639,0.266,0.000126,11.0,0.0502,-14.658,0.0,0.0315,135.817,4.0,0.531,26.0,3cdvlbCYf4WoBdy89RWkNS,"acid rock,album rock,blues rock,british blues,classic rock,country rock,folk rock,hard rock,progressive rock,proto-metal,psychedelic rock,symphonic rock"
+Leo: Rosebud,Cannonball Adderley,1974.0,0X5DcGkbxCXSadgj01ZXd7,0.768,0.535,0.258,8.95e-05,7.0,0.115,-9.499,0.0,0.033,110.953,4.0,0.281,56.0,5v74mT11KGJqadf9sLw4dA,"bebop,cool jazz,hard bop,jazz,jazz blues"
+Soul Virgo,Cannonball Adderley Quintet,1971.0,5CwvJwl2OJ1EKakiEV4u3e,0.668,0.448,0.561,0.0,1.0,0.972,-16.669,1.0,0.211,106.367,4.0,0.746,4.0,2o346NHhUAlVxl5uXBVxK7,"bebop,hard bop,jazz,jazz saxophone"
+Bumpin' Bus Stop,Thunder & Lightning,1975.0,5DAAO80AmEUV3Yl7v9FiN5,0.00333,0.608,0.874,0.0,5.0,0.106,-5.644,0.0,0.0421,94.947,4.0,0.446,46.0,3jsyANBBy6gOZUSQhiGclx,comic
 "Basketball Throwdown
 Stoop Rap
-Fantastic Freaks at the Dixie",Various Artists,1983.0,0TYq1cxJXPGGjO0bYHDH2L
+Fantastic Freaks at the Dixie",Various Artists,1983.0,2OtEqpDAHDZ6bHVjXoiL86,0.881,0.72,0.274,0.0,6.0,0.11,-12.543,0.0,0.294,94.056,4.0,0.845,57.0,6EPlBSH2RSiettczlz7ihV,"brooklyn drill,nyc rap"
 "Space Intro
-Fly Like an Eagle",Steve Miller Band,1976.0,3kLFfUPLDYOQxQLuy8acxo
-Refractions in the Plastic Pulse,Stereolab,1997.0,6SaQj5bicILLF3c430kF4m
-A Night on Bare Mountain,Tomita,1976.0,01rntacu6clKb9acYmmaWp
-Aranjuez Adagio,Tomita,1978.0,0k6P9cdEA9K3k0ASde2Kof
-Pumpin' It Up (Remix),George Clinton & P-Funk All-Stars,1983.0,3oyc1mIdCBGaU55wX7otqM
-Flight of the Looking Glass,Synergy,1981.0,0gW6KLC4W6vChWUHucb69N
-Upon This Rock,Joe Farrell,1974.0,0CF4ofOFyu05SLw3A78sX5
-Naima,Pucho and His Latin Soul Brothers,1971.0,6hz2t2U98d8wbUj8ILrIKn
-Halicte Gun Batisi,Moğollar,1973.0,34O420JpYalFVVbjSwEFTn
-Nothing Will Ever Take Your Place,Boz Scaggs,1971.0,0nlZjTPzW6S9JIESuGfImT
+Fly Like an Eagle",Steve Miller Band,1976.0,3kLFfUPLDYOQxQLuy8acxo,0.946,0.184,0.112,0.908,0.0,0.666,-25.658,1.0,0.0446,71.696,4.0,0.0523,36.0,6QtGlUje9TIkLrgPZrESuk,"album rock,classic rock,hard rock,heartland rock,mellow gold,rock,singer-songwriter,soft rock"
+Refractions in the Plastic Pulse,Stereolab,1997.0,6SaQj5bicILLF3c430kF4m,0.0757,0.51,0.343,0.468,7.0,0.278,-12.304,0.0,0.0796,141.89,4.0,0.381,36.0,3Rj0tDHoX7C5NFq5DKIpHt,"alternative rock,art pop,experimental,experimental pop,experimental rock,indietronica,noise pop"
+A Night on Bare Mountain,Tomita,1976.0,01rntacu6clKb9acYmmaWp,0.867,0.251,0.258,0.723,5.0,0.361,-19.02,1.0,0.0497,76.252,4.0,0.0999,42.0,284mnx33IWcymQEpMxyfHl,"classical,early modern classical,late romantic era,russian romanticism"
+Aranjuez Adagio,Tomita,1978.0,0k6P9cdEA9K3k0ASde2Kof,0.93,0.253,0.098,0.862,11.0,0.122,-19.878,0.0,0.0437,84.865,4.0,0.062,58.0,3eqv9LW7ZXlYWXVFjHS4Mr,"classical,classical guitar"
+"Daphnis Et Chloé
+The Fairy Garden",Tomita,1980.0,1yvqnZc7RjuPyvvfblg9sv,0.975,0.563,0.403,0.9,5.0,0.0886,-15.298,1.0,0.0584,79.961,4.0,0.926,54.0,69EWJ8UVSlytt27VsEsQAw,weirdcore
+Pumpin' It Up (Remix),George Clinton & P-Funk All-Stars,1983.0,4tcPIwy0UvLYjhXLrMyx89,0.207,0.898,0.893,9.33e-05,1.0,0.061,-7.255,1.0,0.225,129.047,4.0,0.653,62.0,6F3vLfyutkUhpM50G84eMt,"deep groove house,house,scottish rock"
+Magician Moth,Roger Glover and Guests,1974.0,5rz91zpc7GiYC7fFQktj5v,0.925,0.309,0.0365,0.751,5.0,0.0888,-21.172,0.0,0.0398,132.689,4.0,0.131,6.0,5NuneeBDaWZspG13LcsYuV,
+Naima,Pucho and His Latin Soul Brothers,1971.0,6hz2t2U98d8wbUj8ILrIKn,0.82,0.6,0.204,0.932,3.0,0.0972,-18.142,0.0,0.061,82.75,4.0,0.105,11.0,3ucBd7Kf0Ow0luiEHZDAPd,boogaloo
+Halicte Gun Batisi,Moğollar,1973.0,34O420JpYalFVVbjSwEFTn,0.732,0.521,0.385,0.902,3.0,0.207,-14.042,1.0,0.064,101.579,4.0,0.3,30.0,5dMPhj9s9v91MpdGNpInLy,"anadolu rock,turkish rock"
+Nothing Will Ever Take Your Place,Boz Scaggs,1971.0,0nlZjTPzW6S9JIESuGfImT,0.0812,0.662,0.788,0.141,11.0,0.0351,-5.544,0.0,0.0635,116.499,4.0,0.929,65.0,46njgd2Rq9tZc4ZjeQMgbh,"classic rock,mellow gold,singer-songwriter,soft rock,yacht rock"
 "Love at Last
-Audio Bongo",Monty Norman,1963.0,6MiBxeDrfBVisDUsCYJJR4
-La Rotta,John Renbourn,1971.0,2a5Rgz0tcXZU5uH2xmWzBg
-In the Lap of the Gods,Queen,1974.0,7ckS5mJaO4NHwF17MfyVA0
-The Ring,Queen,1980.0,4ji2Gui5qCPakvQLMH3e1P
+Audio Bongo",Monty Norman,1963.0,4Hhv2vrOTy89HFRcjU3QOx,0.547,0.274,0.348,0.0133,5.0,0.334,-8.631,1.0,0.0293,87.43,3.0,0.328,77.0,0iOVhN3tnSvgDbcg25JoJb,"jazz blues,soul,soul blues,torch song,vocal jazz"
+La Rotta,John Renbourn,1971.0,2wTJZjPz6CXA7u6LIR3tHy,0.209,0.614,0.593,0.000764,11.0,0.186,-5.647,0.0,0.0264,140.933,3.0,0.233,45.0,5zlnl1lFTTaETmaKci4V6j,virginia indie
+In the Lap of the Gods,Queen,1974.0,7ckS5mJaO4NHwF17MfyVA0,0.408,0.417,0.583,0.0,2.0,0.289,-8.606,1.0,0.037,132.341,3.0,0.502,33.0,1dfeR4HaWDbWqFHLkxsg1d,"classic rock,glam rock,rock"
+The Ring,Queen,1980.0,4ji2Gui5qCPakvQLMH3e1P,0.951,0.343,0.0607,0.944,5.0,0.231,-21.061,0.0,0.0651,73.744,4.0,0.0369,4.0,1dfeR4HaWDbWqFHLkxsg1d,"classic rock,glam rock,rock"
 "Phase by Phase
-Bicentennial Present",Peter Baumann,1976.0,0Lt8Uq2yeAxGDtvgjkMVOQ
-Rubber Lucy,The Hollies,1974.0,5ABn6q3EEYNDGR26Qo90up
+Bicentennial Present",Peter Baumann,1976.0,0Lt8Uq2yeAxGDtvgjkMVOQ,0.712,0.717,0.309,0.912,5.0,0.0336,-18.956,0.0,0.0472,121.311,4.0,0.197,14.0,4u9mLb6exlbHuNehyJ11jq,"berlin school,krautrock"
+Rubber Lucy,The Hollies,1974.0,6yLIqXX9edg1x0HZS7cZEv,0.242,0.279,0.473,0.00164,4.0,0.158,-8.375,0.0,0.0309,167.792,4.0,0.246,67.0,6waa8mKu91GjzD4NlONlNJ,"album rock,british invasion,classic rock,folk rock,mellow gold,merseybeat,soft rock"
 "A Very Smelly, Grubby Little Oik
-Bobbing Wide",Caravan,1976.0,1HeDNroZZXxdRoru0uitkq
-Ain't No Sunshine,Willis Jackson,1972.0,1k1Bqnv2R0uJXQN4u6LKYt
-What's Going On,Les McCann,1973.0,3Um9toULmYFGCpvaIPFw7l
-Flying Easy,Woody Herman,1969.0,28Ku0JK5FGK2tNdfI0rzXz
-Yearning for Your Love,The Gap Band,1980.0,1kSxm4vU26W5xSUdnPUkyB
-El Arriero,Gato Barbieri,2004.0,5c3j46CiZzJd6el5cEFRrX
-Spinning Wheel,Howard Roberts,1969.0,0spSRHFS4zF4Imvz9sJcfL
-Roadwork,Howard Roberts,1971.0,0S4Psy2c3i7HlN9VktcxLt
-The Visit (She Was Here),The Cyrkle,1967.0,5dIcC2RTD2BOHTC1F0jrIN
-The Jam,Graham Central Station,1975.0,1xXNrpcZ7UyKVWiI6GEc75
-Goin' Through Changes,Feather [jazz],1980.0,0ZqWBTU1EkdVPAMwQgfKiv
-Cissy Strut,The Meters,1969.0,0WSlOSMLJWoWUpWci9nnRb
-Folknova,Towa Tei,1995.0,2quj0lAmQxytVLVR1LYQYV
-Not Guilty,Aswad,1983.0,4wFR566qL1SnvzLXAl3PaM
-1984,Anthony Phillips,1981.0,3bDtoQ4yTHITgymcprNlto
-Psyché Rock,Pierre Henry,1967.0,7k9WnM4LOynHKtRxQvmcW1
-I Wanna Stay,Love Unlimited Orchestra,1975.0,1235ZMqKQmnDkIuB89FOZm
-Memory Band,Rotary Connection,1968.0,1FRdZFdPus9rlIogtGg2yW
-Dance with Me,The Louis Hayes Group,1979.0,55rn9bs7vZBsEK4Y4URraH
+Bobbing Wide",Caravan,1976.0,1HeDNroZZXxdRoru0uitkq,0.0623,0.324,0.645,0.108,2.0,0.0928,-10.755,1.0,0.0373,147.918,4.0,0.432,1.0,5kwbFaRKf9HCFGrJPacZ7s,"canterbury scene,flute rock,progressive rock,symphonic rock,zolo"
+Ain't No Sunshine,Willis Jackson,1972.0,1k1Bqnv2R0uJXQN4u6LKYt,0.457,0.527,0.415,1.72e-05,4.0,0.117,-11.451,0.0,0.122,78.169,4.0,0.515,82.0,1ThoqLcyIYvZn7iWbj8fsj,"classic soul,funk,quiet storm,soul"
+What's Going On,Les McCann,1973.0,5mDWpgQcCksNb5nhL9Lf6o,0.438,0.395,0.664,3.56e-05,10.0,0.115,-11.202,1.0,0.0624,153.267,4.0,0.55,13.0,07tYu4BGrfeogBobCefkHI,"jazz funk,jazz piano,soul jazz"
+Flying Easy,Woody Herman,1969.0,4rHjZlNFyBhY6CgjlR5y5W,0.768,0.608,0.416,0.537,5.0,0.223,-9.934,0.0,0.0888,180.125,4.0,0.918,41.0,7CUcJMFBfSARR8js036QOn,"big band,cool jazz,man's orchestra,swing"
+El Arriero,Gato Barbieri,2004.0,5c3j46CiZzJd6el5cEFRrX,0.051,0.467,0.72,0.00789,2.0,0.0705,-10.553,0.0,0.0333,109.695,3.0,0.718,12.0,7dXBi98p0mN5JCpBnU0XEm,"jazz saxophone,latin soundtrack"
+Spinning Wheel,Howard Roberts,1969.0,0spSRHFS4zF4Imvz9sJcfL,0.315,0.695,0.503,2.47e-05,7.0,0.261,-9.313,1.0,0.0605,96.818,4.0,0.542,50.0,24GaH9tRBgZjlvOhpFuKi2,"album rock,blues rock,classic rock,country rock,folk,folk rock,heartland rock,jazz rock,mellow gold,singer-songwriter,soft rock"
+Roadwork,Howard Roberts,1971.0,0S4Psy2c3i7HlN9VktcxLt,0.319,0.694,0.219,0.833,10.0,0.098,-19.82,1.0,0.0934,81.955,4.0,0.803,47.0,31dzqfP4E1mlWfuSGYENRF,
+The Visit (She Was Here),The Cyrkle,1967.0,5dIcC2RTD2BOHTC1F0jrIN,0.714,0.696,0.133,9.66e-06,7.0,0.11,-20.836,1.0,0.0387,116.456,4.0,0.653,44.0,4qnb4cn5aykCACoyuCirGg,"classic garage rock,sunshine pop"
+Goin' Through Changes,Feather [jazz],1980.0,0ZqWBTU1EkdVPAMwQgfKiv,0.0197,0.693,0.899,0.0,0.0,0.0594,-4.084,1.0,0.259,86.048,4.0,0.319,58.0,7dGJo4pcD2V6oG8kP0tJRR,"detroit hip hop,hip hop,rap"
+Cissy Strut,The Meters,1969.0,0WSlOSMLJWoWUpWci9nnRb,0.172,0.507,0.763,0.886,0.0,0.324,-12.732,1.0,0.0945,176.193,4.0,0.708,63.0,2JRvXPGWiINrnJljNJhG5s,"funk,instrumental soul,jazz funk,new orleans funk,soul"
+Folknova,Towa Tei,1995.0,2quj0lAmQxytVLVR1LYQYV,0.103,0.689,0.873,0.0227,5.0,0.078,-8.492,1.0,0.0523,89.92,4.0,0.785,41.0,5FLbE1s9bnHwJhmngtVXpD,"japanese jazztronica,shibuya-kei"
+Not Guilty,Aswad,1983.0,4wFR566qL1SnvzLXAl3PaM,0.173,0.746,0.619,5.52e-06,2.0,0.975,-13.786,0.0,0.176,137.95,4.0,0.71,27.0,55LyOQNIa9J8wX6y6eJfc0,"reggae,roots reggae,uk reggae"
+1984,Anthony Phillips,1981.0,3bDtoQ4yTHITgymcprNlto,0.0292,0.292,0.381,0.318,1.0,0.106,-12.845,1.0,0.0321,151.34,4.0,0.101,4.0,6VWHWGvsfZm3cOsRCOqwq6,"progressive rock,symphonic rock"
+Psyché Rock,Pierre Henry,1967.0,7k9WnM4LOynHKtRxQvmcW1,0.0139,0.643,0.974,0.868,9.0,0.424,-7.291,1.0,0.0764,106.712,4.0,0.447,20.0,5ITPNl5P6R6cFbw4DAcMAY,"acousmatic,electroacoustic composition,musique concrete,vintage french electronic"
+I Wanna Stay,Love Unlimited Orchestra,1975.0,1235ZMqKQmnDkIuB89FOZm,0.174,0.731,0.705,0.822,5.0,0.0584,-8.447,1.0,0.033,111.088,4.0,0.812,11.0,457yGSZecENoIuNWelRHhH,"classic soul,disco,post-disco"
+Memory Band,Rotary Connection,1968.0,1FRdZFdPus9rlIogtGg2yW,0.00642,0.517,0.419,0.879,5.0,0.218,-14.858,0.0,0.0286,109.683,4.0,0.518,29.0,3dGTi4MZZo4zXdQaKAS1va,"classic soul,jazz funk,psychedelic soul"
+Dance with Me,The Louis Hayes Group,1979.0,55rn9bs7vZBsEK4Y4URraH,0.816,0.593,0.275,0.0115,6.0,0.108,-15.25,0.0,0.0638,114.82,4.0,0.363,70.0,2jjSx5EpZwv9iBAgFkGWPh,"lo-fi chill,sad lo-fi"
 "Out-Bloody-Rageous
-Facelift",Soft Machine,1970.0,217OtUDWJLZOjV86zVucNq
-Joy of a Toy,The Soft Machine,1968.0,2mtc4jXbgV3nm8UPN2O7sk
+Facelift",Soft Machine,1970.0,217OtUDWJLZOjV86zVucNq,0.934,0.234,0.51,0.802,7.0,0.0993,-11.181,0.0,0.0431,87.58,3.0,0.202,19.0,5A0MH7JfEBEMySevsmauds,"art rock,canterbury scene,experimental,jazz fusion,jazz rock,progressive rock,psychedelic rock,zolo"
+Joy of a Toy,The Soft Machine,1968.0,2mtc4jXbgV3nm8UPN2O7sk,0.755,0.447,0.305,0.945,2.0,0.1,-14.745,1.0,0.0428,136.801,4.0,0.512,32.0,5A0MH7JfEBEMySevsmauds,"art rock,canterbury scene,experimental,jazz fusion,jazz rock,progressive rock,psychedelic rock,zolo"
 "Talybont
-Free Hand",Gentle Giant,1975.0,54mXbm9QBXdaO8sPqVmd5L
-Solstice,Brian Bennett,1978.0,6zaXiO68HYdJZY8skqLjSG
-Leaves,Pete Jolly,1970.0,4nmGUWkn6ZL9pMmd5eKo6l
-Come with Me,Cheri,1982.0,20knH2CFE0me7lUYfAa4BX
-Hot Caramel,The Peppers,1974.0,1ld4mTWlY1bM4X7dXn2dcn
-Asiko,Tony Allen,1999.0,64zMGjB84MdfYbNs2RxwBC
-S.U.S.,Placebo,1974.0,6m3T4RHAMaSIKUDsxko43y
-Bolkwush,Placebo,1973.0,2JO2yRUam1GnnywK1Pozop
-Humpty Dumpty,Placebo,1971.0,6Pay1MRTDwHol3hrnZ3vti
-Synthetic Substitution,Melvin Bliss,1973.0,4SJTFnmmfxotIdw2psMeDp
-E=MC²,Giorgio,1979.0,None
-Don't Say Goodnight,The Isley Brothers,1980.0,02dGwHk2iMUTqvByaxqZSn
-Mask,Vangelis,1985.0,3IxMaULfjq4IT2IN6v54PB
-The Changing World,George Benson,1974.0,62GYoGszQfROZswLee6W3O
-Equipoise,Stanley Cowell,1974.0,0fZQHYizQZ3aj5xfNMi4BI
-Light/Sun,Jan Hammer,1975.0,4xXTGXt6Y93QE7WoxiBWBX
-Nothing's the Same,Banco,1975.0,7vRia9rlEuTDQxkfXIKySi
-The Horns of Rohan,Bo Hansson,1972.0,6nNRqkUf1mAmCrvEkQxVXO
-Tight Rope,"Walter ""Junie"" Morrison",1975.0,2Z3EEql0jVgA5jehoWYT7P
-Sugar,Rahsaan Roland Kirk,1977.0,1EVl0MvpL3S1Kw04XR7OcL
+Free Hand",Gentle Giant,1975.0,54mXbm9QBXdaO8sPqVmd5L,0.274,0.548,0.492,0.699,4.0,0.162,-10.752,0.0,0.0336,90.387,3.0,0.579,14.0,1hrQ50kU6hMQBVLatqUqnO,"progressive rock,symphonic rock,zolo"
+Solstice,Brian Bennett,1978.0,0CgsVuNGzNotCFlMsGVYnk,0.0452,0.672,0.39,0.606,2.0,0.0576,-13.465,0.0,0.0403,90.231,4.0,0.592,8.0,0WP1sO0RYZHeJyd8PLSRBp,"library music,spytrack"
+Leaves,Pete Jolly,1970.0,4nmGUWkn6ZL9pMmd5eKo6l,0.995,0.805,0.00495,0.076,0.0,0.0981,-25.797,1.0,0.0494,133.125,3.0,0.188,27.0,1dUvwL9aCbVrB2UMFAHp0i,space age pop
+Come with Me,Cheri,1982.0,16frIpnyUb9poRwQxQTmaC,0.16,0.876,0.565,0.0284,11.0,0.114,-6.569,0.0,0.0333,111.936,4.0,0.931,71.0,4ETSs924pXMzjIeD6E9b4u,bedroom soul
+Hot Caramel,The Peppers,1974.0,1ld4mTWlY1bM4X7dXn2dcn,0.011,0.693,0.871,0.21,2.0,0.107,-5.953,1.0,0.13,183.971,4.0,0.591,7.0,5SxIUBREvjEssg9HCWef4m,
+Asiko,Tony Allen,1999.0,64zMGjB84MdfYbNs2RxwBC,0.00462,0.822,0.809,0.718,10.0,0.179,-7.677,0.0,0.074,119.85,4.0,0.741,20.0,6JpZEemWmunccsrHXFUOgi,"afrobeat,afropop,world"
+S.U.S.,Placebo,1974.0,1a20QUimSwgqSjWYFFUF1G,0.899,0.147,0.0015,0.971,9.0,0.105,-41.096,1.0,0.0767,135.981,5.0,0.0329,69.0,1IM8iJAfKOjMCKp7UJGAP9,
+Bolkwush,Placebo,1973.0,2JO2yRUam1GnnywK1Pozop,0.08,0.513,0.466,0.748,7.0,0.0852,-12.431,0.0,0.0356,114.251,4.0,0.321,10.0,56SqjNFHn8y9xCdyOUbBs8,
+Humpty Dumpty,Placebo,1971.0,6Pay1MRTDwHol3hrnZ3vti,0.63,0.67,0.497,0.925,10.0,0.101,-10.221,0.0,0.0301,102.644,4.0,0.533,33.0,56SqjNFHn8y9xCdyOUbBs8,
+Synthetic Substitution,Melvin Bliss,1973.0,2o41jDa4T0QKF9804tqyka,0.857,0.243,0.0727,0.874,3.0,0.107,-22.296,1.0,0.0297,81.579,4.0,0.151,52.0,5LHH9TZxgk0aHI38pfmqGy,
+E=MC²,Giorgio,1979.0,None,,,,,,,,,,,,,,,
+"I Like the Way You Love Me
+Gimme Little Sign",Brenton Wood,1967.0,0DhRYHKuBkhd4euzZ1JmWV,0.81,0.477,0.267,0.0,0.0,0.336,-8.625,1.0,0.0301,152.039,3.0,0.667,40.0,6ohvzFHYmLd05kyYhLui5K,souldies
+Mask,Vangelis,1985.0,3IxMaULfjq4IT2IN6v54PB,0.195,0.636,0.749,0.0,1.0,0.107,-4.197,1.0,0.0631,117.904,4.0,0.653,61.0,6LArUyIoMiHmDvvOAsE2cd,"pixel,pov: indie"
+Ocapella,Ringo Starr,1974.0,1hxbW2aQxmFSChaFeOeD5K,0.084,0.753,0.244,2.82e-06,10.0,0.0607,-19.395,1.0,0.253,83.703,4.0,0.928,34.0,6DbJi8AcN5ANdtvJcwBSw8,"beatlesque,classic rock,rock drums"
+Equipoise,Stanley Cowell,1974.0,0fZQHYizQZ3aj5xfNMi4BI,0.826,0.509,0.364,0.897,11.0,0.119,-15.547,0.0,0.0405,140.285,4.0,0.371,12.0,08t8fsEfRI7HSt2MlW2OTX,spiritual jazz
+Nothing's the Same,Banco,1975.0,3vSLSOhE8HWBC2WiN0j0hD,0.492,0.736,0.308,0.00248,11.0,0.179,-11.543,1.0,0.0421,132.767,4.0,0.439,54.0,6sFHvCyqklnJpXC9Nh1aag,alt z
+Tight Rope,"Walter ""Junie"" Morrison",1975.0,2Z3EEql0jVgA5jehoWYT7P,0.122,0.783,0.702,3.93e-05,2.0,0.0501,-10.215,0.0,0.0517,103.665,4.0,0.949,17.0,3shcoEVk22LlHqZHyJtZWn,p funk
+Sugar,Rahsaan Roland Kirk,1977.0,40jkZfOGxDcIRgNz9nEoZ7,0.975,0.453,0.0474,0.688,0.0,0.131,-19.864,1.0,0.0399,105.345,4.0,0.333,52.0,7De2eIqeHTw091YeAkkYXV,"contemporary post-bop,free jazz,jazz saxophone"
